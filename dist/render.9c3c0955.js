@@ -1972,7 +1972,7 @@ var _default = {
           "translated": "crwdns6388139:0crwdne6388139:0",
           "source": "Sign out"
         },
-        "comment": "id:action_logout\nButton text for logging out\nUsed in the following files:\nFile: /Settings/SettingsHeader.js\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:action_logout\nButton text for logging out\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
       },
       "are_you_sure_sign_out": {
         "form": {
@@ -4788,7 +4788,7 @@ var _default = {
           "translated": "crwdns6388723:0crwdne6388723:0",
           "source": "Course summary"
         },
-        "comment": "id:course_summary\nTitle for a list of units that a learner can study\nUsed in the following files:\nFile: /Course/UnitList/Cells.js"
+        "comment": "id:course_summary\nTitle for a list of units that a learner can study\nUsed in the following files:\nFile: /Course/UnitList/index.js"
       },
       "more": {
         "form": {
@@ -5549,6 +5549,14 @@ var _default = {
           "source": "Privacy policy"
         },
         "comment": "id:settings_privacy_policy\nCell title that links out to Khan Academy's privacy-policy page.\nUsed in the following files:\nFile: /Settings/utils.js"
+      },
+      "settings_delete_account": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7119467:0crwdne7119467:0",
+          "source": "Delete account"
+        },
+        "comment": "id:settings_delete_account\nCell title that links out to Khan Academy to delete your account.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
       },
       "settings_energy_points": {
         "form": {
@@ -6652,6 +6660,18 @@ var _default = {
         }],
         "comment": "id:explore_assignments\nHeader for the Explore Screen's Assignment Section (the section listing the user's assignments)\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
       },
+      "explore_assignments_additional": {
+        "forms": [{
+          "translated": "crwdns7119469:1%(num)dcrwdne7119469:1",
+          "source": "Assignment (%(num)d+)",
+          "status": "approved"
+        }, {
+          "translated": "crwdns7119469:5%(num)dcrwdne7119469:5",
+          "source": "Assignments (%(num)d+)",
+          "status": "approved"
+        }],
+        "comment": "id:explore_assignments_additional\nHeader for the Explore Screen's Assignment Section (the section listing the user's assignments) when there are additional assignments to load.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+      },
       "quiz_shelf_description": {
         "forms": [{
           "translated": "crwdns6388413:1%(num)dcrwdne6388413:1",
@@ -7453,4 +7473,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.85932f5e.js.map
+//# sourceMappingURL=/render.9c3c0955.js.map
