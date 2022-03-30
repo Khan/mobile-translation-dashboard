@@ -6964,12 +6964,12 @@ var _default = {
     "mastery_challenge_description": ["Course__Cards__MasteryChallengeCard.js.fixture.js--phoneStarting"],
     "inexact_resumable_mastery_challenge_description": ["Course__Cards__MasteryChallengeCard.js.fixture.js--phoneResumingInexact"],
     "resume": ["Course__Cards__MasteryChallengeCard.js.fixture.js--phoneResumingInexact"],
-    "explore_recent_lessons": ["Explore__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading", "Explore__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty", "Explore__Sections__RecentLessons__RecentLessonsCard.fixture.js--one_missing"],
-    "explore_loading_recent_lessons": ["Explore__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading"],
-    "explore_no_recent_lessons": ["Explore__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty"],
-    "explore_welcome_ready_to_start": ["Explore__Sections__Welcome__WelcomeCard.fixture.js--phone", "Explore__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
-    "explore_sign_in_prompt": ["Explore__Sections__Welcome__WelcomeCard.fixture.js--phone", "Explore__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
-    "action_login": ["Explore__Sections__Welcome__WelcomeCard.fixture.js--phone", "Explore__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
+    "explore_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--one_missing"],
+    "explore_loading_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading"],
+    "explore_no_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty"],
+    "explore_welcome_ready_to_start": ["Home__Sections__Welcome__WelcomeCard.fixture.js--phone", "Home__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
+    "explore_sign_in_prompt": ["Home__Sections__Welcome__WelcomeCard.fixture.js--phone", "Home__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
+    "action_login": ["Home__Sections__Welcome__WelcomeCard.fixture.js--phone", "Home__Sections__Welcome__WelcomeCard.fixture.js--tablet"],
     "add_a_teacher": ["ManageCoaches__TeacherList.js.fixture.js--loading", "ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "manage_teachers_district_footer ": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "learn_more_sentence": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
@@ -7474,4 +7474,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.3dbc7fe8.js.map
+//# sourceMappingURL=/render.97a330cb.js.map
