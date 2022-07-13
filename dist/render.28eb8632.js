@@ -1260,7 +1260,7 @@ var _default = {
           "translated": "crwdns6388025:0crwdne6388025:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /AppUpdateMessage/WhatsNewView.js\nFile: /BookmarksScreen/Cells/BookmarkCell.js\nFile: /BookmarksScreen/download-utils.js\nFile: /Explore/Sections/UrgentBanner/UrgentBannerCard.js\nFile: /ManageCoaches/CoachListScene.js\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.js\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/components/NavBar.js\nFile: /wonderblocks-doctoral-candidates/WarningBanner.js"
+        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /AppUpdateMessage/WhatsNewView.js\nFile: /BookmarksScreen/Cells/BookmarkCell.js\nFile: /BookmarksScreen/download-utils.js\nFile: /Home/Sections/UrgentBanner/UrgentBannerCard.js\nFile: /ManageCoaches/CoachListScene.js\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.js\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/components/NavBar.js\nFile: /wonderblocks-doctoral-candidates/WarningBanner.js"
       },
       "error_title": {
         "form": {
@@ -1268,7 +1268,7 @@ var _default = {
           "translated": "crwdns6388027:0crwdne6388027:0",
           "source": "Error retrieving data"
         },
-        "comment": "id:error_title\nTitle for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
+        "comment": "id:error_title\nTitle for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
       },
       "error_body": {
         "form": {
@@ -1276,7 +1276,7 @@ var _default = {
           "translated": "crwdns6388029:0crwdne6388029:0",
           "source": "We encountered an error while attempting to retrieve your data; please try again later."
         },
-        "comment": "id:error_body\nMessage for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
+        "comment": "id:error_body\nMessage for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
       },
       "error": {
         "form": {
@@ -1348,7 +1348,7 @@ var _default = {
           "translated": "crwdns6388033:0crwdne6388033:0",
           "source": "Kids ages 2-8 can learn math, reading, and more, while practicing English."
         },
-        "comment": "id:khan_kids_upsell_message\nMessage for our Khan kids upsell on the explore screen. NOTE do not change \"English\" into the name of the localized language - translate as-is.\nUsed in the following files:\nFile: /Explore/Sections/KhanKids/KhanKidsCard.js"
+        "comment": "id:khan_kids_upsell_message\nMessage for our Khan kids upsell on the explore screen. NOTE do not change \"English\" into the name of the localized language - translate as-is.\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.js"
       },
       "download_now": {
         "form": {
@@ -1356,7 +1356,7 @@ var _default = {
           "translated": "crwdns6388035:0crwdne6388035:0",
           "source": "Download now"
         },
-        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Explore/Sections/KhanKids/KhanKidsCard.js"
+        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.js"
       },
       "curriculum_picker_message": {
         "form": {
@@ -1364,7 +1364,7 @@ var _default = {
           "translated": "crwdns6450911:0crwdne6450911:0",
           "source": "Khan Academy supports many languages and regions."
         },
-        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
       },
       "select_language": {
         "form": {
@@ -1372,7 +1372,7 @@ var _default = {
           "translated": "crwdns6450913:0crwdne6450913:0",
           "source": "Select language"
         },
-        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
       },
       "change_language_settings": {
         "form": {
@@ -1380,7 +1380,7 @@ var _default = {
           "translated": "crwdns6450915:0crwdne6450915:0",
           "source": "Change this later in settings"
         },
-        "comment": "id:change_language_settings\nAlert header when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:change_language_settings\nAlert header when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
       },
       "change_language_settings_text": {
         "form": {
@@ -1388,7 +1388,7 @@ var _default = {
           "translated": "crwdns6450917:0crwdne6450917:0",
           "source": "If you need to change the language later, you can do that in Profile > Settings."
         },
-        "comment": "id:change_language_settings_text\nAlert text when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:change_language_settings_text\nAlert text when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
       },
       "explore_welcome_ready_to_start": {
         "form": {
@@ -1396,7 +1396,7 @@ var _default = {
           "translated": "crwdns6388037:0crwdne6388037:0",
           "source": "Ready to start learning?"
         },
-        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Explore Screen's Welcome Card\nUsed in the following files:\nFile: /Explore/Sections/Welcome/WelcomeCard.js"
+        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Home Screen's Welcome Card\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js"
       },
       "explore_sign_in_prompt": {
         "form": {
@@ -1404,7 +1404,7 @@ var _default = {
           "translated": "crwdns6821718:0crwdne6821718:0",
           "source": "Log in or sign up to save your progress as you work through courses on Khan Academy."
         },
-        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Explore Screen's Welcome Card.\nUsed in the following files:\nFile: /Explore/Sections/Welcome/WelcomeCard.js"
+        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Home Screen's Welcome Card.\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js"
       },
       "explore_domains_browse_khan": {
         "form": {
@@ -1412,7 +1412,7 @@ var _default = {
           "translated": "crwdns6388041:0crwdne6388041:0",
           "source": "Browse Khan Academy"
         },
-        "comment": "id:explore_domains_browse_khan\nHeader for the Explore Screen's Domain Section, the section listing the different learning domains (eg. Math, Science, Arts and humanities)\nUsed in the following files:\nFile: /Explore/Sections/Domains/DomainsCard.js"
+        "comment": "id:explore_domains_browse_khan\nHeader for the Home Screen's Domain Section, the section listing the different learning domains (eg. Math, Science, Arts and humanities)\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
       },
       "explore_my_courses": {
         "form": {
@@ -1420,7 +1420,7 @@ var _default = {
           "translated": "crwdns6388047:0crwdne6388047:0",
           "source": "My courses"
         },
-        "comment": "id:explore_my_courses\nHeader for the Explore Screen's My Courses Section (the section listing the user's 'bookmarked' courses)\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_my_courses\nHeader for the Home Screen's My Courses Section (the section listing the user's 'bookmarked' courses)\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
       },
       "explore_base_card_error_try_again": {
         "form": {
@@ -1428,7 +1428,7 @@ var _default = {
           "translated": "crwdns6388049:0crwdne6388049:0",
           "source": "Try again"
         },
-        "comment": "id:explore_base_card_error_try_again\nButton title shown on Try Again button there was an error loading an Explore Screen card's data\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.js"
+        "comment": "id:explore_base_card_error_try_again\nButton title shown on Try Again button there was an error loading an Home Screen card's data\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.js"
       },
       "explore_loading_assignments": {
         "form": {
@@ -1436,7 +1436,7 @@ var _default = {
           "translated": "crwdns6399415:0crwdne6399415:0",
           "source": "Loading your assignments..."
         },
-        "comment": "id:explore_loading_assignments\nString shown in Assignment Card on Explore Screen assignments are loading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /ClassDetails/ClassDetailsScreen.js"
+        "comment": "id:explore_loading_assignments\nString shown in Assignment Card on Home Screen assignments are loading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /ClassDetails/ClassDetailsScreen.js"
       },
       "explore_loading_domains": {
         "form": {
@@ -1444,7 +1444,7 @@ var _default = {
           "translated": "crwdns6399417:0crwdne6399417:0",
           "source": "Loading your domains..."
         },
-        "comment": "id:explore_loading_domains\nString shown in Domain Card on Explore Screen when domains are loading and the card is empty\nUsed in the following files:\nFile: /Explore/Sections/Domains/DomainsCard.js"
+        "comment": "id:explore_loading_domains\nString shown in Domain Card on Home Screen when domains are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
       },
       "explore_loading_my_courses": {
         "form": {
@@ -1452,7 +1452,7 @@ var _default = {
           "translated": "crwdns6399419:0crwdne6399419:0",
           "source": "Loading your courses..."
         },
-        "comment": "id:explore_loading_my_courses\nString shown in My Courses Card on Explore Screen when my courses are loading and the card is empty\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_loading_my_courses\nString shown in My Courses Card on Home Screen when my courses are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
       },
       "explore_loading_my_classes": {
         "form": {
@@ -1460,7 +1460,7 @@ var _default = {
           "translated": "crwdns6821720:0crwdne6821720:0",
           "source": "Loading your classes..."
         },
-        "comment": "id:explore_loading_my_classes\nString shown in My Classes Card on Explore Screen when my classes are loading and the card is empty\nUsed in the following files:\nFile: /Explore/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:explore_loading_my_classes\nString shown in My Classes Card on Home Screen when my classes are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
       },
       "explore_loading_course_mastery": {
         "form": {
@@ -1468,7 +1468,7 @@ var _default = {
           "translated": "crwdns6399421:0crwdne6399421:0",
           "source": "Loading Course Mastery..."
         },
-        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Explore Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.js"
+        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Home Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.js"
       },
       "explore_loading_kmap": {
         "form": {
@@ -1476,7 +1476,7 @@ var _default = {
           "translated": "crwdns6399423:0crwdne6399423:0",
           "source": "Loading your MAP Accelerator..."
         },
-        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Explore Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedKmapCard.js"
+        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Home Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedKmapCard.js"
       },
       "explore_no_assignments_explore_title": {
         "form": {
@@ -1500,7 +1500,7 @@ var _default = {
           "translated": "crwdns6388069:0crwdne6388069:0",
           "source": "See all"
         },
-        "comment": "id:see_all\nTitle for button that takes user to see all assignments/bookmarks/etc.\nUsed in the following files:\nFile: /Explore/components/SeeAllButton.js"
+        "comment": "id:see_all\nTitle for button that takes user to see all assignments/bookmarks/etc.\nUsed in the following files:\nFile: /Home/components/SeeAllButton.js"
       },
       "explore_no_my_courses_button": {
         "form": {
@@ -1508,7 +1508,7 @@ var _default = {
           "translated": "crwdns6388071:0crwdne6388071:0",
           "source": "Get started"
         },
-        "comment": "id:explore_no_my_courses_button\nDisplayed on button in the My Courses Card when there are no assignments\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_no_my_courses_button\nDisplayed on button in the My Courses Card when there are no assignments\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
       },
       "explore_no_my_courses_2": {
         "form": {
@@ -1516,7 +1516,7 @@ var _default = {
           "translated": "crwdns6388075:0crwdne6388075:0",
           "source": "Pick a few courses, and we’ll keep them on your home screen for quick access."
         },
-        "comment": "id:explore_no_my_courses_2\nDisplayed in the My Courses Card when there are no selected courses\nUsed in the following files:\nFile: /Explore/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_no_my_courses_2\nDisplayed in the My Courses Card when there are no selected courses\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
       },
       "domain_screen_nav_button_home": {
         "form": {
@@ -1524,7 +1524,7 @@ var _default = {
           "translated": "crwdns6388077:0crwdne6388077:0",
           "source": "Home"
         },
-        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Explore Screen."
+        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Home Screen."
       },
       "explore_recent_lessons": {
         "form": {
@@ -1532,7 +1532,7 @@ var _default = {
           "translated": "crwdns6399425:0crwdne6399425:0",
           "source": "Recent lessons"
         },
-        "comment": "id:explore_recent_lessons\nTitle of a card showing the lessons that the user has recently interacted with\nUsed in the following files:\nFile: /Explore/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_recent_lessons\nTitle of a card showing the lessons that the user has recently interacted with\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
       },
       "surprise_me": {
         "form": {
@@ -1540,7 +1540,7 @@ var _default = {
           "translated": "crwdns6388081:0crwdne6388081:0",
           "source": "Surprise me!"
         },
-        "comment": "id:surprise_me\nText for a button that will take you to a random video or article from the whole content library\nUsed in the following files:\nFile: /Explore/Sections/Domains/DomainsCard.js"
+        "comment": "id:surprise_me\nText for a button that will take you to a random video or article from the whole content library\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
       },
       "explore_no_recent_lessons": {
         "form": {
@@ -1548,7 +1548,7 @@ var _default = {
           "translated": "crwdns6399427:0crwdne6399427:0",
           "source": "No recent lessons"
         },
-        "comment": "id:explore_no_recent_lessons\nIndicates that the user has no recent lessons (generally because they haven't viewed any videos yet)\nUsed in the following files:\nFile: /Explore/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_no_recent_lessons\nIndicates that the user has no recent lessons (generally because they haven't viewed any videos yet)\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
       },
       "explore_loading_recent_lessons": {
         "form": {
@@ -1556,7 +1556,7 @@ var _default = {
           "translated": "crwdns6399429:0crwdne6399429:0",
           "source": "Loading your recent lessons..."
         },
-        "comment": "id:explore_loading_recent_lessons\nString shown in Recent Lesson Card on Explore Screen when recent lessons are loading and the card is empty\nUsed in the following files:\nFile: /Explore/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_loading_recent_lessons\nString shown in Recent Lesson Card on Home Screen when recent lessons are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
       },
       "loading_state_wrapper_default_error_message": {
         "form": {
@@ -1580,7 +1580,7 @@ var _default = {
           "translated": "crwdns6499501:0crwdne6499501:0",
           "source": "Error loading content"
         },
-        "comment": "id:explore_header_error_alert_title\nTitle on an alert on the Explore Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Explore/components/ExploreHeader.js"
+        "comment": "id:explore_header_error_alert_title\nTitle on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.js"
       },
       "explore_header_error_alert_body": {
         "form": {
@@ -1588,7 +1588,7 @@ var _default = {
           "translated": "crwdns6499503:0crwdne6499503:0",
           "source": "We were unable to load the latest content."
         },
-        "comment": "id:explore_header_error_alert_body\nBody on an alert on the Explore Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Explore/components/ExploreHeader.js"
+        "comment": "id:explore_header_error_alert_body\nBody on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.js"
       },
       "explore_my_classes_upsell_title": {
         "form": {
@@ -1596,7 +1596,7 @@ var _default = {
           "translated": "crwdns6821722:0crwdne6821722:0",
           "source": "Need to add a class?"
         },
-        "comment": "id:explore_my_classes_upsell_title\nTitle on a home screen card asking if a learner needs to join a class.\nUsed in the following files:\nFile: /Explore/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_title\nTitle on a home screen card asking if a learner needs to join a class.\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
       },
       "explore_my_classes_upsell_description": {
         "form": {
@@ -1604,7 +1604,7 @@ var _default = {
           "translated": "crwdns6821724:0crwdne6821724:0",
           "source": "Add your teacher with their class code or email address."
         },
-        "comment": "id:explore_my_classes_upsell_description\nDescription on a home screen card explaining that a learner can join a class via a code or the teacher's email address\nUsed in the following files:\nFile: /Explore/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_description\nDescription on a home screen card explaining that a learner can join a class via a code or the teacher's email address\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
       },
       "explore_my_classes_upsell_button": {
         "form": {
@@ -1612,7 +1612,7 @@ var _default = {
           "translated": "crwdns6821726:0crwdne6821726:0",
           "source": "Join class"
         },
-        "comment": "id:explore_my_classes_upsell_button\nButton title to join a class\nUsed in the following files:\nFile: /Explore/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_button\nButton title to join a class\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
       },
       "expand_courses_button_text": {
         "form": {
@@ -1716,7 +1716,7 @@ var _default = {
           "translated": "crwdns6821728:0crwdne6821728:0",
           "source": "My classes"
         },
-        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Explore/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
       },
       "active_classes": {
         "form": {
@@ -1780,7 +1780,7 @@ var _default = {
           "translated": "crwdns6821744:0crwdne6821744:0",
           "source": "No active classes"
         },
-        "comment": "id:no_active_classes\nEmpty-state title for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Explore/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:no_active_classes\nEmpty-state title for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
       },
       "no_active_classes_subtitle": {
         "form": {
@@ -1788,7 +1788,7 @@ var _default = {
           "translated": "crwdns6821746:0crwdne6821746:0",
           "source": "You don’t have any active classes right now."
         },
-        "comment": "id:no_active_classes_subtitle\nEmpty-state subtitle for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Explore/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:no_active_classes_subtitle\nEmpty-state subtitle for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
       },
       "five_plus_assignments": {
         "form": {
@@ -1844,7 +1844,7 @@ var _default = {
           "translated": "crwdns6821760:0crwdne6821760:0",
           "source": "Add a class"
         },
-        "comment": "id:add_a_class\nTitle for a button that adds a class for the learner.\nUsed in the following files:\nFile: /Explore/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:add_a_class\nTitle for a button that adds a class for the learner.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
       },
       "last_due_date": {
         "form": {
@@ -1860,7 +1860,7 @@ var _default = {
           "translated": "crwdns6388089:0crwdne6388089:0",
           "source": "Lessons"
         },
-        "comment": "id:lessons\nTitle of table-of-contents that lists lessons within a unit.\nUsed in the following files:\nFile: /Unit/UnitScreenTabletLeftHandList.js"
+        "comment": "id:lessons\nTitle of table-of-contents that lists lessons within a unit.\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       },
       "course_challenge_card_test_your_knowledge": {
         "form": {
@@ -1940,7 +1940,7 @@ var _default = {
           "translated": "crwdns6388129:0crwdne6388129:0",
           "source": "OK"
         },
-        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js\nFile: /Explore/components/ExploreHeader.js\nFile: /Languages/LanguageList.js"
+        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js\nFile: /Home/components/HomeHeader.js\nFile: /Languages/LanguageList.js"
       },
       "unit_title_prefix": {
         "form": {
@@ -1964,7 +1964,7 @@ var _default = {
           "translated": "crwdns6388137:0crwdne6388137:0",
           "source": "Sign in"
         },
-        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Explore/Sections/Welcome/WelcomeCard.js\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
       },
       "action_logout": {
         "form": {
@@ -1988,7 +1988,7 @@ var _default = {
           "translated": "crwdns6388141:0crwdne6388141:0",
           "source": "Try again"
         },
-        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /Explore/components/ExploreHeader.js\nFile: /Task/Exercise/ActionBar/Button.js\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /Home/components/HomeHeader.js\nFile: /Task/Exercise/ActionBar/Button.js\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
       },
       "settings_icon": {
         "form": {
@@ -2956,7 +2956,7 @@ var _default = {
           "translated": "crwdns6388293:0crwdne6388293:0",
           "source": "Edit"
         },
-        "comment": "id:edit\nLabel for a button that allows a user to edit a list of items.\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /Explore/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:edit\nLabel for a button that allows a user to edit a list of items.\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
       },
       "undownload": {
         "form": {
@@ -3428,7 +3428,7 @@ var _default = {
           "translated": "crwdns6388433:0crwdne6388433:0",
           "source": "Unit test"
         },
-        "comment": "id:unit_test\nTitle for a unit test\nUsed in the following files:\nFile: /Unit/UnitScreenTabletLeftHandList.js\nFile: /shared/components/ContentThumbnail.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:unit_test\nTitle for a unit test\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js\nFile: /shared/components/ContentThumbnail.js\nFile: /shared/native/NavigationModule.js"
       },
       "level_up_in_the_skills_above": {
         "form": {
@@ -3436,7 +3436,7 @@ var _default = {
           "translated": "crwdns6388437:0crwdne6388437:0",
           "source": "Level up in the skills above"
         },
-        "comment": "id:level_up_in_the_skills_above\nSubtitle on a quiz cell, which improves your mastery-level in the skills above it\nUsed in the following files:\nFile: /Unit/UnitScreenTabletLeftHandList.js"
+        "comment": "id:level_up_in_the_skills_above\nSubtitle on a quiz cell, which improves your mastery-level in the skills above it\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       },
       "nice_work": {
         "form": {
@@ -4780,7 +4780,7 @@ var _default = {
           "translated": "crwdns6388719:0crwdne6388719:0",
           "source": "Skill summary"
         },
-        "comment": "id:skill_summary\nTitle for a list of skills that a learner can study\nUsed in the following files:\nFile: /Unit/UnitScreenTabletLeftHandList.js"
+        "comment": "id:skill_summary\nTitle for a list of skills that a learner can study\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       },
       "course_summary": {
         "form": {
@@ -5252,7 +5252,7 @@ var _default = {
           "translated": "crwdns6388841:0crwdne6388841:0",
           "source": "You can learn anything"
         },
-        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Explore/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
       },
       "master_skills_using_practice_questions": {
         "form": {
@@ -6646,7 +6646,7 @@ var _default = {
           "source": "%(quiz_name)s: %(num)s questions",
           "status": "approved"
         }],
-        "comment": "id:tablet_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenTabletLeftHandList.js"
+        "comment": "id:tablet_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       },
       "explore_assignments": {
         "forms": [{
@@ -6658,7 +6658,7 @@ var _default = {
           "source": "Assignments (%(num)d)",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments\nHeader for the Explore Screen's Assignment Section (the section listing the user's assignments)\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments)\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
       },
       "explore_assignments_additional": {
         "forms": [{
@@ -6670,7 +6670,7 @@ var _default = {
           "source": "Assignments (%(num)d+)",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments_additional\nHeader for the Explore Screen's Assignment Section (the section listing the user's assignments) when there are additional assignments to load.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments_additional\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments) when there are additional assignments to load.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
       },
       "quiz_shelf_description": {
         "forms": [{
@@ -7462,4 +7462,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.da7275ca.js.map
+//# sourceMappingURL=/render.28eb8632.js.map
