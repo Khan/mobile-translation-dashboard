@@ -2028,7 +2028,7 @@ var _default = {
           "translated": "crwdns6388149:0crwdne6388149:0",
           "source": "Settings"
         },
-        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "assignments": {
         "form": {
@@ -2476,7 +2476,7 @@ var _default = {
           "translated": "crwdns6388223:0crwdne6388223:0",
           "source": "Create"
         },
-        "comment": "id:create\nA button used to create a new account."
+        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\n"
       },
       "default_error": {
         "form": {
@@ -5092,7 +5092,7 @@ var _default = {
           "translated": "crwdns6388799:0crwdne6388799:0",
           "source": "Info"
         },
-        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "add_accessibility_label": {
         "form": {
@@ -5100,7 +5100,7 @@ var _default = {
           "translated": "crwdns6388801:0crwdne6388801:0",
           "source": "Add"
         },
-        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "caret_down_accessibility_label": {
         "form": {
@@ -5140,7 +5140,7 @@ var _default = {
           "translated": "crwdns6388811:0crwdne6388811:0",
           "source": "Checkmark"
         },
-        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "content_article_accessibility_label": {
         "form": {
@@ -5148,7 +5148,7 @@ var _default = {
           "translated": "crwdns6388813:0crwdne6388813:0",
           "source": "Article"
         },
-        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_exercise_accessibility_label": {
         "form": {
@@ -5156,7 +5156,7 @@ var _default = {
           "translated": "crwdns6388815:0crwdne6388815:0",
           "source": "Exercise"
         },
-        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_video_accessibility_label": {
         "form": {
@@ -5164,7 +5164,7 @@ var _default = {
           "translated": "crwdns6388817:0crwdne6388817:0",
           "source": "Video"
         },
-        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "correct_accessibility_label": {
         "form": {
@@ -5172,7 +5172,7 @@ var _default = {
           "translated": "crwdns6388819:0crwdne6388819:0",
           "source": "Correct"
         },
-        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "critical_accessibility_label": {
         "form": {
@@ -5180,7 +5180,7 @@ var _default = {
           "translated": "crwdns7479843:0crwdne7479843:0",
           "source": "Critical"
         },
-        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "delete_accessibility_label": {
         "form": {
@@ -5188,7 +5188,7 @@ var _default = {
           "translated": "crwdns6388821:0crwdne6388821:0",
           "source": "Delete"
         },
-        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "dismiss_accessibility_label": {
         "form": {
@@ -5196,7 +5196,7 @@ var _default = {
           "translated": "crwdns6388823:0crwdne6388823:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "hint_accessibility_label": {
         "form": {
@@ -5204,7 +5204,7 @@ var _default = {
           "translated": "crwdns6388825:0crwdne6388825:0",
           "source": "Hint"
         },
-        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "incorrect_accessibility_label": {
         "form": {
@@ -5212,7 +5212,7 @@ var _default = {
           "translated": "crwdns6388827:0crwdne6388827:0",
           "source": "Incorrect"
         },
-        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "search_accessibility_label": {
         "form": {
@@ -5220,7 +5220,7 @@ var _default = {
           "translated": "crwdns6388829:0crwdne6388829:0",
           "source": "Search"
         },
-        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "settings_accessibility_label": {
         "form": {
@@ -5236,7 +5236,7 @@ var _default = {
           "translated": "crwdns6388831:0crwdne6388831:0",
           "source": "Sortable arrow down"
         },
-        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "sortable_arrow_up_small_accessibility_label": {
         "form": {
@@ -5244,7 +5244,7 @@ var _default = {
           "translated": "crwdns6388833:0crwdne6388833:0",
           "source": "Sortable arrow up"
         },
-        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "success_accessibility_label": {
         "form": {
@@ -5252,7 +5252,7 @@ var _default = {
           "translated": "crwdns7479845:0crwdne7479845:0",
           "source": "Success"
         },
-        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "zoom_in_accessibility_label": {
         "form": {
@@ -5260,7 +5260,7 @@ var _default = {
           "translated": "crwdns6388835:0crwdne6388835:0",
           "source": "Zoom in"
         },
-        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "zoom_out_accessibility_label": {
         "form": {
@@ -5268,7 +5268,7 @@ var _default = {
           "translated": "crwdns6388837:0crwdne6388837:0",
           "source": "Zoom out"
         },
-        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "scratchpad_accessibility_label": {
         "form": {
@@ -5276,7 +5276,7 @@ var _default = {
           "translated": "crwdns7088221:0crwdne7088221:0",
           "source": "Scratchpad"
         },
-        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "content_lesson_accessibility_label": {
         "form": {
@@ -5292,7 +5292,7 @@ var _default = {
           "translated": "crwdns6399489:0crwdne6399489:0",
           "source": "Warning"
         },
-        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "you_can_learn_anything": {
         "form": {
@@ -5677,150 +5677,6 @@ var _default = {
           "source": "Midnight"
         },
         "comment": "id:app_icon_darkest\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
-      },
-      "app_store_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6472473:0crwdne6472473:0",
-          "source": "You can learn anything. For free.\n\nSpend an afternoon brushing up on statistics. Discover how the Krebs cycle works. Get a head start on next semester's geometry. Prepare for upcoming exams. Or, if you're feeling particularly adventurous, learn how fire-stick farming changes the landscape of Australia.\n\nWhether you're a student, teacher, homeschooler, principal, adult returning to the classroom after 20 years, or a friendly alien trying to get a leg up in earthly biology — Khan Academy's personalized learning library is available to you, for free.\n\n- Learn anything, for free: Thousands of interactive exercises, videos, and articles at your fingertips. Study math, science, economics, finance, grammar, history, government, politics, and much, much more.\n\n- Sharpen your skills: Practice exercises, quizzes, and tests with instant feedback and step-by-step hints. Follow along with what you're learning in school, or practice at your own pace.\n\n- Keep learning when you're offline: Bookmark and download your favorite content to watch videos without an internet connection.\n\n- Pick up where you left off: Tailored to your current learning level, our mastery system gives instant feedback and recommendations on exactly which skills and videos to try next. And, if you choose to create a free account, your learning syncs with http://khanacademy.org, so your progress is always up-to-date across all your devices. \n\nLearn using expert-created videos, interactive exercises, and in-depth articles in math (arithmetic, pre-algebra, algebra, geometry, trigonometry, statistics, calculus, differential equations, linear algebra), science (biology, chemistry, physics), economics (microeconomics, macroeconomics, finance and capital markets), humanities (art history, civics, finance, US history, US government and politics, world history), and more (including computer science principles)!\n\nAlready familiar with the Khan Academy website? Not all functionality is available in this app. Community discussions, computer programming content, test prep, parent tools, teacher tools, and district tools should all be accessed directly at http://khanacademy.org.\n\nKhan Academy is a 501(c)(3) nonprofit organization, with the mission of providing a free, world-class education for anyone, anywhere."
-        },
-        "comment": "id:app_store_description\nApp store description for the iOS and Android apps; check https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8 and https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en_US for context!"
-      },
-      "app_store_description_INDIA_ONLY": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6978142:0crwdne6978142:0",
-          "source": "Khan Academy is a free learning app for Class 1-12 students with videos, exercises and tests for math, science and more subjects. Our content is aligned to NCERT and CBSE syllabus and available in Hindi, English and many more regional languages.\n\nLearning app for building a strong conceptual understanding\n- Over 10,000 videos and practice exercises on math and science. All content mapped to NCERT and CBSE syllabus.\n- Master math (arithmetic, pre-algebra, algebra, geometry, trigonometry, statistics, calculus, linear algebra), science (biology, chemistry, physics), economics, and more.\n- Learn at your pace and build a strong foundation to do well in school, boards, CAT, GMAT, IIT-JEE and other exams.\n\nInteractive practice exercises and unit tests for exam preparation\n- Over 40,000 interactive practice exercises with instant feedback and step-by-step hints.\n- Prepare for your exams with quizzes and unit tests in math from classes 1-12 for NCERT and CBSE syllabus.\n- Get personalized recommendations on exercises to focus on and related videos to help you in exam preparation.\n\nKeep learning even when you’re offline\n- Bookmark your favourite content for easy access, and download it to keep learning even when you’re not connected to the internet.\n\nTeachers: Assign homework and practice on Khan Academy\n- Teachers can now assign homework aligned to NCERT and CBSE syllabus in the form of videos, articles, and exercises across a range of subjects and grades.\n- Homework can be assigned to an entire class or to specific students.\n- Students would be able to see and complete these assignments on the Khan Academy learning app.\n- Teachers can track progress and gather insights in real-time.\n- All of the above teacher functionalities can be accessed directly at www.khanacademy.org, not on the app.\n\nKey facts about Khan Academy\n- Our mission is to make free, world-class education available to millions of learners in India and around the world.\n- Khan Academy in India is a Section 8 registered nonprofit organization and is supported by Tata Trusts and CSF.\n- Today, Khan Academy is used by over 120 million learners in 190+ countries around the globe.\n- Our resources include 10,000+ videos and 50,000+ exercises in math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more aligned to NCERT and CBSE syllabus.\n- More than 200,00 teachers in India use Khan Academy to make their class more engaging with videos, to assign practice problems as homework, and to provide personalized attention to students using Khan Academy's learning app and coach dashboard.\n\nLearners and teachers can access all our content in English and Hindi on the app. For other languages, one can visit: \n- Hindi - hi.khanacademy.org\n- Gujarati - gu.khanacademy.org \n- Kannada - kn.khanacademy.org\n\nWe have also translated our Middle and High School content to Hinglish - bilingual Hindi and English - for those students who study at schools where the medium of instruction is English, but are more conversant with and comfortable understanding concepts in Hindi.\n\nHead over to www.khanacademy.org to learn more about us. Follow us on Facebook, Twitter and Instagram @khanacademy to get handy study-tips!"
-        },
-        "comment": "id:app_store_description_INDIA_ONLY\nThis is the App Store Description text for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
-      },
-      "app_store_name": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6472477:0crwdne6472477:0",
-          "source": "Khan Academy: learn math, biology, chemistry, economics, art history and almost anything for free"
-        },
-        "comment": "id:app_store_name\nApp Store name for the iOS app; please leave 'Khan Academy' verbatim, translating just the text after the colon. Check https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8 for context!"
-      },
-      "app_store_name_INDIA_ONLY": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6978144:0crwdne6978144:0",
-          "source": "Khan Academy"
-        },
-        "comment": "id:app_store_name_INDIA_ONLY\nThis is the App Store Name for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
-      },
-      "app_store_short_description_INDIA_ONLY": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6978146:0crwdne6978146:0",
-          "source": "Khan Academy"
-        },
-        "comment": "id:app_store_short_description_INDIA_ONLY\nThis is the App Store \"Short Description\" for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
-      },
-      "app_store_keywords": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6472479:0crwdne6472479:0",
-          "source": "math,science,history,finance,practice,education,video,con,kahn"
-        },
-        "comment": "id:app_store_keywords\nApp Store keywords for the iOS app; these will not be visible to users anywhere, but will be used to match against users' searches on the app store (for example, a surprising number of people misspell the name of the company!)"
-      },
-      "app_store_release_notes_generic": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6472481:0crwdne6472481:0",
-          "source": "Bug fixes and performance improvements."
-        },
-        "comment": "id:app_store_release_notes_generic\nGeneric update notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
-      },
-      "introducing_gujarati": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550100:0crwdne6550100:0",
-          "source": "Introducing support for Gujarati!"
-        },
-        "comment": "id:introducing_gujarati\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_japanese": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550102:0crwdne6550102:0",
-          "source": "Introducing support for Japanese!"
-        },
-        "comment": "id:introducing_japanese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_tamil": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550104:0crwdne6550104:0",
-          "source": "Introducing support for Tamil!"
-        },
-        "comment": "id:introducing_tamil\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_kannada": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550106:0crwdne6550106:0",
-          "source": "Introducing support for Kannada!"
-        },
-        "comment": "id:introducing_kannada\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_hindi": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550108:0crwdne6550108:0",
-          "source": "Introducing support for Hindi!"
-        },
-        "comment": "id:introducing_hindi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_dutch": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550110:0crwdne6550110:0",
-          "source": "Introducing support for Dutch!"
-        },
-        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "whats_new_chromebooks": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6642480:0crwdne6642480:0",
-          "source": "Improved support for Chromebooks."
-        },
-        "comment": "id:whats_new_chromebooks\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
-      },
-      "whats_new_scratchpad": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6821788:0crwdne6821788:0",
-          "source": "Improvements to the scratch pad that is available while practicing."
-        },
-        "comment": "id:whats_new_scratchpad\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
-      },
-      "whats_new_my_classes": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6821790:0crwdne6821790:0",
-          "source": "Our new My Classes feature organizes your assignments by class."
-        },
-        "comment": "id:whats_new_my_classes\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
-      },
-      "whats_new_rationales": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6821792:0crwdne6821792:0",
-          "source": "Many multiple choice questions now explain why an option is right or wrong."
-        },
-        "comment": "id:whats_new_rationales\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
-      },
-      "whats_new_apple_sign_in": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6821794:0crwdne6821794:0",
-          "source": "The app now allows you to Sign in with Apple."
-        },
-        "comment": "id:whats_new_apple_sign_in\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
       },
       "learner": {
         "form": {
@@ -6637,6 +6493,150 @@ var _default = {
           "source": "Accept data charges?"
         },
         "comment": "id:zero_rating_warning_title\n\nplatform: android"
+      },
+      "app_store_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353229:0crwdne7353229:0",
+          "source": "You can learn anything. For free.\n\nSpend an afternoon brushing up on statistics. Discover how the Krebs cycle works. Get a head start on next semester's geometry. Prepare for upcoming exams. Or, if you're feeling particularly adventurous, learn how fire-stick farming changes the landscape of Australia.\n\nWhether you're a student, teacher, homeschooler, principal, adult returning to the classroom after 20 years, or a friendly alien trying to get a leg up in earthly biology — Khan Academy's personalized learning library is available to you, for free.\n\n- Learn anything, for free: Thousands of interactive exercises, videos, and articles at your fingertips. Study math, science, economics, finance, grammar, history, government, politics, and much, much more.\n\n- Sharpen your skills: Practice exercises, quizzes, and tests with instant feedback and step-by-step hints. Follow along with what you're learning in school, or practice at your own pace.\n\n- Keep learning when you're offline: Bookmark and download your favorite content to watch videos without an internet connection.\n\n- Pick up where you left off: Tailored to your current learning level, our mastery system gives instant feedback and recommendations on exactly which skills and videos to try next. And, if you choose to create a free account, your learning syncs with http://khanacademy.org, so your progress is always up-to-date across all your devices. \n\nLearn using expert-created videos, interactive exercises, and in-depth articles in math (arithmetic, pre-algebra, algebra, geometry, trigonometry, statistics, calculus, differential equations, linear algebra), science (biology, chemistry, physics), economics (microeconomics, macroeconomics, finance and capital markets), humanities (art history, civics, finance, US history, US government and politics, world history), and more (including computer science principles)!\n\nAlready familiar with the Khan Academy website? Not all functionality is available in this app. Community discussions, computer programming content, test prep, parent tools, teacher tools, and district tools should all be accessed directly at http://khanacademy.org.\n\nKhan Academy is a 501(c)(3) nonprofit organization, with the mission of providing a free, world-class education for anyone, anywhere."
+        },
+        "comment": "id:app_store_description\nApp store description for the iOS and Android apps; check https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8 and https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en_US for context!"
+      },
+      "app_store_description_INDIA_ONLY": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353231:0crwdne7353231:0",
+          "source": "Khan Academy is a free learning app for Class 1-12 students with videos, exercises and tests for math, science and more subjects. Our content is aligned to NCERT and CBSE syllabus and available in Hindi, English and many more regional languages.\n\nLearning app for building a strong conceptual understanding\n- Over 10,000 videos and practice exercises on math and science. All content mapped to NCERT and CBSE syllabus.\n- Master math (arithmetic, pre-algebra, algebra, geometry, trigonometry, statistics, calculus, linear algebra), science (biology, chemistry, physics), economics, and more.\n- Learn at your pace and build a strong foundation to do well in school, boards, CAT, GMAT, IIT-JEE and other exams.\n\nInteractive practice exercises and unit tests for exam preparation\n- Over 40,000 interactive practice exercises with instant feedback and step-by-step hints.\n- Prepare for your exams with quizzes and unit tests in math from classes 1-12 for NCERT and CBSE syllabus.\n- Get personalized recommendations on exercises to focus on and related videos to help you in exam preparation.\n\nKeep learning even when you’re offline\n- Bookmark your favourite content for easy access, and download it to keep learning even when you’re not connected to the internet.\n\nTeachers: Assign homework and practice on Khan Academy\n- Teachers can now assign homework aligned to NCERT and CBSE syllabus in the form of videos, articles, and exercises across a range of subjects and grades.\n- Homework can be assigned to an entire class or to specific students.\n- Students would be able to see and complete these assignments on the Khan Academy learning app.\n- Teachers can track progress and gather insights in real-time.\n- All of the above teacher functionalities can be accessed directly at www.khanacademy.org, not on the app.\n\nKey facts about Khan Academy\n- Our mission is to make free, world-class education available to millions of learners in India and around the world.\n- Khan Academy in India is a Section 8 registered nonprofit organization and is supported by Tata Trusts and CSF.\n- Today, Khan Academy is used by over 120 million learners in 190+ countries around the globe.\n- Our resources include 10,000+ videos and 50,000+ exercises in math, biology, chemistry, physics, history, economics, finance, grammar, preschool learning, and more aligned to NCERT and CBSE syllabus.\n- More than 200,00 teachers in India use Khan Academy to make their class more engaging with videos, to assign practice problems as homework, and to provide personalized attention to students using Khan Academy's learning app and coach dashboard.\n\nLearners and teachers can access all our content in English and Hindi on the app. For other languages, one can visit: \n- Hindi - hi.khanacademy.org\n- Gujarati - gu.khanacademy.org \n- Kannada - kn.khanacademy.org\n\nWe have also translated our Middle and High School content to Hinglish - bilingual Hindi and English - for those students who study at schools where the medium of instruction is English, but are more conversant with and comfortable understanding concepts in Hindi.\n\nHead over to www.khanacademy.org to learn more about us. Follow us on Facebook, Twitter and Instagram @khanacademy to get handy study-tips!"
+        },
+        "comment": "id:app_store_description_INDIA_ONLY\nThis is the App Store Description text for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
+      },
+      "app_store_name": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353233:0crwdne7353233:0",
+          "source": "Khan Academy: learn math, biology, chemistry, economics, art history and almost anything for free"
+        },
+        "comment": "id:app_store_name\nApp Store name for the iOS app; please leave 'Khan Academy' verbatim, translating just the text after the colon. Check https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8 for context!"
+      },
+      "app_store_name_INDIA_ONLY": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353235:0crwdne7353235:0",
+          "source": "Khan Academy"
+        },
+        "comment": "id:app_store_name_INDIA_ONLY\nThis is the App Store Name for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
+      },
+      "app_store_short_description_INDIA_ONLY": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353237:0crwdne7353237:0",
+          "source": "Khan Academy"
+        },
+        "comment": "id:app_store_short_description_INDIA_ONLY\nThis is the App Store \"Short Description\" for English-India and Hindi only. ***PLEASE DO NOT TRANSLATE THIS FOR ANY OTHER LANGUAGE!*** Thanks!"
+      },
+      "app_store_keywords": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353239:0crwdne7353239:0",
+          "source": "math,science,history,finance,practice,education,video,con,kahn"
+        },
+        "comment": "id:app_store_keywords\nApp Store keywords for the iOS app; these will not be visible to users anywhere, but will be used to match against users' searches on the app store (for example, a surprising number of people misspell the name of the company!)"
+      },
+      "app_store_release_notes_generic": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353241:0crwdne7353241:0",
+          "source": "Bug fixes and performance improvements."
+        },
+        "comment": "id:app_store_release_notes_generic\nGeneric update notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "introducing_gujarati": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353243:0crwdne7353243:0",
+          "source": "Introducing support for Gujarati!"
+        },
+        "comment": "id:introducing_gujarati\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_japanese": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353245:0crwdne7353245:0",
+          "source": "Introducing support for Japanese!"
+        },
+        "comment": "id:introducing_japanese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_tamil": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353247:0crwdne7353247:0",
+          "source": "Introducing support for Tamil!"
+        },
+        "comment": "id:introducing_tamil\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_kannada": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353249:0crwdne7353249:0",
+          "source": "Introducing support for Kannada!"
+        },
+        "comment": "id:introducing_kannada\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_hindi": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353251:0crwdne7353251:0",
+          "source": "Introducing support for Hindi!"
+        },
+        "comment": "id:introducing_hindi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_dutch": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353253:0crwdne7353253:0",
+          "source": "Introducing support for Dutch!"
+        },
+        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "whats_new_chromebooks": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353255:0crwdne7353255:0",
+          "source": "Improved support for Chromebooks."
+        },
+        "comment": "id:whats_new_chromebooks\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "whats_new_scratchpad": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353257:0crwdne7353257:0",
+          "source": "Improvements to the scratch pad that is available while practicing."
+        },
+        "comment": "id:whats_new_scratchpad\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "whats_new_my_classes": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353259:0crwdne7353259:0",
+          "source": "Our new My Classes feature organizes your assignments by class."
+        },
+        "comment": "id:whats_new_my_classes\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "whats_new_rationales": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353261:0crwdne7353261:0",
+          "source": "Many multiple choice questions now explain why an option is right or wrong."
+        },
+        "comment": "id:whats_new_rationales\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "whats_new_apple_sign_in": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353263:0crwdne7353263:0",
+          "source": "The app now allows you to Sign in with Apple."
+        },
+        "comment": "id:whats_new_apple_sign_in\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
       }
     },
     "plural": {
@@ -7514,4 +7514,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.d9a044e9.js.map
+//# sourceMappingURL=/render.91b5bc77.js.map
