@@ -1206,6 +1206,30 @@ exports.default = void 0;
 var _default = {
   "translations": {
     "singular": {
+      "change_icon_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7479849:0%(iconName)scrwdne7479849:0",
+          "source": "Change icon to Khan Academy %(iconName)s?"
+        },
+        "comment": "id:change_icon_title\nthe title of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+      },
+      "change_icon_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7479851:0crwdne7479851:0",
+          "source": "Changing the icon will close the app."
+        },
+        "comment": "id:change_icon_message\nthe message of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+      },
+      "change_icon_confirm": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7479853:0crwdne7479853:0",
+          "source": "Change icon"
+        },
+        "comment": "id:change_icon_confirm\nThe button to confirm & close the \"change app icon\" alert on android, resulting in the icon for our app being changed, and the app being closed.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+      },
       "available_offline": {
         "form": {
           "status": "approved",
@@ -1244,7 +1268,7 @@ var _default = {
           "translated": "crwdns6388021:0crwdne6388021:0",
           "source": "You're offline."
         },
-        "comment": "id:offline_banner\nTitle of the offline banner.\nUsed in the following files:\nFile: /Search/Search.js\nFile: /shared/User/queries.js\nFile: /shared/components/OfflineBanner.js"
+        "comment": "id:offline_banner\nTitle of the offline banner.\nUsed in the following files:\nFile: /Explore/Explore.js\nFile: /shared/User/queries.js\nFile: /shared/components/OfflineBanner.js"
       },
       "offline_subtitle": {
         "form": {
@@ -1252,7 +1276,7 @@ var _default = {
           "translated": "crwdns6388023:0crwdne6388023:0",
           "source": "Connect to Wi-Fi or cellular to go online."
         },
-        "comment": "id:offline_subtitle\nText on the Search Screen that shows up when the user is offline and has no search results\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:offline_subtitle\nText on the Search Screen that shows up when the user is offline and has no search results\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "dismiss": {
         "form": {
@@ -1260,7 +1284,7 @@ var _default = {
           "translated": "crwdns6388025:0crwdne6388025:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /AppUpdateMessage/WhatsNewView.js\nFile: /BookmarksScreen/Cells/BookmarkCell.js\nFile: /BookmarksScreen/download-utils.js\nFile: /Home/Sections/UrgentBanner/UrgentBannerCard.js\nFile: /ManageCoaches/CoachListScene.js\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.js\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/components/NavBar.js\nFile: /wonderblocks-doctoral-candidates/WarningBanner.js"
+        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /AppUpdateMessage/WhatsNewView.js\nFile: /BookmarksScreen/Cells/BookmarkCell.js\nFile: /BookmarksScreen/download-utils.js\nFile: /ManageCoaches/CoachListScene.js\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/components/NavBar.js"
       },
       "error_title": {
         "form": {
@@ -1292,7 +1316,7 @@ var _default = {
           "translated": "crwdns7098981:0crwdne7098981:0",
           "source": "Explore"
         },
-        "comment": "id:explore\nTitle for the explore & search tab"
+        "comment": "id:explore\nTitle for the explore & search tab\nUsed in the following files:\nFile: /navigators/Tabs.js"
       },
       "search": {
         "form": {
@@ -1300,7 +1324,7 @@ var _default = {
           "translated": "crwdns6388007:0crwdne6388007:0",
           "source": "Search"
         },
-        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "apply_search_filter": {
         "form": {
@@ -1308,7 +1332,7 @@ var _default = {
           "translated": "crwdns6388013:0crwdne6388013:0",
           "source": "Apply"
         },
-        "comment": "id:apply_search_filter\nButton title to apply filters selected within search UI\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:apply_search_filter\nButton title to apply filters selected within search UI\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "filter": {
         "form": {
@@ -1316,7 +1340,7 @@ var _default = {
           "translated": "crwdns6388015:0crwdne6388015:0",
           "source": "Filter"
         },
-        "comment": "id:filter\nButton title to allow choosing search filters.\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:filter\nButton title to allow choosing search filters.\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "no_results": {
         "form": {
@@ -1324,7 +1348,7 @@ var _default = {
           "translated": "crwdns6388017:0crwdne6388017:0",
           "source": "No results.\n Try a different search?"
         },
-        "comment": "id:no_results\nMessage for when no search results are found\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:no_results\nMessage for when no search results are found\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "recent_searches": {
         "form": {
@@ -1332,7 +1356,7 @@ var _default = {
           "translated": "crwdns6642474:0crwdne6642474:0",
           "source": "Recent searches"
         },
-        "comment": "id:recent_searches\nTitle for a search feature that displays recent search terms\nUsed in the following files:\nFile: /Search/RecentSearches.js"
+        "comment": "id:recent_searches\nTitle for a search feature that displays recent search terms\nUsed in the following files:\nFile: /Explore/RecentSearches.js"
       },
       "clear": {
         "form": {
@@ -1340,7 +1364,7 @@ var _default = {
           "translated": "crwdns6642476:0crwdne6642476:0",
           "source": "Clear"
         },
-        "comment": "id:clear\nButton title that erases recent search terms.\nUsed in the following files:\nFile: /Search/RecentSearches.js"
+        "comment": "id:clear\nButton title that erases recent search terms.\nUsed in the following files:\nFile: /Explore/RecentSearches.js"
       },
       "khan_kids_upsell_message": {
         "form": {
@@ -1389,6 +1413,14 @@ var _default = {
           "source": "If you need to change the language later, you can do that in Profile > Settings."
         },
         "comment": "id:change_language_settings_text\nAlert text when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+      },
+      "language_wait_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388993:0%1$scrwdne6388993:0",
+          "source": "Please wait a moment while we configure the language (<xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" id=\"target_language\">%1$s</xliff:g>)"
+        },
+        "comment": "id:language_wait_message\n\nUsed in the following files:\nFile: /Languages/index.js"
       },
       "explore_welcome_ready_to_start": {
         "form": {
@@ -1484,7 +1516,7 @@ var _default = {
           "translated": "crwdns6412021:0crwdne6412021:0",
           "source": "No assignments due soon"
         },
-        "comment": "id:explore_no_assignments_explore_title\nDisplayed on tablet in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:explore_no_assignments_explore_title\nDisplayed on large layouts in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /MyClasses/ui-utils.js"
       },
       "explore_no_assignments_explore_subtitle": {
         "form": {
@@ -1524,7 +1556,7 @@ var _default = {
           "translated": "crwdns6388077:0crwdne6388077:0",
           "source": "Home"
         },
-        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Home Screen."
+        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Home Screen.\nUsed in the following files:\nFile: /navigators/Tabs.js"
       },
       "explore_recent_lessons": {
         "form": {
@@ -1644,7 +1676,7 @@ var _default = {
           "translated": "crwdns6474095:0crwdne6474095:0",
           "source": "Choose grade"
         },
-        "comment": "id:grade_picker_nav_title\nThe nav bar text on the grade selection screen\nUsed in the following files:\nFile: /CoursesPicker/SelectGrade.js"
+        "comment": "id:grade_picker_nav_title\nThe nav bar text on the grade selection screen\nUsed in the following files:\nFile: /navigators/Home.js"
       },
       "courses_picker_nav_title": {
         "form": {
@@ -1652,7 +1684,7 @@ var _default = {
           "translated": "crwdns6474097:0crwdne6474097:0",
           "source": "Choose courses"
         },
-        "comment": "id:courses_picker_nav_title\nThe nav bar text on the courses selection screen.\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:courses_picker_nav_title\nThe nav bar text on the courses selection screen.\nUsed in the following files:\nFile: /navigators/Home.js"
       },
       "courses_picker_back_button": {
         "form": {
@@ -1716,7 +1748,7 @@ var _default = {
           "translated": "crwdns6821728:0crwdne6821728:0",
           "source": "My classes"
         },
-        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /navigators/Home.js"
       },
       "active_classes": {
         "form": {
@@ -1940,7 +1972,7 @@ var _default = {
           "translated": "crwdns6388129:0crwdne6388129:0",
           "source": "OK"
         },
-        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js\nFile: /Home/components/HomeHeader.js\nFile: /Languages/LanguageList.js"
+        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /Curriculum/CurriculumScreen.js\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js\nFile: /Home/components/HomeHeader.js"
       },
       "unit_title_prefix": {
         "form": {
@@ -2380,7 +2412,7 @@ var _default = {
           "translated": "crwdns6388207:0crwdne6388207:0",
           "source": "Sign up"
         },
-        "comment": "id:sign_up\nTitle for the sign up screen.\nUsed in the following files:\nFile: /SignUp/index.js"
+        "comment": "id:sign_up\nTitle for the sign up screen.\nUsed in the following files:\nFile: /navigators/Settings.js"
       },
       "sign_up_prompt": {
         "form": {
@@ -2444,7 +2476,7 @@ var _default = {
           "translated": "crwdns6388223:0crwdne6388223:0",
           "source": "Create"
         },
-        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\nFile: /SignUp/index.js"
+        "comment": "id:create\nA button used to create a new account."
       },
       "default_error": {
         "form": {
@@ -2540,7 +2572,7 @@ var _default = {
           "translated": "crwdns6637200:0crwdne6637200:0",
           "source": "Welcome"
         },
-        "comment": "id:welcome\nScreen title for our sign-in and sign-up feature.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:welcome\nScreen title for our sign-in and sign-up feature.\nUsed in the following files:\nFile: /navigators/Settings.js"
       },
       "sign_in": {
         "form": {
@@ -2548,7 +2580,7 @@ var _default = {
           "translated": "crwdns6388239:0crwdne6388239:0",
           "source": "Sign in"
         },
-        "comment": "id:sign_in\nText for a nav bar or button or that allows the user to sign in.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js\nFile: /LogIn/index.js\nFile: /Welcome/index.js"
+        "comment": "id:sign_in\nText for a nav bar or button or that allows the user to sign in.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js\nFile: /Welcome/index.js\nFile: /navigators/Settings.js"
       },
       "logging_in": {
         "form": {
@@ -2556,7 +2588,7 @@ var _default = {
           "translated": "crwdns6388999:0crwdne6388999:0",
           "source": "Signing in…"
         },
-        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /LoginInProgress/index.js\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /navigators/Root.js\nFile: /shared/native/DeepLinkModule.js"
       },
       "or": {
         "form": {
@@ -2716,7 +2748,7 @@ var _default = {
           "translated": "crwdns6388251:0crwdne6388251:0",
           "source": "Teachers"
         },
-        "comment": "id:teachers_header_text\nNav bar title for the manage teachers screen.\nUsed in the following files:\nFile: /ManageCoaches/index.js"
+        "comment": "id:teachers_header_text\nNav bar title for the manage teachers screen.\nUsed in the following files:\nFile: /navigators/Home.js"
       },
       "your_teachers": {
         "form": {
@@ -2732,7 +2764,7 @@ var _default = {
           "translated": "crwdns6388255:0crwdne6388255:0",
           "source": "Add teacher"
         },
-        "comment": "id:add_teacher\nText for a button or screen that allows user to add teachers.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /ManageCoaches/EmptyStates.js"
+        "comment": "id:add_teacher\nText for a button or screen that allows user to add teachers.\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js\nFile: /navigators/Home.js"
       },
       "add_a_teacher": {
         "form": {
@@ -2948,7 +2980,7 @@ var _default = {
           "translated": "crwdns6388291:0crwdne6388291:0",
           "source": "Bookmarks"
         },
-        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /BookmarksScreen/index.js"
+        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /navigators/Bookmarks.js\nFile: /navigators/Tabs.js"
       },
       "edit": {
         "form": {
@@ -2996,7 +3028,7 @@ var _default = {
           "translated": "crwdns6388303:0crwdne6388303:0",
           "source": "Download settings"
         },
-        "comment": "id:download_settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/DownloadSettingsCell.js\nFile: /BookmarksScreen/DownloadSettings/DownloadSettingsScreen.js\nFile: /Settings/utils.js"
+        "comment": "id:download_settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/DownloadSettingsCell.js\nFile: /Settings/utils.js\nFile: /navigators/Bookmarks.js"
       },
       "no_longer_available": {
         "form": {
@@ -3308,7 +3340,7 @@ var _default = {
           "translated": "crwdns6388391:0crwdne6388391:0",
           "source": "Settings"
         },
-        "comment": "id:settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.js\nFile: /Settings/SettingsScreen.js"
+        "comment": "id:settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.js\nFile: /navigators/Settings.js"
       },
       "setting_download_settings_error": {
         "form": {
@@ -3676,7 +3708,7 @@ var _default = {
           "translated": "crwdns6388495:0crwdne6388495:0",
           "source": "Cancel"
         },
-        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Languages/LanguageList.js\nFile: /ManageCoaches/TeacherRow.js\nFile: /Settings/utils.js\nFile: /SignUp/api-utils.js\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js\nFile: /Task/Exercise/Scratchpad/index.js\nFile: /redux/bookmarks/bookmark-alerts-utils.js\nFile: /shared/native/DeepLinkModule.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /ManageCoaches/TeacherRow.js\nFile: /Settings/AppIconPicker.js\nFile: /Settings/utils.js\nFile: /SignUp/api-utils.js\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js\nFile: /Task/Exercise/Scratchpad/index.js\nFile: /navigators/Home.js\nFile: /navigators/Settings.js\nFile: /redux/bookmarks/bookmark-alerts-utils.js\nFile: /shared/native/DeepLinkModule.js\nFile: /shared/native/NavigationModule.js"
       },
       "exercise_watch_a_video": {
         "form": {
@@ -4692,7 +4724,7 @@ var _default = {
           "translated": "crwdns6388675:0crwdne6388675:0",
           "source": "Done"
         },
-        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /LoginInProgress/index.js\nFile: /SignUp/DatePickerOverlayIOS.js\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js\nFile: /Task/SkillsListTaskCard/index.js"
+        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /LoginInProgress/index.js\nFile: /SignUp/DatePickerOverlayIOS.js\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js\nFile: /Task/SkillsListTaskCard/index.js\nFile: /navigators/Settings.js"
       },
       "whats_new_title": {
         "form": {
@@ -5116,7 +5148,7 @@ var _default = {
           "translated": "crwdns6388813:0crwdne6388813:0",
           "source": "Article"
         },
-        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/ItemAvatar/index.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_exercise_accessibility_label": {
         "form": {
@@ -5124,7 +5156,7 @@ var _default = {
           "translated": "crwdns6388815:0crwdne6388815:0",
           "source": "Exercise"
         },
-        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/ItemAvatar/index.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_video_accessibility_label": {
         "form": {
@@ -5132,7 +5164,7 @@ var _default = {
           "translated": "crwdns6388817:0crwdne6388817:0",
           "source": "Video"
         },
-        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/ItemAvatar/index.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "correct_accessibility_label": {
         "form": {
@@ -5141,6 +5173,14 @@ var _default = {
           "source": "Correct"
         },
         "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+      },
+      "critical_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7479843:0crwdne7479843:0",
+          "source": "Critical"
+        },
+        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "delete_accessibility_label": {
         "form": {
@@ -5206,6 +5246,14 @@ var _default = {
         },
         "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
+      "success_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7479845:0crwdne7479845:0",
+          "source": "Success"
+        },
+        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+      },
       "zoom_in_accessibility_label": {
         "form": {
           "status": "approved",
@@ -5236,7 +5284,7 @@ var _default = {
           "translated": "crwdns6388839:0crwdne6388839:0",
           "source": "Lesson"
         },
-        "comment": "id:content_lesson_accessibility_label\nAccessibility label for the /thumbnail \nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/ItemAvatar/index.js"
+        "comment": "id:content_lesson_accessibility_label\nAccessibility label for the /thumbnail \nUsed in the following files:\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "warning_accessibility_label": {
         "form": {
@@ -5396,7 +5444,7 @@ var _default = {
           "translated": "crwdns6450923:0crwdne6450923:0",
           "source": "Language & region"
         },
-        "comment": "id:language_header_text\nHeader for language picker screen.\nUsed in the following files:\nFile: /Languages/LanguageList.js\nFile: /Settings/utils.js"
+        "comment": "id:language_header_text\nHeader for language picker screen.\nUsed in the following files:\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
       },
       "change_language_header": {
         "form": {
@@ -5404,7 +5452,7 @@ var _default = {
           "translated": "crwdns6450925:0crwdne6450925:0",
           "source": "How to change your language"
         },
-        "comment": "id:change_language_header\nTitle for alert that comes up when someone tries to change their language on iOS.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:change_language_header\nTitle for alert that comes up when someone tries to change their language on iOS.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "change_language_text_ios13": {
         "form": {
@@ -5412,7 +5460,7 @@ var _default = {
           "translated": "crwdns6450927:0crwdne6450927:0",
           "source": "If you have multiple languages enabled in Settings, you can use different ones for different apps! Go to Settings > General > Language & Region, and add more languages - then come back to the Khan Academy app."
         },
-        "comment": "id:change_language_text_ios13\nAlert message when someone tries to change their language on iOS 13 or later.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:change_language_text_ios13\nAlert message when someone tries to change their language on iOS 13 or later.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "change_language_text": {
         "form": {
@@ -5420,7 +5468,7 @@ var _default = {
           "translated": "crwdns6450929:0crwdne6450929:0",
           "source": "To change the language for the Khan Academy app on iOS, you’ll need to change your phone’s language. Please open the Settings app, and go to General > Language & Region."
         },
-        "comment": "id:change_language_text\nAlert message when someone tries to change their language on iOS 12 or earlier.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:change_language_text\nAlert message when someone tries to change their language on iOS 12 or earlier.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "experimental_feature": {
         "form": {
@@ -5428,7 +5476,7 @@ var _default = {
           "translated": "crwdns6450931:0crwdne6450931:0",
           "source": "Experimental feature"
         },
-        "comment": "id:experimental_feature\nAlert message header for content-switching to English.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:experimental_feature\nAlert message header for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "experimental_feature_description": {
         "form": {
@@ -5436,7 +5484,7 @@ var _default = {
           "translated": "crwdns6450933:0crwdne6450933:0",
           "source": "This is an experimental feature — for the best experience, we recommend that you change your device’s language to English. Once iOS 13 comes out, this feature will be much better!"
         },
-        "comment": "id:experimental_feature_description\nAlert message text for content-switching to English.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:experimental_feature_description\nAlert message text for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "continue_str": {
         "form": {
@@ -5444,7 +5492,7 @@ var _default = {
           "translated": "crwdns6450935:0crwdne6450935:0",
           "source": "Continue"
         },
-        "comment": "id:continue_str\nA continue button for an alert.\nUsed in the following files:\nFile: /Languages/LanguageList.js\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:continue_str\nA continue button for an alert.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /shared/native/DeepLinkModule.js"
       },
       "language_header": {
         "form": {
@@ -5452,7 +5500,7 @@ var _default = {
           "translated": "crwdns6450937:0crwdne6450937:0",
           "source": "Language"
         },
-        "comment": "id:language_header\nHeader for Language section on Language and Region page.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:language_header\nHeader for Language section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /navigators/Settings.js"
       },
       "curriculum_header": {
         "form": {
@@ -5460,7 +5508,7 @@ var _default = {
           "translated": "crwdns6450939:0crwdne6450939:0",
           "source": "Region"
         },
-        "comment": "id:curriculum_header\nHeader for Region section on Language and Region page.\nUsed in the following files:\nFile: /Languages/LanguageList.js"
+        "comment": "id:curriculum_header\nHeader for Region section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
       },
       "universal": {
         "form": {
@@ -5572,7 +5620,7 @@ var _default = {
           "translated": "crwdns6853292:0crwdne6853292:0",
           "source": "App icon"
         },
-        "comment": "id:settings_app_icon\nTitle for a button that allows the learner to select a different app icon.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:settings_app_icon\nTitle for a button that allows the learner to select a different app icon.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
       },
       "settings_about_the_team": {
         "form": {
@@ -5588,7 +5636,7 @@ var _default = {
           "translated": "crwdns6853294:0crwdne6853294:0",
           "source": "Default"
         },
-        "comment": "id:app_icon_default\nTitle for the default app icon."
+        "comment": "id:app_icon_default\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_icon_purple": {
         "form": {
@@ -5596,7 +5644,7 @@ var _default = {
           "translated": "crwdns6853298:0crwdne6853298:0",
           "source": "Purple"
         },
-        "comment": "id:app_icon_purple\nTitle for the purple app icon."
+        "comment": "id:app_icon_purple\nTitle for the purple app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_icon_dark_blue": {
         "form": {
@@ -5604,7 +5652,7 @@ var _default = {
           "translated": "crwdns6853306:0crwdne6853306:0",
           "source": "Dark blue"
         },
-        "comment": "id:app_icon_dark_blue\nTitle for the navy app icon."
+        "comment": "id:app_icon_dark_blue\nTitle for the navy app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_icon_black": {
         "form": {
@@ -5612,7 +5660,7 @@ var _default = {
           "translated": "crwdns6853312:0crwdne6853312:0",
           "source": "Black"
         },
-        "comment": "id:app_icon_black\nTitle for the default app icon."
+        "comment": "id:app_icon_black\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_icon_rainbow": {
         "form": {
@@ -5620,7 +5668,7 @@ var _default = {
           "translated": "crwdns6853314:0crwdne6853314:0",
           "source": "Rainbow"
         },
-        "comment": "id:app_icon_rainbow\nTitle for the default app icon."
+        "comment": "id:app_icon_rainbow\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_icon_darkest": {
         "form": {
@@ -5628,7 +5676,7 @@ var _default = {
           "translated": "crwdns6853318:0crwdne6853318:0",
           "source": "Midnight"
         },
-        "comment": "id:app_icon_darkest\nTitle for the default app icon."
+        "comment": "id:app_icon_darkest\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
       },
       "app_store_description": {
         "form": {
@@ -6294,14 +6342,6 @@ var _default = {
         },
         "comment": "id:language_content_notice\n\nplatform: android"
       },
-      "language_wait_message": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388993:0%1$scrwdne6388993:0",
-          "source": "Please wait a moment while we configure the language (<xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" id=\"target_language\">%1$s</xliff:g>)"
-        },
-        "comment": "id:language_wait_message\n\nplatform: android"
-      },
       "logarithms": {
         "form": {
           "status": "approved",
@@ -6622,7 +6662,7 @@ var _default = {
           "source": "See %(num)s due later",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments_see_n_due_later\nDisplayed on tablet in the Assignments Card on the button that allows the learner to see all of their assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments_see_n_due_later\nDisplayed on large layouts in the Assignments Card on the button that allows the learner to see all of their assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
       },
       "unit_test_description": {
         "forms": [{
@@ -6636,17 +6676,17 @@ var _default = {
         }],
         "comment": "id:unit_test_description\nDescription of a multi-question unit test where num1 is the name of the unit covered by the test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
       },
-      "tablet_quiz_cell_title": {
+      "large_layout_quiz_cell_title": {
         "forms": [{
-          "translated": "crwdns6388721:1%(quiz_name)scrwdnd6388721:1%(num)scrwdne6388721:1",
+          "translated": "crwdns7479847:1%(quiz_name)scrwdnd7479847:1%(num)scrwdne7479847:1",
           "source": "%(quiz_name)s: %(num)s question",
           "status": "approved"
         }, {
-          "translated": "crwdns6388721:5%(quiz_name)scrwdnd6388721:5%(num)scrwdne6388721:5",
+          "translated": "crwdns7479847:5%(quiz_name)scrwdnd7479847:5%(num)scrwdne7479847:5",
           "source": "%(quiz_name)s: %(num)s questions",
           "status": "approved"
         }],
-        "comment": "id:tablet_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
+        "comment": "id:large_layout_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       },
       "explore_assignments": {
         "forms": [{
@@ -6742,7 +6782,7 @@ var _default = {
           "source": "Filters (%(num)s)",
           "status": "approved"
         }],
-        "comment": "id:filter_with_count\nButton title to allow choosing search filters when one or more are applied.\nUsed in the following files:\nFile: /Search/Search.js"
+        "comment": "id:filter_with_count\nButton title to allow choosing search filters when one or more are applied.\nUsed in the following files:\nFile: /Explore/Explore.js"
       },
       "clear_filter": {
         "forms": [{
@@ -6754,7 +6794,7 @@ var _default = {
           "source": "Clear %(num)s filters",
           "status": "approved"
         }],
-        "comment": "id:clear_filter\nButton title for clearing search filters from search results.\nUsed in the following files:\nFile: /Search/ClearFilterHeader.js"
+        "comment": "id:clear_filter\nButton title for clearing search filters from search results.\nUsed in the following files:\nFile: /Explore/ClearFilterHeader.js"
       },
       "keep_it_up": {
         "forms": [{
@@ -6935,6 +6975,18 @@ var _default = {
           "status": "approved"
         }],
         "comment": "id:num_seconds\nNumber of seconds.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+      },
+      "tablet_quiz_cell_title": {
+        "forms": [{
+          "translated": "crwdns6388721:1%(quiz_name)scrwdnd6388721:1%(num)scrwdne6388721:1",
+          "source": "%(quiz_name)s: %(num)s question",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6388721:5%(quiz_name)scrwdnd6388721:5%(num)scrwdne6388721:5",
+          "source": "%(quiz_name)s: %(num)s questions",
+          "status": "approved"
+        }],
+        "comment": "id:tablet_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
       }
     }
   },
@@ -6959,14 +7011,14 @@ var _default = {
     "explore_no_assignments_explore_title": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
     "explore_no_assignments_explore_subtitle": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
     "explore_assignments_see_n_due_later": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
+    "article": ["Explore__ContentListItem.js.fixture.js--renders_a_an_Article_correctly"],
+    "exercise": ["Explore__ContentListItem.js.fixture.js--renders_a_an_Exercise_correctly"],
     "explore_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--one_missing"],
     "explore_loading_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading"],
     "explore_no_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty"],
     "add_a_teacher": ["ManageCoaches__TeacherList.js.fixture.js--loading", "ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "manage_teachers_district_footer ": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "learn_more_sentence": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
-    "article": ["Search__ContentListItem.js.fixture.js--renders_a_an_Article_correctly"],
-    "exercise": ["Search__ContentListItem.js.fixture.js--renders_a_an_Exercise_correctly"],
     "good_work": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--normal", "Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--all_questions_done", "Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CorrectOnFirstTry"],
     "keep_it_up": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--normal", "Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CorrectOnFirstTry"],
     "you_got_it_onward": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--all_questions_done"],
@@ -7462,4 +7514,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.28eb8632.js.map
+//# sourceMappingURL=/render.d9a044e9.js.map
