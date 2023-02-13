@@ -1206,6 +1206,22 @@ exports.default = void 0;
 var _default = {
   "translations": {
     "singular": {
+      "device_language": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388957:0crwdne6388957:0",
+          "source": "Device Language"
+        },
+        "comment": "id:device_language\n\nUsed in the following files:\nFile: /Languages/index.js"
+      },
+      "language_content_notice": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388991:0crwdne6388991:0",
+          "source": "Please note that content availability may differ between languages."
+        },
+        "comment": "id:language_content_notice\n\nUsed in the following files:\nFile: /Languages/index.js"
+      },
       "change_icon_title": {
         "form": {
           "status": "approved",
@@ -2028,7 +2044,7 @@ var _default = {
           "translated": "crwdns6388149:0crwdne6388149:0",
           "source": "Settings"
         },
-        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "assignments": {
         "form": {
@@ -2476,7 +2492,7 @@ var _default = {
           "translated": "crwdns6388223:0crwdne6388223:0",
           "source": "Create"
         },
-        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\n"
+        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\nFile: /SignUp/index.js"
       },
       "default_error": {
         "form": {
@@ -3654,6 +3670,38 @@ var _default = {
         },
         "comment": "id:check_again\nText for a button that allows the user to check a problem attempt again.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
       },
+      "start_over": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499873:0crwdne7499873:0",
+          "source": "Start over"
+        },
+        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task."
+      },
+      "are_you_sure": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499875:0crwdne7499875:0",
+          "source": "Are you sure?"
+        },
+        "comment": "id:are_you_sure\nHeading for a confirmation modal."
+      },
+      "start_over_lose_progress_warning": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499877:0crwdne7499877:0",
+          "source": "You will lose your progress if you start over."
+        },
+        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over."
+      },
+      "close": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499879:0crwdne7499879:0",
+          "source": "Close"
+        },
+        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm."
+      },
       "toggle_scratchpad": {
         "form": {
           "status": "approved",
@@ -4828,7 +4876,7 @@ var _default = {
           "translated": "crwdns6388751:0crwdne6388751:0",
           "source": "more"
         },
-        "comment": "id:more\nText for a button that reveals a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.js\nFile: /wonderblocks-doctoral-candidates/AndroidOverflowButton.js"
+        "comment": "id:more\nText for a button that reveals a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.js\nFile: /wonderblocks-doctoral-candidates/OverflowButton.js"
       },
       "less": {
         "form": {
@@ -5092,7 +5140,7 @@ var _default = {
           "translated": "crwdns6388799:0crwdne6388799:0",
           "source": "Info"
         },
-        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "add_accessibility_label": {
         "form": {
@@ -5100,7 +5148,7 @@ var _default = {
           "translated": "crwdns6388801:0crwdne6388801:0",
           "source": "Add"
         },
-        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "caret_down_accessibility_label": {
         "form": {
@@ -5140,7 +5188,7 @@ var _default = {
           "translated": "crwdns6388811:0crwdne6388811:0",
           "source": "Checkmark"
         },
-        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "content_article_accessibility_label": {
         "form": {
@@ -5148,7 +5196,7 @@ var _default = {
           "translated": "crwdns6388813:0crwdne6388813:0",
           "source": "Article"
         },
-        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_exercise_accessibility_label": {
         "form": {
@@ -5156,7 +5204,7 @@ var _default = {
           "translated": "crwdns6388815:0crwdne6388815:0",
           "source": "Exercise"
         },
-        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "content_video_accessibility_label": {
         "form": {
@@ -5164,7 +5212,7 @@ var _default = {
           "translated": "crwdns6388817:0crwdne6388817:0",
           "source": "Video"
         },
-        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
       },
       "correct_accessibility_label": {
         "form": {
@@ -5172,7 +5220,7 @@ var _default = {
           "translated": "crwdns6388819:0crwdne6388819:0",
           "source": "Correct"
         },
-        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "critical_accessibility_label": {
         "form": {
@@ -5180,7 +5228,7 @@ var _default = {
           "translated": "crwdns7479843:0crwdne7479843:0",
           "source": "Critical"
         },
-        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "delete_accessibility_label": {
         "form": {
@@ -5188,7 +5236,7 @@ var _default = {
           "translated": "crwdns6388821:0crwdne6388821:0",
           "source": "Delete"
         },
-        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "dismiss_accessibility_label": {
         "form": {
@@ -5196,7 +5244,7 @@ var _default = {
           "translated": "crwdns6388823:0crwdne6388823:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "hint_accessibility_label": {
         "form": {
@@ -5204,7 +5252,7 @@ var _default = {
           "translated": "crwdns6388825:0crwdne6388825:0",
           "source": "Hint"
         },
-        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "incorrect_accessibility_label": {
         "form": {
@@ -5212,7 +5260,7 @@ var _default = {
           "translated": "crwdns6388827:0crwdne6388827:0",
           "source": "Incorrect"
         },
-        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "search_accessibility_label": {
         "form": {
@@ -5220,7 +5268,7 @@ var _default = {
           "translated": "crwdns6388829:0crwdne6388829:0",
           "source": "Search"
         },
-        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "settings_accessibility_label": {
         "form": {
@@ -5236,7 +5284,7 @@ var _default = {
           "translated": "crwdns6388831:0crwdne6388831:0",
           "source": "Sortable arrow down"
         },
-        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "sortable_arrow_up_small_accessibility_label": {
         "form": {
@@ -5244,7 +5292,7 @@ var _default = {
           "translated": "crwdns6388833:0crwdne6388833:0",
           "source": "Sortable arrow up"
         },
-        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "success_accessibility_label": {
         "form": {
@@ -5252,7 +5300,7 @@ var _default = {
           "translated": "crwdns7479845:0crwdne7479845:0",
           "source": "Success"
         },
-        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "zoom_in_accessibility_label": {
         "form": {
@@ -5260,7 +5308,7 @@ var _default = {
           "translated": "crwdns6388835:0crwdne6388835:0",
           "source": "Zoom in"
         },
-        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "zoom_out_accessibility_label": {
         "form": {
@@ -5268,7 +5316,7 @@ var _default = {
           "translated": "crwdns6388837:0crwdne6388837:0",
           "source": "Zoom out"
         },
-        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "scratchpad_accessibility_label": {
         "form": {
@@ -5276,7 +5324,7 @@ var _default = {
           "translated": "crwdns7088221:0crwdne7088221:0",
           "source": "Scratchpad"
         },
-        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "content_lesson_accessibility_label": {
         "form": {
@@ -5292,7 +5340,7 @@ var _default = {
           "translated": "crwdns6399489:0crwdne6399489:0",
           "source": "Warning"
         },
-        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /lcov-report/react-native/wonderblocks-rn/Icon/icon-assets.js.html\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
       },
       "you_can_learn_anything": {
         "form": {
@@ -5580,7 +5628,7 @@ var _default = {
           "translated": "crwdns6388995:0crwdne6388995:0",
           "source": "Licenses"
         },
-        "comment": "id:licenses\nTitle for a cell in Settings that displays a list of the software-licen\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:licenses\nTitle for a cell in Settings that displays a list of the software-licen\nUsed in the following files:\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
       },
       "settings_terms_of_service": {
         "form": {
@@ -6078,14 +6126,6 @@ var _default = {
         },
         "comment": "id:decimals\n\nplatform: android"
       },
-      "device_language": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388957:0crwdne6388957:0",
-          "source": "Device Language"
-        },
-        "comment": "id:device_language\n\nplatform: android"
-      },
       "differential_equations": {
         "form": {
           "status": "approved",
@@ -6189,14 +6229,6 @@ var _default = {
           "source": "Language"
         },
         "comment": "id:language\n\nplatform: android"
-      },
-      "language_content_notice": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388991:0crwdne6388991:0",
-          "source": "Please note that content availability may differ between languages."
-        },
-        "comment": "id:language_content_notice\n\nplatform: android"
       },
       "logarithms": {
         "form": {
@@ -7514,4 +7546,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.91b5bc77.js.map
+//# sourceMappingURL=/render.af721af9.js.map
