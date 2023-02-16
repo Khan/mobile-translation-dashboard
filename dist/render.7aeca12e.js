@@ -6669,6 +6669,14 @@ var _default = {
           "source": "The app now allows you to Sign in with Apple."
         },
         "comment": "id:whats_new_apple_sign_in\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+      },
+      "whats_new_start_over": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7501135:0crwdne7501135:0",
+          "source": "Introducing the “Start over” option! Now, while working on practice activities, you’ll have the option to quickly restart the activity from the beginning with just one tap. This feature allows you to restart practice without affecting your Mastery progress, making it easier than ever to learn. Try it out now and experience the difference!"
+        },
+        "comment": "id:whats_new_start_over\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
       }
     },
     "plural": {
@@ -7546,4 +7554,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.af721af9.js.map
+//# sourceMappingURL=/render.7aeca12e.js.map
