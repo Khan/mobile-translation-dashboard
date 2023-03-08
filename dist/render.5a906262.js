@@ -3676,7 +3676,7 @@ var _default = {
           "translated": "crwdns7499873:0crwdne7499873:0",
           "source": "Start over"
         },
-        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task."
+        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.js"
       },
       "are_you_sure": {
         "form": {
@@ -7554,4 +7554,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.7aeca12e.js.map
+//# sourceMappingURL=/render.5a906262.js.map
