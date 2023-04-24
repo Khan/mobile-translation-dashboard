@@ -117,7 +117,102 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   }
 
   return newRequire;
-})({"mbYX":[function(require,module,exports) {
+})({"SpGf":[function(require,module,exports) {
+function _interopRequireDefault(obj) {
+  return obj && obj.__esModule ? obj : {
+    default: obj
+  };
+}
+
+module.exports = _interopRequireDefault;
+},{}],"b9XL":[function(require,module,exports) {
+function _typeof2(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof2 = function _typeof2(obj) { return typeof obj; }; } else { _typeof2 = function _typeof2(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof2(obj); }
+
+function _typeof(obj) {
+  if (typeof Symbol === "function" && _typeof2(Symbol.iterator) === "symbol") {
+    module.exports = _typeof = function _typeof(obj) {
+      return _typeof2(obj);
+    };
+  } else {
+    module.exports = _typeof = function _typeof(obj) {
+      return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : _typeof2(obj);
+    };
+  }
+
+  return _typeof(obj);
+}
+
+module.exports = _typeof;
+},{}],"OUZ9":[function(require,module,exports) {
+function _arrayWithHoles(arr) {
+  if (Array.isArray(arr)) return arr;
+}
+
+module.exports = _arrayWithHoles;
+},{}],"9vK/":[function(require,module,exports) {
+function _iterableToArrayLimit(arr, i) {
+  var _arr = [];
+  var _n = true;
+  var _d = false;
+  var _e = undefined;
+
+  try {
+    for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) {
+      _arr.push(_s.value);
+
+      if (i && _arr.length === i) break;
+    }
+  } catch (err) {
+    _d = true;
+    _e = err;
+  } finally {
+    try {
+      if (!_n && _i["return"] != null) _i["return"]();
+    } finally {
+      if (_d) throw _e;
+    }
+  }
+
+  return _arr;
+}
+
+module.exports = _iterableToArrayLimit;
+},{}],"Rom6":[function(require,module,exports) {
+function _nonIterableRest() {
+  throw new TypeError("Invalid attempt to destructure non-iterable instance");
+}
+
+module.exports = _nonIterableRest;
+},{}],"69HE":[function(require,module,exports) {
+var arrayWithHoles = require("./arrayWithHoles");
+
+var iterableToArrayLimit = require("./iterableToArrayLimit");
+
+var nonIterableRest = require("./nonIterableRest");
+
+function _slicedToArray(arr, i) {
+  return arrayWithHoles(arr) || iterableToArrayLimit(arr, i) || nonIterableRest();
+}
+
+module.exports = _slicedToArray;
+},{"./arrayWithHoles":"OUZ9","./iterableToArrayLimit":"9vK/","./nonIterableRest":"Rom6"}],"IxO8":[function(require,module,exports) {
+function _defineProperty(obj, key, value) {
+  if (key in obj) {
+    Object.defineProperty(obj, key, {
+      value: value,
+      enumerable: true,
+      configurable: true,
+      writable: true
+    });
+  } else {
+    obj[key] = value;
+  }
+
+  return obj;
+}
+
+module.exports = _defineProperty;
+},{}],"mbYX":[function(require,module,exports) {
 exports = module.exports = typeof Object.keys === 'function'
   ? Object.keys : shim;
 
@@ -1104,8 +1199,6 @@ if ("production" === 'production') {
   module.exports = require('./cjs/react-dom.development.js');
 }
 },{"./cjs/react-dom.production.min.js":"i17t"}],"WOQ0":[function(require,module,exports) {
-"use strict";
-
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -1247,7 +1340,7 @@ var _default = {
           "translated": "crwdns6388007:0crwdne6388007:0",
           "source": "Search"
         },
-        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Explore/Explore.js\nFile: /navigators/Root.js"
       },
       "apply_search_filter": {
         "form": {
@@ -2511,7 +2604,7 @@ var _default = {
           "translated": "crwdns6388999:0crwdne6388999:0",
           "source": "Signing in…"
         },
-        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /navigators/Root.js\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /Welcome/LoggingInScreen.js\nFile: /navigators/Root.js\nFile: /shared/native/DeepLinkModule.js"
       },
       "or": {
         "form": {
@@ -2575,7 +2668,7 @@ var _default = {
           "translated": "crwdns6684688:0crwdne6684688:0",
           "source": "Sign in with Apple"
         },
-        "comment": "id:sign_in_with_apple\nLabel for a button that allows a user to sign in with Apple.\nUsed in the following files:\nFile: /LogIn/index.js"
+        "comment": "id:sign_in_with_apple\nLabel for a button that allows a user to sign in with Apple.\nUsed in the following files:\nFile: /LogIn/index.js\nFile: /navigators/Settings.js"
       },
       "sign_in_with_google": {
         "form": {
@@ -2903,7 +2996,7 @@ var _default = {
           "translated": "crwdns6388291:0crwdne6388291:0",
           "source": "Bookmarks"
         },
-        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /navigators/Bookmarks.js\nFile: /navigators/Tabs.js"
+        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /navigators/Bookmarks.js\nFile: /navigators/Root.js\nFile: /navigators/Tabs.js"
       },
       "edit": {
         "form": {
@@ -3583,7 +3676,7 @@ var _default = {
           "translated": "crwdns7499873:0crwdne7499873:0",
           "source": "Start over"
         },
-        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.js"
+        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js\nFile: /Task/Exercise/ActionBar/index.js"
       },
       "are_you_sure": {
         "form": {
@@ -3591,7 +3684,7 @@ var _default = {
           "translated": "crwdns7499875:0crwdne7499875:0",
           "source": "Are you sure?"
         },
-        "comment": "id:are_you_sure\nHeading for a confirmation modal."
+        "comment": "id:are_you_sure\nHeading for a confirmation modal.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
       },
       "start_over_lose_progress_warning": {
         "form": {
@@ -3599,7 +3692,39 @@ var _default = {
           "translated": "crwdns7499877:0crwdne7499877:0",
           "source": "You will lose your progress if you start over."
         },
-        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over."
+        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+      },
+      "start_over_error_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534863:0crwdne7534863:0",
+          "source": "We’re sorry, there’s been an error."
+        },
+        "comment": "id:start_over_error_title\nTitle for an error modal that appears when the user tries to start over on a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+      },
+      "start_over_error_already_restarted": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534865:0crwdne7534865:0",
+          "source": "It looks like you already restarted this task on another device."
+        },
+        "comment": "id:start_over_error_already_restarted\nError message that appears when the user tries to start over on a task that they have already restarted.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+      },
+      "start_over_error_already_completed": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534867:0crwdne7534867:0",
+          "source": "It looks like you already completed this task on another device."
+        },
+        "comment": "id:start_over_error_already_completed\nError message that appears when the user tries to start over on a task that they have already completed.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+      },
+      "start_over_error_unknown": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534869:0crwdne7534869:0",
+          "source": "We encountered an error while attempting to restart this task. Please try again later."
+        },
+        "comment": "id:start_over_error_unknown\nError message that appears when the user tries to start over on a task and an unknown error occurs.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
       },
       "close": {
         "form": {
@@ -3607,7 +3732,7 @@ var _default = {
           "translated": "crwdns7499879:0crwdne7499879:0",
           "source": "Close"
         },
-        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm."
+        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
       },
       "toggle_scratchpad": {
         "form": {
@@ -3679,7 +3804,7 @@ var _default = {
           "translated": "crwdns6388499:0crwdne6388499:0",
           "source": "Error making task progress"
         },
-        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.js"
+        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.js\nFile: /Task/Exercise/state/mastery.js\nFile: /Task/Exercise/state/online.js"
       },
       "exercise_error_message": {
         "form": {
@@ -6939,7 +7064,7 @@ var _default = {
   },
   "screenshotsByString": {
     "assignments_nav_title_kmap": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__notLoaded", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loading", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedNoPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseNotWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithCache", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache"],
-    "see_all": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__notLoaded", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loading", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedNoPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseNotWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithCache", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedlargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedhasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinglargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinghasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
+    "see_all": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__notLoaded", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loading", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedNoPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseNotWaiting", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithCache", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedhasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinghasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
     "explore_loading_kmap": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__notLoaded", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loading", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyWithPromise"],
     "assignment_kmap_completed": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedNoPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithCache"],
     "assignment_kmap_current_placement": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedWithPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedNoPromise", "ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithCache"],
@@ -6947,30 +7072,22 @@ var _default = {
     "assigned_goals_waiting_empty_subtitle": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseWaiting"],
     "assignment_kmap_active_empty_title": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseNotWaiting"],
     "assignment_kmap_active_empty_subtitle": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__loadedEmptyNoPromiseNotWaiting"],
-    "loading_state_wrapper_default_error_message": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
-    "explore_base_card_error_try_again": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
-    "explore_loading_assignments": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedlargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedhasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinglargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinghasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromisehasAdditionalAssignments"],
-    "explore_assignments": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedlargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinglargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache"],
+    "loading_state_wrapper_default_error_message": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
+    "explore_base_card_error_try_again": ["ClassDetails__Cards__AssignedKmapCard.fixture.js--Status__failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
+    "explore_loading_assignments": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedhasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinghasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromisehasAdditionalAssignments"],
+    "explore_assignments": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoaded", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loading", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCache"],
     "explore_assignments_additional": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--notLoadedhasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadinghasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithNoCachehasAdditionalAssignments"],
-    "complete": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
-    "best_score": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
-    "due_date": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachelargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
-    "explore_no_assignments_explore_title": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
-    "explore_no_assignments_explore_subtitle": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
-    "explore_assignments_see_n_due_later": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromiselargePortraitLayout", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
-    "mastery_challenge_camel_case": ["Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutStarting", "Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutResumingInexact"],
-    "get_started": ["Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutStarting"],
-    "mastery_challenge_description": ["Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutStarting"],
-    "inexact_resumable_mastery_challenge_description": ["Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutResumingInexact"],
-    "resume": ["Course__Cards__MasteryChallengeCard.js.fixture.js--smallLayoutResumingInexact"],
+    "complete": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
+    "best_score": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
+    "due_date": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedWithPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedNoPromisehasAdditionalAssignments", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCache", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--failedWithCachehasAdditionalAssignments"],
+    "explore_no_assignments_explore_title": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
+    "explore_no_assignments_explore_subtitle": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
+    "explore_assignments_see_n_due_later": ["ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromise", "ClassDetails__Cards__AssignmentsCard.js.fixture.js--loadedEmptyNoPromisehasAdditionalAssignments"],
     "article": ["Explore__ContentListItem.js.fixture.js--renders_a_an_Article_correctly"],
     "exercise": ["Explore__ContentListItem.js.fixture.js--renders_a_an_Exercise_correctly"],
     "explore_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty", "Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--one_missing"],
     "explore_loading_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--loading"],
     "explore_no_recent_lessons": ["Home__Sections__RecentLessons__RecentLessonsCard.fixture.js--empty"],
-    "explore_welcome_ready_to_start": ["Home__Sections__Welcome__WelcomeCard.fixture.js--smallLayout", "Home__Sections__Welcome__WelcomeCard.fixture.js--largeLayout"],
-    "explore_sign_in_prompt": ["Home__Sections__Welcome__WelcomeCard.fixture.js--smallLayout", "Home__Sections__Welcome__WelcomeCard.fixture.js--largeLayout"],
-    "action_login": ["Home__Sections__Welcome__WelcomeCard.fixture.js--smallLayout", "Home__Sections__Welcome__WelcomeCard.fixture.js--largeLayout"],
     "add_a_teacher": ["ManageCoaches__TeacherList.js.fixture.js--loading", "ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "manage_teachers_district_footer ": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
     "learn_more_sentence": ["ManageCoaches__TeacherList.js.fixture.js--loaded"],
@@ -6981,15 +7098,11 @@ var _default = {
     "you_got_it_persistence": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CorrectEventually"],
     "give_it_another_shot": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__Incorrect"],
     "try_again": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__Incorrect"],
-    "almost_there": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CriteriaNotMet"],
-    "eot_fraction_correct · singular:eot_energy_points_short_format": ["Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"],
-    "eot_skills_count": ["Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"]
+    "almost_there": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CriteriaNotMet"]
   }
 };
 exports.default = _default;
 },{}],"paDP":[function(require,module,exports) {
-"use strict";
-
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
@@ -7001,16 +7114,14 @@ var rawData = require('./raw-data').default;
 var _default = rawData;
 exports.default = _default;
 },{"./raw-data":"WOQ0"}],"FO+Z":[function(require,module,exports) {
-"use strict";
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.checkNoneMatchFilter = exports.showStatus = exports.matchesFilter = exports.getStringStatuses = exports.statusClasses = void 0;
+exports.statusClasses = exports.showStatus = exports.matchesFilter = exports.getStringStatuses = exports.checkNoneMatchFilter = void 0;
 
 var _data = _interopRequireDefault(require("./data.js"));
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /* eslint-disable camelcase */
 var statusClasses = {
@@ -7034,11 +7145,11 @@ var getStringStatuses = function getStringStatuses(parentNode) {
       var status = 'untranslated';
 
       for (var _i = 0, _Object$keys = Object.keys(statusClasses); _i < _Object$keys.length; _i++) {
-        var _key = _Object$keys[_i];
-        var found = node.querySelector('.' + _key);
+        var _key2 = _Object$keys[_i];
+        var found = node.querySelector('.' + _key2);
 
         if (found) {
-          status = statusClasses[_key];
+          status = statusClasses[_key2];
         }
       }
 
@@ -7093,17 +7204,17 @@ exports.showStatus = showStatus;
 
 var checkNoneMatchFilter = function checkNoneMatchFilter(state, filter) {
   for (var _i2 = 0, _Object$keys2 = Object.keys(_data.default.translations.singular); _i2 < _Object$keys2.length; _i2++) {
-    var _key2 = _Object$keys2[_i2];
+    var _key4 = _Object$keys2[_i2];
 
-    if (matchesFilter(state.statuses[_key2], filter)) {
+    if (matchesFilter(state.statuses[_key4], filter)) {
       return false;
     }
   }
 
   for (var _i3 = 0, _Object$keys3 = Object.keys(_data.default.translations.plural); _i3 < _Object$keys3.length; _i3++) {
-    var _key3 = _Object$keys3[_i3];
+    var _key6 = _Object$keys3[_i3];
 
-    if (matchesFilter(state.statuses[_key3], filter)) {
+    if (matchesFilter(state.statuses[_key6], filter)) {
       return false;
     }
   }
@@ -7112,8 +7223,10 @@ var checkNoneMatchFilter = function checkNoneMatchFilter(state, filter) {
 };
 
 exports.checkNoneMatchFilter = checkNoneMatchFilter;
-},{"./data.js":"paDP"}],"LOR1":[function(require,module,exports) {
-"use strict";
+},{"@babel/runtime/helpers/interopRequireDefault":"SpGf","./data.js":"paDP"}],"LOR1":[function(require,module,exports) {
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+var _typeof = require("@babel/runtime/helpers/typeof");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -7124,9 +7237,9 @@ var React = _interopRequireWildcard(require("react"));
 
 var _data = _interopRequireDefault(require("./data.js"));
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
+function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 
 var String = function String(_ref) {
   var id = _ref.id,
@@ -7156,8 +7269,14 @@ var String = function String(_ref) {
 
 var _default = String;
 exports.default = _default;
-},{"react":"1n8/","./data.js":"paDP"}],"I3Wr":[function(require,module,exports) {
-"use strict";
+},{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","react":"1n8/","./data.js":"paDP"}],"I3Wr":[function(require,module,exports) {
+var _interopRequireDefault = require("@babel/runtime/helpers/interopRequireDefault");
+
+var _typeof = require("@babel/runtime/helpers/typeof");
+
+var _slicedToArray2 = _interopRequireDefault(require("@babel/runtime/helpers/slicedToArray"));
+
+var _defineProperty2 = _interopRequireDefault(require("@babel/runtime/helpers/defineProperty"));
 
 var _deepEqual = _interopRequireDefault(require("deep-equal"));
 
@@ -7171,23 +7290,13 @@ var utils = _interopRequireWildcard(require("./utils"));
 
 var _String = _interopRequireDefault(require("./String"));
 
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
+function _getRequireWildcardCache(nodeInterop) { if (typeof WeakMap !== "function") return null; var cacheBabelInterop = new WeakMap(); var cacheNodeInterop = new WeakMap(); return (_getRequireWildcardCache = function _getRequireWildcardCache(nodeInterop) { return nodeInterop ? cacheNodeInterop : cacheBabelInterop; })(nodeInterop); }
 
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && obj.__esModule) { return obj; } if (obj === null || _typeof(obj) !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(nodeInterop); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (key !== "default" && Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
 
-function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _nonIterableRest(); }
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 
-function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance"); }
-
-function _iterableToArrayLimit(arr, i) { var _arr = []; var _n = true; var _d = false; var _e = undefined; try { for (var _i = arr[Symbol.iterator](), _s; !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
-
-function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
-
-function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
-
-function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(source, true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(source).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
-
-function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = null != arguments[i] ? arguments[i] : {}; i % 2 ? ownKeys(Object(source), !0).forEach(function (key) { (0, _defineProperty2.default)(target, key, source[key]); }) : Object.getOwnPropertyDescriptors ? Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)) : ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } return target; }
 
 var Images = function Images(_ref) {
   var id = _ref.id,
@@ -7287,22 +7396,22 @@ var FilterButton = function FilterButton(_ref3) {
 
 var App = function App() {
   var _React$useState = React.useState(null),
-      _React$useState2 = _slicedToArray(_React$useState, 2),
+      _React$useState2 = (0, _slicedToArray2.default)(_React$useState, 2),
       selected = _React$useState2[0],
       setSelected = _React$useState2[1];
 
   var _React$useState3 = React.useState('All'),
-      _React$useState4 = _slicedToArray(_React$useState3, 2),
+      _React$useState4 = (0, _slicedToArray2.default)(_React$useState3, 2),
       filter = _React$useState4[0],
       setFilter = _React$useState4[1];
 
   var _React$useState5 = React.useState(null),
-      _React$useState6 = _slicedToArray(_React$useState5, 2),
+      _React$useState6 = (0, _slicedToArray2.default)(_React$useState5, 2),
       zoomedImage = _React$useState6[0],
       setZoomedImage = _React$useState6[1];
 
   var _React$useState7 = React.useState(null),
-      _React$useState8 = _slicedToArray(_React$useState7, 2),
+      _React$useState8 = (0, _slicedToArray2.default)(_React$useState7, 2),
       state = _React$useState8[0],
       setState = _React$useState8[1];
 
@@ -7476,5 +7585,5 @@ var root = document.getElementById('root');
 if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
-},{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.f06f2fb9.js.map
+},{"@babel/runtime/helpers/interopRequireDefault":"SpGf","@babel/runtime/helpers/typeof":"b9XL","@babel/runtime/helpers/slicedToArray":"69HE","@babel/runtime/helpers/defineProperty":"IxO8","deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
+//# sourceMappingURL=/render.17255377.js.map
