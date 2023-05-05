@@ -7014,10 +7014,8 @@ var _default = {
     "give_it_another_shot": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__Incorrect"],
     "try_again": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__Incorrect"],
     "almost_there": ["Task__Exercise__ExerciseFeedback__Popover.js.fixture.js--for_answer_state__CriteriaNotMet"],
-    "eot_fraction_correct · singular:eot_energy_points_short_format": ["Task__SkillsListTaskCard__SkillsListTaskCard.js.fixture.js--smallLayout", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"],
-    "skill_level_changes": ["Task__SkillsListTaskCard__SkillsListTaskCard.js.fixture.js--smallLayout"],
-    "done": ["Task__SkillsListTaskCard__SkillsListTaskCard.js.fixture.js--smallLayout"],
-    "eot_skills_count": ["Task__SkillsListTaskCard__SkillsListTaskCard.js.fixture.js--smallLayout", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"]
+    "eot_fraction_correct · singular:eot_energy_points_short_format": ["Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"],
+    "eot_skills_count": ["Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_includingNotTested", "Task__SkillsListTaskCard__SkillsListTaskCardHeader.js.fixture.js--smallLayout_allSkillsTested"]
   }
 };
 exports.default = _default;
@@ -7511,4 +7509,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.57090428.js.map
+//# sourceMappingURL=/render.83359bcc.js.map
