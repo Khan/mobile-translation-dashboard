@@ -1119,7 +1119,7 @@ var _default = {
           "translated": "crwdns6388957:0crwdne6388957:0",
           "source": "Device Language"
         },
-        "comment": "id:device_language\n\nUsed in the following files:\nFile: /Languages/index.js"
+        "comment": "id:device_language\n\nUsed in the following files:\nFile: /Languages/index.tsx"
       },
       "language_content_notice": {
         "form": {
@@ -1127,7 +1127,7 @@ var _default = {
           "translated": "crwdns6388991:0crwdne6388991:0",
           "source": "Please note that content availability may differ between languages."
         },
-        "comment": "id:language_content_notice\n\nUsed in the following files:\nFile: /Languages/index.js"
+        "comment": "id:language_content_notice\n\nUsed in the following files:\nFile: /Languages/index.tsx"
       },
       "change_icon_title": {
         "form": {
@@ -1135,7 +1135,7 @@ var _default = {
           "translated": "crwdns7479849:0%(iconName)scrwdne7479849:0",
           "source": "Change icon to Khan Academy %(iconName)s?"
         },
-        "comment": "id:change_icon_title\nthe title of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:change_icon_title\nthe title of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "change_icon_message": {
         "form": {
@@ -1143,7 +1143,7 @@ var _default = {
           "translated": "crwdns7479851:0crwdne7479851:0",
           "source": "Changing the icon will close the app."
         },
-        "comment": "id:change_icon_message\nthe message of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:change_icon_message\nthe message of the \"change app icon\" alert on android\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "change_icon_confirm": {
         "form": {
@@ -1151,7 +1151,7 @@ var _default = {
           "translated": "crwdns7479853:0crwdne7479853:0",
           "source": "Change icon"
         },
-        "comment": "id:change_icon_confirm\nThe button to confirm & close the \"change app icon\" alert on android, resulting in the icon for our app being changed, and the app being closed.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:change_icon_confirm\nThe button to confirm & close the \"change app icon\" alert on android, resulting in the icon for our app being changed, and the app being closed.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "available_offline": {
         "form": {
@@ -1159,7 +1159,7 @@ var _default = {
           "translated": "crwdns6388019:0crwdne6388019:0",
           "source": "Available offline"
         },
-        "comment": "id:available_offline\nTitle of the filter in Search which limits results to those available offline\nUsed in the following files:\nFile: /redux/search/index.js"
+        "comment": "id:available_offline\nTitle of the filter in Search which limits results to those available offline\nUsed in the following files:\nFile: /redux/search/index.ts"
       },
       "videos_filter": {
         "form": {
@@ -1167,7 +1167,7 @@ var _default = {
           "translated": "crwdns7089375:0crwdne7089375:0",
           "source": "Videos"
         },
-        "comment": "id:videos_filter\nTitle of the filter in Search which limits results to videos\nUsed in the following files:\nFile: /redux/search/index.js"
+        "comment": "id:videos_filter\nTitle of the filter in Search which limits results to videos\nUsed in the following files:\nFile: /redux/search/index.ts"
       },
       "articles_filter": {
         "form": {
@@ -1175,7 +1175,7 @@ var _default = {
           "translated": "crwdns7089377:0crwdne7089377:0",
           "source": "Articles"
         },
-        "comment": "id:articles_filter\nTitle of the filter in Search which limits results to articles\nUsed in the following files:\nFile: /redux/search/index.js"
+        "comment": "id:articles_filter\nTitle of the filter in Search which limits results to articles\nUsed in the following files:\nFile: /redux/search/index.ts"
       },
       "exercises_filter": {
         "form": {
@@ -1183,7 +1183,7 @@ var _default = {
           "translated": "crwdns7089379:0crwdne7089379:0",
           "source": "Exercises"
         },
-        "comment": "id:exercises_filter\nTitle of the filter in Search which limits results to exercises\nUsed in the following files:\nFile: /redux/search/index.js"
+        "comment": "id:exercises_filter\nTitle of the filter in Search which limits results to exercises\nUsed in the following files:\nFile: /redux/search/index.ts"
       },
       "offline_banner": {
         "form": {
@@ -1191,7 +1191,7 @@ var _default = {
           "translated": "crwdns6388021:0crwdne6388021:0",
           "source": "You're offline."
         },
-        "comment": "id:offline_banner\nTitle of the offline banner.\nUsed in the following files:\nFile: /Explore/Explore.js\nFile: /shared/User/queries.js\nFile: /shared/components/OfflineBanner.js"
+        "comment": "id:offline_banner\nTitle of the offline banner.\nUsed in the following files:\nFile: /Explore/Explore.tsx\nFile: /shared/User/queries.ts\nFile: /shared/components/OfflineBanner.tsx"
       },
       "offline_subtitle": {
         "form": {
@@ -1199,7 +1199,7 @@ var _default = {
           "translated": "crwdns6388023:0crwdne6388023:0",
           "source": "Connect to Wi-Fi or cellular to go online."
         },
-        "comment": "id:offline_subtitle\nText on the Search Screen that shows up when the user is offline and has no search results\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:offline_subtitle\nText on the Search Screen that shows up when the user is offline and has no search results\nUsed in the following files:\nFile: /Explore/Explore.tsx"
       },
       "dismiss": {
         "form": {
@@ -1207,7 +1207,7 @@ var _default = {
           "translated": "crwdns6388025:0crwdne6388025:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /AppUpdateMessage/WhatsNewView.js\nFile: /BookmarksScreen/Cells/BookmarkCell.js\nFile: /BookmarksScreen/download-utils.js\nFile: /ManageCoaches/CoachListScene.js\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/components/NavBar.js"
+        "comment": "id:dismiss\nButton title for dismissing an alert.\nUsed in the following files:\nFile: /AddCoaches/index.tsx\nFile: /AppUpdateMessage/WhatsNewView.tsx\nFile: /BookmarksScreen/Cells/BookmarkCell.tsx\nFile: /BookmarksScreen/download-utils.ts\nFile: /ManageCoaches/CoachListScene.tsx\nFile: /redux/bookmarks/download/download-utils.ts\nFile: /redux/bookmarks/download/thunkActions.ts\nFile: /redux/bookmarks/index.ts\nFile: /redux/bookmarks/persist-utils.ts\nFile: /shared/components/NavBar.tsx"
       },
       "error_title": {
         "form": {
@@ -1215,7 +1215,7 @@ var _default = {
           "translated": "crwdns6388027:0crwdne6388027:0",
           "source": "Error retrieving data"
         },
-        "comment": "id:error_title\nTitle for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
+        "comment": "id:error_title\nTitle for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.tsx\nFile: /shared/alert-utils.ts"
       },
       "error_body": {
         "form": {
@@ -1223,7 +1223,7 @@ var _default = {
           "translated": "crwdns6388029:0crwdne6388029:0",
           "source": "We encountered an error while attempting to retrieve your data; please try again later."
         },
-        "comment": "id:error_body\nMessage for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.js\nFile: /shared/alert-utils.js"
+        "comment": "id:error_body\nMessage for an alert that's displayed when network request fails\nUsed in the following files:\nFile: /Home/Sections/MyCourses/OpenCoursesPickerButton.tsx\nFile: /shared/alert-utils.ts"
       },
       "error": {
         "form": {
@@ -1231,7 +1231,7 @@ var _default = {
           "translated": "crwdns6388031:0crwdne6388031:0",
           "source": "Error"
         },
-        "comment": "id:error\nTitle for an alert.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /Assignments/AssignmentsScreen/index.js\nFile: /CoursesPicker/DoneNavigationButton.js\nFile: /redux/bookmarks/index.js\nFile: /redux/bookmarks/persist-utils.js\nFile: /shared/makeScreenDataLoader.js"
+        "comment": "id:error\nTitle for an alert.\nUsed in the following files:\nFile: /AddCoaches/index.tsx\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /CoursesPicker/DoneNavigationButton.tsx\nFile: /redux/bookmarks/index.ts\nFile: /redux/bookmarks/persist-utils.ts\nFile: /shared/makeScreenDataLoader.tsx"
       },
       "explore": {
         "form": {
@@ -1239,7 +1239,7 @@ var _default = {
           "translated": "crwdns7098981:0crwdne7098981:0",
           "source": "Explore"
         },
-        "comment": "id:explore\nTitle for the explore & search tab\nUsed in the following files:\nFile: /navigators/Tabs.js"
+        "comment": "id:explore\nTitle for the explore & search tab\nUsed in the following files:\nFile: /navigators/Tabs.tsx"
       },
       "search": {
         "form": {
@@ -1247,7 +1247,7 @@ var _default = {
           "translated": "crwdns6388007:0crwdne6388007:0",
           "source": "Search"
         },
-        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Explore/Explore.js\nFile: /navigators/Root.js"
+        "comment": "id:search\nSearch field placeholder\nUsed in the following files:\nFile: /Explore/Explore.tsx\nFile: /navigators/Root.tsx"
       },
       "apply_search_filter": {
         "form": {
@@ -1255,7 +1255,7 @@ var _default = {
           "translated": "crwdns6388013:0crwdne6388013:0",
           "source": "Apply"
         },
-        "comment": "id:apply_search_filter\nButton title to apply filters selected within search UI\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:apply_search_filter\nButton title to apply filters selected within search UI\nUsed in the following files:\nFile: /Explore/Explore.tsx"
       },
       "filter": {
         "form": {
@@ -1263,7 +1263,7 @@ var _default = {
           "translated": "crwdns6388015:0crwdne6388015:0",
           "source": "Filter"
         },
-        "comment": "id:filter\nButton title to allow choosing search filters.\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:filter\nButton title to allow choosing search filters.\nUsed in the following files:\nFile: /Explore/Explore.tsx"
       },
       "no_results": {
         "form": {
@@ -1271,7 +1271,7 @@ var _default = {
           "translated": "crwdns6388017:0crwdne6388017:0",
           "source": "No results.\n Try a different search?"
         },
-        "comment": "id:no_results\nMessage for when no search results are found\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:no_results\nMessage for when no search results are found\nUsed in the following files:\nFile: /Explore/Explore.tsx"
       },
       "recent_searches": {
         "form": {
@@ -1279,7 +1279,7 @@ var _default = {
           "translated": "crwdns6642474:0crwdne6642474:0",
           "source": "Recent searches"
         },
-        "comment": "id:recent_searches\nTitle for a search feature that displays recent search terms\nUsed in the following files:\nFile: /Explore/RecentSearches.js"
+        "comment": "id:recent_searches\nTitle for a search feature that displays recent search terms\nUsed in the following files:\nFile: /Explore/RecentSearches.tsx"
       },
       "clear": {
         "form": {
@@ -1287,7 +1287,7 @@ var _default = {
           "translated": "crwdns6642476:0crwdne6642476:0",
           "source": "Clear"
         },
-        "comment": "id:clear\nButton title that erases recent search terms.\nUsed in the following files:\nFile: /Explore/RecentSearches.js"
+        "comment": "id:clear\nButton title that erases recent search terms.\nUsed in the following files:\nFile: /Explore/RecentSearches.tsx"
       },
       "khan_kids_upsell_message": {
         "form": {
@@ -1295,7 +1295,7 @@ var _default = {
           "translated": "crwdns6388033:0crwdne6388033:0",
           "source": "Kids ages 2-8 can learn math, reading, and more, while practicing English."
         },
-        "comment": "id:khan_kids_upsell_message\nMessage for our Khan kids upsell on the explore screen. NOTE do not change \"English\" into the name of the localized language - translate as-is.\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.js"
+        "comment": "id:khan_kids_upsell_message\nMessage for our Khan kids upsell on the explore screen. NOTE do not change \"English\" into the name of the localized language - translate as-is.\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.tsx"
       },
       "download_now": {
         "form": {
@@ -1303,7 +1303,7 @@ var _default = {
           "translated": "crwdns6388035:0crwdne6388035:0",
           "source": "Download now"
         },
-        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.js"
+        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.tsx"
       },
       "curriculum_picker_message": {
         "form": {
@@ -1311,7 +1311,7 @@ var _default = {
           "translated": "crwdns6450911:0crwdne6450911:0",
           "source": "Khan Academy supports many languages and regions."
         },
-        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
       "select_language": {
         "form": {
@@ -1319,7 +1319,7 @@ var _default = {
           "translated": "crwdns6450913:0crwdne6450913:0",
           "source": "Select language"
         },
-        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
       "change_language_settings": {
         "form": {
@@ -1327,7 +1327,7 @@ var _default = {
           "translated": "crwdns6450915:0crwdne6450915:0",
           "source": "Change this later in settings"
         },
-        "comment": "id:change_language_settings\nAlert header when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:change_language_settings\nAlert header when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
       "change_language_settings_text": {
         "form": {
@@ -1335,7 +1335,7 @@ var _default = {
           "translated": "crwdns6450917:0crwdne6450917:0",
           "source": "If you need to change the language later, you can do that in Profile > Settings."
         },
-        "comment": "id:change_language_settings_text\nAlert text when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:change_language_settings_text\nAlert text when someone says they are done with changing their region.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
       "language_wait_message": {
         "form": {
@@ -1343,7 +1343,7 @@ var _default = {
           "translated": "crwdns6388993:0%1$scrwdne6388993:0",
           "source": "Please wait a moment while we configure the language (<xliff:g xmlns:xliff=\"urn:oasis:names:tc:xliff:document:1.2\" id=\"target_language\">%1$s</xliff:g>)"
         },
-        "comment": "id:language_wait_message\n\nUsed in the following files:\nFile: /Languages/index.js"
+        "comment": "id:language_wait_message\n\nUsed in the following files:\nFile: /Languages/index.tsx"
       },
       "explore_welcome_ready_to_start": {
         "form": {
@@ -1351,7 +1351,7 @@ var _default = {
           "translated": "crwdns6388037:0crwdne6388037:0",
           "source": "Ready to start learning?"
         },
-        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Home Screen's Welcome Card\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js"
+        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Home Screen's Welcome Card\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx"
       },
       "explore_sign_in_prompt": {
         "form": {
@@ -1359,7 +1359,7 @@ var _default = {
           "translated": "crwdns6821718:0crwdne6821718:0",
           "source": "Log in or sign up to save your progress as you work through courses on Khan Academy."
         },
-        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Home Screen's Welcome Card.\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js"
+        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Home Screen's Welcome Card.\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx"
       },
       "explore_domains_browse_khan": {
         "form": {
@@ -1367,7 +1367,7 @@ var _default = {
           "translated": "crwdns6388041:0crwdne6388041:0",
           "source": "Browse Khan Academy"
         },
-        "comment": "id:explore_domains_browse_khan\nHeader for the Home Screen's Domain Section, the section listing the different learning domains (eg. Math, Science, Arts and humanities)\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
+        "comment": "id:explore_domains_browse_khan\nHeader for the Home Screen's Domain Section, the section listing the different learning domains (eg. Math, Science, Arts and humanities)\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.tsx"
       },
       "explore_my_courses": {
         "form": {
@@ -1375,7 +1375,7 @@ var _default = {
           "translated": "crwdns6388047:0crwdne6388047:0",
           "source": "My courses"
         },
-        "comment": "id:explore_my_courses\nHeader for the Home Screen's My Courses Section (the section listing the user's 'bookmarked' courses)\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_my_courses\nHeader for the Home Screen's My Courses Section (the section listing the user's 'bookmarked' courses)\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.tsx"
       },
       "explore_base_card_error_try_again": {
         "form": {
@@ -1383,7 +1383,7 @@ var _default = {
           "translated": "crwdns6388049:0crwdne6388049:0",
           "source": "Try again"
         },
-        "comment": "id:explore_base_card_error_try_again\nButton title shown on Try Again button there was an error loading an Home Screen card's data\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.js"
+        "comment": "id:explore_base_card_error_try_again\nButton title shown on Try Again button there was an error loading an Home Screen card's data\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.tsx"
       },
       "explore_loading_assignments": {
         "form": {
@@ -1391,7 +1391,7 @@ var _default = {
           "translated": "crwdns6399415:0crwdne6399415:0",
           "source": "Loading your assignments..."
         },
-        "comment": "id:explore_loading_assignments\nString shown in Assignment Card on Home Screen assignments are loading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /ClassDetails/ClassDetailsScreen.js"
+        "comment": "id:explore_loading_assignments\nString shown in Assignment Card on Home Screen assignments are loading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignmentsCard.tsx\nFile: /ClassDetails/ClassDetailsScreen.tsx"
       },
       "explore_loading_domains": {
         "form": {
@@ -1399,7 +1399,7 @@ var _default = {
           "translated": "crwdns6399417:0crwdne6399417:0",
           "source": "Loading your domains..."
         },
-        "comment": "id:explore_loading_domains\nString shown in Domain Card on Home Screen when domains are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
+        "comment": "id:explore_loading_domains\nString shown in Domain Card on Home Screen when domains are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.tsx"
       },
       "explore_loading_my_courses": {
         "form": {
@@ -1407,7 +1407,7 @@ var _default = {
           "translated": "crwdns6399419:0crwdne6399419:0",
           "source": "Loading your courses..."
         },
-        "comment": "id:explore_loading_my_courses\nString shown in My Courses Card on Home Screen when my courses are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_loading_my_courses\nString shown in My Courses Card on Home Screen when my courses are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.tsx"
       },
       "explore_loading_my_classes": {
         "form": {
@@ -1415,7 +1415,7 @@ var _default = {
           "translated": "crwdns6821720:0crwdne6821720:0",
           "source": "Loading your classes..."
         },
-        "comment": "id:explore_loading_my_classes\nString shown in My Classes Card on Home Screen when my classes are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:explore_loading_my_classes\nString shown in My Classes Card on Home Screen when my classes are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.tsx\nFile: /MyClasses/MyClassesScreen.tsx"
       },
       "explore_loading_course_mastery": {
         "form": {
@@ -1423,7 +1423,23 @@ var _default = {
           "translated": "crwdns6399421:0crwdne6399421:0",
           "source": "Loading Course Mastery..."
         },
-        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Home Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.js"
+        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Home Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
+      },
+      "explore_loading_unit_mastery": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567099:0crwdne7567099:0",
+          "source": "Loading Unit Mastery..."
+        },
+        "comment": "id:explore_loading_unit_mastery\nString shown in My Unit Mastery Card on Mastery Goals screen when assigned Unit Mastery goals are loading and the card is empty"
+      },
+      "explore_loading_mastery_goals": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567101:0crwdne7567101:0",
+          "source": "Loading your mastery goals..."
+        },
+        "comment": "id:explore_loading_mastery_goals\nString shown in My Mastery Goals Card on Class Screen when mastery goals are loading and the card is empty"
       },
       "explore_loading_kmap": {
         "form": {
@@ -1431,7 +1447,7 @@ var _default = {
           "translated": "crwdns6399423:0crwdne6399423:0",
           "source": "Loading your MAP Accelerator..."
         },
-        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Home Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /ClassDetails/Cards/AssignedKmapCard.js"
+        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Home Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
       },
       "explore_no_assignments_explore_title": {
         "form": {
@@ -1439,7 +1455,7 @@ var _default = {
           "translated": "crwdns6412021:0crwdne6412021:0",
           "source": "No assignments due soon"
         },
-        "comment": "id:explore_no_assignments_explore_title\nDisplayed on large layouts in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:explore_no_assignments_explore_title\nDisplayed on large layouts in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx\nFile: /MyClasses/ui-utils.ts"
       },
       "explore_no_assignments_explore_subtitle": {
         "form": {
@@ -1447,7 +1463,7 @@ var _default = {
           "translated": "crwdns6412023:0crwdne6412023:0",
           "source": "Nice hustle! Tap “See all” to view past assignments."
         },
-        "comment": "id:explore_no_assignments_explore_subtitle\nDisplayed in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_no_assignments_explore_subtitle\nDisplayed in the Assignments Card when there are no assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx"
       },
       "see_all": {
         "form": {
@@ -1455,7 +1471,7 @@ var _default = {
           "translated": "crwdns6388069:0crwdne6388069:0",
           "source": "See all"
         },
-        "comment": "id:see_all\nTitle for button that takes user to see all assignments/bookmarks/etc.\nUsed in the following files:\nFile: /Home/components/SeeAllButton.js"
+        "comment": "id:see_all\nTitle for button that takes user to see all assignments/bookmarks/etc.\nUsed in the following files:\nFile: /Home/components/SeeAllButton.tsx"
       },
       "explore_no_my_courses_button": {
         "form": {
@@ -1463,7 +1479,7 @@ var _default = {
           "translated": "crwdns6388071:0crwdne6388071:0",
           "source": "Get started"
         },
-        "comment": "id:explore_no_my_courses_button\nDisplayed on button in the My Courses Card when there are no assignments\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_no_my_courses_button\nDisplayed on button in the My Courses Card when there are no assignments\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.tsx"
       },
       "explore_no_my_courses_2": {
         "form": {
@@ -1471,7 +1487,7 @@ var _default = {
           "translated": "crwdns6388075:0crwdne6388075:0",
           "source": "Pick a few courses, and we’ll keep them on your home screen for quick access."
         },
-        "comment": "id:explore_no_my_courses_2\nDisplayed in the My Courses Card when there are no selected courses\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:explore_no_my_courses_2\nDisplayed in the My Courses Card when there are no selected courses\nUsed in the following files:\nFile: /Home/Sections/MyCourses/MyCoursesCard.tsx"
       },
       "domain_screen_nav_button_home": {
         "form": {
@@ -1479,7 +1495,7 @@ var _default = {
           "translated": "crwdns6388077:0crwdne6388077:0",
           "source": "Home"
         },
-        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Home Screen.\nUsed in the following files:\nFile: /navigators/Tabs.js"
+        "comment": "id:domain_screen_nav_button_home\nText displayed on the nav bar's Back button on the Domain Screen and the bottom tab bar, to take you 'home' to the Home Screen.\nUsed in the following files:\nFile: /navigators/Tabs.tsx"
       },
       "explore_recent_lessons": {
         "form": {
@@ -1487,7 +1503,7 @@ var _default = {
           "translated": "crwdns6399425:0crwdne6399425:0",
           "source": "Recent lessons"
         },
-        "comment": "id:explore_recent_lessons\nTitle of a card showing the lessons that the user has recently interacted with\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_recent_lessons\nTitle of a card showing the lessons that the user has recently interacted with\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.tsx"
       },
       "surprise_me": {
         "form": {
@@ -1495,7 +1511,7 @@ var _default = {
           "translated": "crwdns6388081:0crwdne6388081:0",
           "source": "Surprise me!"
         },
-        "comment": "id:surprise_me\nText for a button that will take you to a random video or article from the whole content library\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.js"
+        "comment": "id:surprise_me\nText for a button that will take you to a random video or article from the whole content library\nUsed in the following files:\nFile: /Home/Sections/Domains/DomainsCard.tsx"
       },
       "explore_no_recent_lessons": {
         "form": {
@@ -1503,7 +1519,7 @@ var _default = {
           "translated": "crwdns6399427:0crwdne6399427:0",
           "source": "No recent lessons"
         },
-        "comment": "id:explore_no_recent_lessons\nIndicates that the user has no recent lessons (generally because they haven't viewed any videos yet)\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_no_recent_lessons\nIndicates that the user has no recent lessons (generally because they haven't viewed any videos yet)\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.tsx"
       },
       "explore_loading_recent_lessons": {
         "form": {
@@ -1511,7 +1527,7 @@ var _default = {
           "translated": "crwdns6399429:0crwdne6399429:0",
           "source": "Loading your recent lessons..."
         },
-        "comment": "id:explore_loading_recent_lessons\nString shown in Recent Lesson Card on Home Screen when recent lessons are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.js"
+        "comment": "id:explore_loading_recent_lessons\nString shown in Recent Lesson Card on Home Screen when recent lessons are loading and the card is empty\nUsed in the following files:\nFile: /Home/Sections/RecentLessons/RecentLessonsCard.tsx"
       },
       "loading_state_wrapper_default_error_message": {
         "form": {
@@ -1519,7 +1535,7 @@ var _default = {
           "translated": "crwdns6399431:0crwdne6399431:0",
           "source": "Content isn’t loading right now."
         },
-        "comment": "id:loading_state_wrapper_default_error_message\nAssignments screen error-state text, that tells the learner to try again.\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.js"
+        "comment": "id:loading_state_wrapper_default_error_message\nAssignments screen error-state text, that tells the learner to try again.\nUsed in the following files:\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.tsx"
       },
       "loading_state_wrapper_default_loading_message": {
         "form": {
@@ -1527,7 +1543,7 @@ var _default = {
           "translated": "crwdns6399433:0crwdne6399433:0",
           "source": "Loading your content..."
         },
-        "comment": "id:loading_state_wrapper_default_loading_message\nString shown to user when loading any general content from the web.\nUsed in the following files:\nFile: /Domain/index.js\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.js"
+        "comment": "id:loading_state_wrapper_default_loading_message\nString shown to user when loading any general content from the web.\nUsed in the following files:\nFile: /Domain/index.tsx\nFile: /wonderblocks-doctoral-candidates/LoadingStateWrapper.tsx"
       },
       "explore_header_error_alert_title": {
         "form": {
@@ -1535,7 +1551,7 @@ var _default = {
           "translated": "crwdns6499501:0crwdne6499501:0",
           "source": "Error loading content"
         },
-        "comment": "id:explore_header_error_alert_title\nTitle on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.js"
+        "comment": "id:explore_header_error_alert_title\nTitle on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.tsx"
       },
       "explore_header_error_alert_body": {
         "form": {
@@ -1543,7 +1559,7 @@ var _default = {
           "translated": "crwdns6499503:0crwdne6499503:0",
           "source": "We were unable to load the latest content."
         },
-        "comment": "id:explore_header_error_alert_body\nBody on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.js"
+        "comment": "id:explore_header_error_alert_body\nBody on an alert on the Home Cards, when there was an error loading the content but the card is using cached content. Alert comes from little error indicator button.\nUsed in the following files:\nFile: /Home/components/HomeHeader.tsx"
       },
       "explore_my_classes_upsell_title": {
         "form": {
@@ -1551,7 +1567,7 @@ var _default = {
           "translated": "crwdns6821722:0crwdne6821722:0",
           "source": "Need to add a class?"
         },
-        "comment": "id:explore_my_classes_upsell_title\nTitle on a home screen card asking if a learner needs to join a class.\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_title\nTitle on a home screen card asking if a learner needs to join a class.\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.tsx"
       },
       "explore_my_classes_upsell_description": {
         "form": {
@@ -1559,7 +1575,7 @@ var _default = {
           "translated": "crwdns6821724:0crwdne6821724:0",
           "source": "Add your teacher with their class code or email address."
         },
-        "comment": "id:explore_my_classes_upsell_description\nDescription on a home screen card explaining that a learner can join a class via a code or the teacher's email address\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_description\nDescription on a home screen card explaining that a learner can join a class via a code or the teacher's email address\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.tsx"
       },
       "explore_my_classes_upsell_button": {
         "form": {
@@ -1567,7 +1583,7 @@ var _default = {
           "translated": "crwdns6821726:0crwdne6821726:0",
           "source": "Join class"
         },
-        "comment": "id:explore_my_classes_upsell_button\nButton title to join a class\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.js"
+        "comment": "id:explore_my_classes_upsell_button\nButton title to join a class\nUsed in the following files:\nFile: /Home/Sections/MyClassesUpsell/MyClassesUpsellCard.tsx"
       },
       "expand_courses_button_text": {
         "form": {
@@ -1575,7 +1591,7 @@ var _default = {
           "translated": "crwdns6474089:0crwdne6474089:0",
           "source": "See All"
         },
-        "comment": "id:expand_courses_button_text\nString shown on button for a collapsed list of courses that expands that list to show all the possible courses for a domain \nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:expand_courses_button_text\nString shown on button for a collapsed list of courses that expands that list to show all the possible courses for a domain \nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.tsx"
       },
       "expand_courses_button_text_with_number": {
         "form": {
@@ -1583,7 +1599,7 @@ var _default = {
           "translated": "crwdns6474091:0%(num)dcrwdne6474091:0",
           "source": "See All (%(num)d)"
         },
-        "comment": "id:expand_courses_button_text_with_number\nString shown on button for a collapsed list of courses that expands that list to show all the possible courses for a domain. This string also shows a number for the full possible number of courses. For example, the string may display \"See All (34)\" if there are 34 items in the fully expanded list\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:expand_courses_button_text_with_number\nString shown on button for a collapsed list of courses that expands that list to show all the possible courses for a domain. This string also shows a number for the full possible number of courses. For example, the string may display \"See All (34)\" if there are 34 items in the fully expanded list\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.tsx"
       },
       "collapse_courses_button_text": {
         "form": {
@@ -1591,7 +1607,7 @@ var _default = {
           "translated": "crwdns6474093:0crwdne6474093:0",
           "source": "See Fewer"
         },
-        "comment": "id:collapse_courses_button_text\nString shown on button for a expanded list of courses that collapses that list to show a limited list of courses for a domain \nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:collapse_courses_button_text\nString shown on button for a expanded list of courses that collapses that list to show a limited list of courses for a domain \nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.tsx"
       },
       "grade_picker_nav_title": {
         "form": {
@@ -1599,7 +1615,7 @@ var _default = {
           "translated": "crwdns6474095:0crwdne6474095:0",
           "source": "Choose grade"
         },
-        "comment": "id:grade_picker_nav_title\nThe nav bar text on the grade selection screen\nUsed in the following files:\nFile: /navigators/Home.js"
+        "comment": "id:grade_picker_nav_title\nThe nav bar text on the grade selection screen\nUsed in the following files:\nFile: /navigators/Home.tsx"
       },
       "courses_picker_nav_title": {
         "form": {
@@ -1607,7 +1623,7 @@ var _default = {
           "translated": "crwdns6474097:0crwdne6474097:0",
           "source": "Choose courses"
         },
-        "comment": "id:courses_picker_nav_title\nThe nav bar text on the courses selection screen.\nUsed in the following files:\nFile: /navigators/Home.js"
+        "comment": "id:courses_picker_nav_title\nThe nav bar text on the courses selection screen.\nUsed in the following files:\nFile: /navigators/Home.tsx"
       },
       "courses_picker_back_button": {
         "form": {
@@ -1623,7 +1639,7 @@ var _default = {
           "translated": "crwdns6474101:0crwdne6474101:0",
           "source": "What grade are you in?"
         },
-        "comment": "id:grade_picker_header_primary\nThe main header on the grade selection screen\nUsed in the following files:\nFile: /CoursesPicker/SelectGrade.js"
+        "comment": "id:grade_picker_header_primary\nThe main header on the grade selection screen\nUsed in the following files:\nFile: /CoursesPicker/SelectGrade.tsx"
       },
       "courses_picker_header_primary": {
         "form": {
@@ -1631,7 +1647,7 @@ var _default = {
           "translated": "crwdns6474105:0crwdne6474105:0",
           "source": "What courses can we help you learn?"
         },
-        "comment": "id:courses_picker_header_primary\nThe main header on the courses selection screen\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:courses_picker_header_primary\nThe main header on the courses selection screen\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.tsx"
       },
       "courses_picker_too_many_courses_error": {
         "form": {
@@ -1639,7 +1655,7 @@ var _default = {
           "translated": "crwdns6474109:0crwdne6474109:0",
           "source": "Alas! We can’t track more than 9 courses for you yet."
         },
-        "comment": "id:courses_picker_too_many_courses_error\nThis is the error text that displays when a user tries to select more than 9 courses in the course selection screen. This is the same message displayed in the web app.\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.js"
+        "comment": "id:courses_picker_too_many_courses_error\nThis is the error text that displays when a user tries to select more than 9 courses in the course selection screen. This is the same message displayed in the web app.\nUsed in the following files:\nFile: /CoursesPicker/SelectCourses.tsx"
       },
       "submit_selected_courses_error": {
         "form": {
@@ -1647,7 +1663,7 @@ var _default = {
           "translated": "crwdns6474111:0crwdne6474111:0",
           "source": "Sorry, we saw an unexpected error when updating your courses! Please try again later."
         },
-        "comment": "id:submit_selected_courses_error\nThis error is displayed if a user tries to submit the courses picker data and there is some error such as a bad internet connection.\nUsed in the following files:\nFile: /CoursesPicker/DoneNavigationButton.js"
+        "comment": "id:submit_selected_courses_error\nThis error is displayed if a user tries to submit the courses picker data and there is some error such as a bad internet connection.\nUsed in the following files:\nFile: /CoursesPicker/DoneNavigationButton.tsx"
       },
       "unavailable_content": {
         "form": {
@@ -1655,7 +1671,7 @@ var _default = {
           "translated": "crwdns6389061:0crwdne6389061:0",
           "source": "This content isn't available in our app."
         },
-        "comment": "id:unavailable_content\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:unavailable_content\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.tsx\nFile: /shared/native/NavigationModule.ts"
       },
       "open_in_browser_accept": {
         "form": {
@@ -1663,7 +1679,7 @@ var _default = {
           "translated": "crwdns6389011:0crwdne6389011:0",
           "source": "Open in browser"
         },
-        "comment": "id:open_in_browser_accept\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:open_in_browser_accept\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.tsx\nFile: /shared/native/NavigationModule.ts"
       },
       "my_classes": {
         "form": {
@@ -1671,7 +1687,7 @@ var _default = {
           "translated": "crwdns6821728:0crwdne6821728:0",
           "source": "My classes"
         },
-        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js\nFile: /navigators/Home.js"
+        "comment": "id:my_classes\nTitle for the My Classes feature, where a learner can view all of their classes and teachers.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.tsx\nFile: /navigators/Home.tsx"
       },
       "active_classes": {
         "form": {
@@ -1679,7 +1695,7 @@ var _default = {
           "translated": "crwdns6821730:0crwdne6821730:0",
           "source": "Active classes"
         },
-        "comment": "id:active_classes\nSection header title for a list of classes that have current assignments\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:active_classes\nSection header title for a list of classes that have current assignments\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.tsx"
       },
       "inactive_classes": {
         "form": {
@@ -1687,7 +1703,7 @@ var _default = {
           "translated": "crwdns6821732:0crwdne6821732:0",
           "source": "Inactive classes"
         },
-        "comment": "id:inactive_classes\nSection header title for a list of classes that have not had an assignment in a very long time.\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:inactive_classes\nSection header title for a list of classes that have not had an assignment in a very long time.\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.tsx"
       },
       "inactive_class": {
         "form": {
@@ -1695,7 +1711,7 @@ var _default = {
           "translated": "crwdns6821734:0crwdne6821734:0",
           "source": "Inactive class"
         },
-        "comment": "id:inactive_class\nLabel to describe a class that has not had an assignment in a very long time\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:inactive_class\nLabel to describe a class that has not had an assignment in a very long time\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "inactive_class_footer": {
         "form": {
@@ -1703,7 +1719,7 @@ var _default = {
           "translated": "crwdns6821736:0crwdne6821736:0",
           "source": "A class is considered inactive when there has been no assignment activity in one year."
         },
-        "comment": "id:inactive_class_footer\nSection footer description to explain what conditions cause a class to be considered inactive.\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.js"
+        "comment": "id:inactive_class_footer\nSection footer description to explain what conditions cause a class to be considered inactive.\nUsed in the following files:\nFile: /MyClasses/MyClassesScreen.tsx"
       },
       "no_assignments": {
         "form": {
@@ -1711,7 +1727,7 @@ var _default = {
           "translated": "crwdns6821738:0crwdne6821738:0",
           "source": "No assignments"
         },
-        "comment": "id:no_assignments\nLabel to describe a class that does not have any assignments\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.js"
+        "comment": "id:no_assignments\nLabel to describe a class that does not have any assignments\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.tsx"
       },
       "no_assignments_subtitle": {
         "form": {
@@ -1719,7 +1735,7 @@ var _default = {
           "translated": "crwdns6821740:0crwdne6821740:0",
           "source": "Your teacher hasn't assigned anything yet."
         },
-        "comment": "id:no_assignments_subtitle\nDescription label that explains why there are no assignments in a classroom.\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.js"
+        "comment": "id:no_assignments_subtitle\nDescription label that explains why there are no assignments in a classroom.\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.tsx"
       },
       "map_accelerator": {
         "form": {
@@ -1727,7 +1743,7 @@ var _default = {
           "translated": "crwdns6821742:0crwdne6821742:0",
           "source": "MAP Accelerator"
         },
-        "comment": "id:map_accelerator\nLabel to describe the MAP Accelerator feature\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:map_accelerator\nLabel to describe the MAP Accelerator feature\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "no_active_classes": {
         "form": {
@@ -1735,7 +1751,7 @@ var _default = {
           "translated": "crwdns6821744:0crwdne6821744:0",
           "source": "No active classes"
         },
-        "comment": "id:no_active_classes\nEmpty-state title for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:no_active_classes\nEmpty-state title for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.tsx"
       },
       "no_active_classes_subtitle": {
         "form": {
@@ -1743,7 +1759,7 @@ var _default = {
           "translated": "crwdns6821746:0crwdne6821746:0",
           "source": "You don’t have any active classes right now."
         },
-        "comment": "id:no_active_classes_subtitle\nEmpty-state subtitle for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:no_active_classes_subtitle\nEmpty-state subtitle for our my classes feature - if you do not have any active classes.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.tsx"
       },
       "five_plus_assignments": {
         "form": {
@@ -1751,7 +1767,7 @@ var _default = {
           "translated": "crwdns6821748:0crwdne6821748:0",
           "source": "5+ assignments"
         },
-        "comment": "id:five_plus_assignments\nLabel for class that has five or more assignments\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:five_plus_assignments\nLabel for class that has five or more assignments\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "five_plus_assignments_due_soon": {
         "form": {
@@ -1759,7 +1775,7 @@ var _default = {
           "translated": "crwdns6821750:0crwdne6821750:0",
           "source": "5+ assignments due soon"
         },
-        "comment": "id:five_plus_assignments_due_soon\nLabel for class that has five or more assignments that are due soon\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:five_plus_assignments_due_soon\nLabel for class that has five or more assignments that are due soon\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "five_plus_assignments_overdue": {
         "form": {
@@ -1767,7 +1783,7 @@ var _default = {
           "translated": "crwdns6821752:0crwdne6821752:0",
           "source": "5+ assignments overdue"
         },
-        "comment": "id:five_plus_assignments_overdue\nLabel for class that has five or more assignments that are overdue\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:five_plus_assignments_overdue\nLabel for class that has five or more assignments that are overdue\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "courses_count": {
         "form": {
@@ -1775,7 +1791,7 @@ var _default = {
           "translated": "crwdns6821754:0%(num1)scrwdne6821754:0",
           "source": "Courses (%(num1)s)"
         },
-        "comment": "id:courses_count\nNumber courses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.js"
+        "comment": "id:courses_count\nNumber courses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
       },
       "courses": {
         "form": {
@@ -1783,7 +1799,39 @@ var _default = {
           "translated": "crwdns6821756:0crwdne6821756:0",
           "source": "Courses"
         },
-        "comment": "id:courses\nCourses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.js"
+        "comment": "id:courses\nCourses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
+      },
+      "units_count": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567103:0%(num1)scrwdne7567103:0",
+          "source": "Units (%(num1)s)"
+        },
+        "comment": "id:units_count\nNumber of units that a teacher has assigned for the student."
+      },
+      "units": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567105:0crwdne7567105:0",
+          "source": "Units"
+        },
+        "comment": "id:units\nUnits that a teacher has assigned for the student.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
+      },
+      "mastery_goals_count": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567107:0%(num1)scrwdne7567107:0",
+          "source": "Mastery goals (%(num1)s)"
+        },
+        "comment": "id:mastery_goals_count\nNumber of mastery goals that a teacher has assigned for the student."
+      },
+      "mastery_goals": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7567109:0crwdne7567109:0",
+          "source": "Mastery goals"
+        },
+        "comment": "id:mastery_goals\nMastery goals that a teacher has assigned for the student."
       },
       "error_loading_class": {
         "form": {
@@ -1791,7 +1839,7 @@ var _default = {
           "translated": "crwdns6821758:0crwdne6821758:0",
           "source": "Error loading class"
         },
-        "comment": "id:error_loading_class\nShort screen title describing that there was an error loading the class.\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.js"
+        "comment": "id:error_loading_class\nShort screen title describing that there was an error loading the class.\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.tsx"
       },
       "add_a_class": {
         "form": {
@@ -1799,7 +1847,7 @@ var _default = {
           "translated": "crwdns6821760:0crwdne6821760:0",
           "source": "Add a class"
         },
-        "comment": "id:add_a_class\nTitle for a button that adds a class for the learner.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.js"
+        "comment": "id:add_a_class\nTitle for a button that adds a class for the learner.\nUsed in the following files:\nFile: /Home/Sections/MyClassesCard/MyClassesCard.tsx"
       },
       "last_due_date": {
         "form": {
@@ -1807,7 +1855,7 @@ var _default = {
           "translated": "crwdns6821762:0%(num)scrwdne6821762:0",
           "source": "Last assignment %(num)s"
         },
-        "comment": "id:last_due_date\nThe date of the most-recent assignment for a given class.\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:last_due_date\nThe date of the most-recent assignment for a given class.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "lessons": {
         "form": {
@@ -1815,7 +1863,7 @@ var _default = {
           "translated": "crwdns6388089:0crwdne6388089:0",
           "source": "Lessons"
         },
-        "comment": "id:lessons\nTitle of table-of-contents that lists lessons within a unit.\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
+        "comment": "id:lessons\nTitle of table-of-contents that lists lessons within a unit.\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx"
       },
       "course_challenge_card_test_your_knowledge": {
         "form": {
@@ -1823,7 +1871,7 @@ var _default = {
           "translated": "crwdns6388111:0crwdne6388111:0",
           "source": "Test your knowledge of the skills in this course."
         },
-        "comment": "id:course_challenge_card_test_your_knowledge\nSubtitle for the course challenge card on the Course screen\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.js"
+        "comment": "id:course_challenge_card_test_your_knowledge\nSubtitle for the course challenge card on the Course screen\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx"
       },
       "course_challenge": {
         "form": {
@@ -1831,7 +1879,7 @@ var _default = {
           "translated": "crwdns6388113:0crwdne6388113:0",
           "source": "Course challenge"
         },
-        "comment": "id:course_challenge\nTitle for course challenge card on the Course screen that directs the user to the challenge for that course\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.js\nFile: /Course/CourseScreen.js\nFile: /Course/UnitList/CourseChallengeCell.js\nFile: /Course/UnitList/index.js"
+        "comment": "id:course_challenge\nTitle for course challenge card on the Course screen that directs the user to the challenge for that course\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx\nFile: /Course/CourseScreen.tsx\nFile: /Course/UnitList/CourseChallengeCell.tsx\nFile: /Course/UnitList/index.tsx"
       },
       "cc_card_last_attempt": {
         "form": {
@@ -1839,7 +1887,7 @@ var _default = {
           "translated": "crwdns6388115:0%(num)scrwdne6388115:0",
           "source": "Last attempt %(num)s"
         },
-        "comment": "id:cc_card_last_attempt\nLabel on course challenge card on the Course screen beside the actual previous attempt details\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.js"
+        "comment": "id:cc_card_last_attempt\nLabel on course challenge card on the Course screen beside the actual previous attempt details\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx"
       },
       "cc_card_take_challenge_button": {
         "form": {
@@ -1847,7 +1895,7 @@ var _default = {
           "translated": "crwdns6388117:0crwdne6388117:0",
           "source": "Take Course Challenge"
         },
-        "comment": "id:cc_card_take_challenge_button\nText for button on the Course Challenge card when the challenge has never been attempted\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.js"
+        "comment": "id:cc_card_take_challenge_button\nText for button on the Course Challenge card when the challenge has never been attempted\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx"
       },
       "cc_card_take_challenge_again_button": {
         "form": {
@@ -1855,7 +1903,7 @@ var _default = {
           "translated": "crwdns6388119:0crwdne6388119:0",
           "source": "Take Course Challenge Again"
         },
-        "comment": "id:cc_card_take_challenge_again_button\nText for button on the Course Challenge card when the challenge has been attempted one, or more, times\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.js"
+        "comment": "id:cc_card_take_challenge_again_button\nText for button on the Course Challenge card when the challenge has been attempted one, or more, times\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx"
       },
       "course_challenge_subtitle": {
         "form": {
@@ -1863,7 +1911,7 @@ var _default = {
           "translated": "crwdns6388121:0crwdne6388121:0",
           "source": "Test your understanding"
         },
-        "comment": "id:course_challenge_subtitle\nSubtitle below the course_challenge\nUsed in the following files:\nFile: /Course/UnitList/CourseChallengeCell.js"
+        "comment": "id:course_challenge_subtitle\nSubtitle below the course_challenge\nUsed in the following files:\nFile: /Course/UnitList/CourseChallengeCell.tsx"
       },
       "content_update_notification_indication": {
         "form": {
@@ -1871,7 +1919,7 @@ var _default = {
           "translated": "crwdns6388123:0crwdne6388123:0",
           "source": "New content added!"
         },
-        "comment": "id:content_update_notification_indication\nBrief text alerting a user that new content was added when landing on a Course Page. This is on both the title of the alert that pops up automatically and on the Unit Card headers of the units with the content.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.js\nFile: /Course/Mastery/contentUpdateNotificationUtils.js"
+        "comment": "id:content_update_notification_indication\nBrief text alerting a user that new content was added when landing on a Course Page. This is on both the title of the alert that pops up automatically and on the Unit Card headers of the units with the content.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.tsx\nFile: /Course/Mastery/contentUpdateNotificationUtils.ts"
       },
       "content_update_notification_detail": {
         "form": {
@@ -1879,7 +1927,7 @@ var _default = {
           "translated": "crwdns6388125:0crwdne6388125:0",
           "source": "Because we've added new content for you to learn, your Mastery percentage may have gone down. However, the number of Mastery points you've collected is still the same!"
         },
-        "comment": "id:content_update_notification_detail\nMore detailed explanation alerting the user that new content was added, when landing on a Course Page, and that their mastery percentage has gone down. This is in the body of the alert that pops up automatically.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js"
+        "comment": "id:content_update_notification_detail\nMore detailed explanation alerting the user that new content was added, when landing on a Course Page, and that their mastery percentage has gone down. This is in the body of the alert that pops up automatically.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.ts"
       },
       "content_update_notification_alert_learn_more_button": {
         "form": {
@@ -1887,7 +1935,7 @@ var _default = {
           "translated": "crwdns6388127:0crwdne6388127:0",
           "source": "Learn more"
         },
-        "comment": "id:content_update_notification_alert_learn_more_button\nThis is a title of a button of an alert the users sees when landing on a Course Page that has new content added. Clicking the button takes them to the web where they can learn more.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js"
+        "comment": "id:content_update_notification_alert_learn_more_button\nThis is a title of a button of an alert the users sees when landing on a Course Page that has new content added. Clicking the button takes them to the web where they can learn more.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.ts"
       },
       "ok_button": {
         "form": {
@@ -1895,7 +1943,7 @@ var _default = {
           "translated": "crwdns6388129:0crwdne6388129:0",
           "source": "OK"
         },
-        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /Curriculum/CurriculumScreen.js\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js\nFile: /Home/components/HomeHeader.js"
+        "comment": "id:ok_button\nAn OK button for an alert.\nUsed in the following files:\nFile: /Course/Mastery/contentUpdateNotificationUtils.ts\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx\nFile: /Home/components/HomeHeader.tsx"
       },
       "unit_title_prefix": {
         "form": {
@@ -1903,7 +1951,7 @@ var _default = {
           "translated": "crwdns6684686:0%(title)scrwdne6684686:0",
           "source": "Unit: %(title)s"
         },
-        "comment": "id:unit_title_prefix\nThe title displayed at the top of our Unit screen. The title of the unit will be inserted into the string, e.g. \"Unit: Negative numbers\"\nUsed in the following files:\nFile: /Unit/index.js"
+        "comment": "id:unit_title_prefix\nThe title displayed at the top of our Unit screen. The title of the unit will be inserted into the string, e.g. \"Unit: Negative numbers\"\nUsed in the following files:\nFile: /Unit/index.tsx"
       },
       "title_profile": {
         "form": {
@@ -1919,7 +1967,7 @@ var _default = {
           "translated": "crwdns6388137:0crwdne6388137:0",
           "source": "Sign in"
         },
-        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.js\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts"
       },
       "action_logout": {
         "form": {
@@ -1927,7 +1975,7 @@ var _default = {
           "translated": "crwdns6388139:0crwdne6388139:0",
           "source": "Sign out"
         },
-        "comment": "id:action_logout\nButton text for logging out\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:action_logout\nButton text for logging out\nUsed in the following files:\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts"
       },
       "are_you_sure_sign_out": {
         "form": {
@@ -1935,7 +1983,7 @@ var _default = {
           "translated": "crwdns6849516:0crwdne6849516:0",
           "source": "Are you sure you want to sign out?"
         },
-        "comment": "id:are_you_sure_sign_out\nAlert title to confirm that a user wants to take an action.\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:are_you_sure_sign_out\nAlert title to confirm that a user wants to take an action.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "try_again": {
         "form": {
@@ -1943,7 +1991,7 @@ var _default = {
           "translated": "crwdns6388141:0crwdne6388141:0",
           "source": "Try again"
         },
-        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js\nFile: /Home/components/HomeHeader.js\nFile: /Task/Exercise/ActionBar/Button.js\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /Home/components/HomeHeader.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "settings_icon": {
         "form": {
@@ -1951,7 +1999,7 @@ var _default = {
           "translated": "crwdns6388149:0crwdne6388149:0",
           "source": "Settings"
         },
-        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "assignments": {
         "form": {
@@ -1959,7 +2007,7 @@ var _default = {
           "translated": "crwdns6388151:0crwdne6388151:0",
           "source": "Assignments"
         },
-        "comment": "id:assignments\nAssignments screen / row header\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:assignments\nAssignments screen / row header\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx\nFile: /shared/native/UserManager.ts"
       },
       "upcoming_assignments": {
         "form": {
@@ -1967,7 +2015,7 @@ var _default = {
           "translated": "crwdns6388157:0crwdne6388157:0",
           "source": "Upcoming"
         },
-        "comment": "id:upcoming_assignments\nDescription for the upcoming assignments section of the assignments screen\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js"
+        "comment": "id:upcoming_assignments\nDescription for the upcoming assignments section of the assignments screen\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
       "active_goals": {
         "form": {
@@ -1975,7 +2023,7 @@ var _default = {
           "translated": "crwdns6412025:0crwdne6412025:0",
           "source": "Active"
         },
-        "comment": "id:active_goals\nTitle for the section of active goals in the assignments screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js"
+        "comment": "id:active_goals\nTitle for the section of active goals in the assignments screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
       "past_assignments": {
         "form": {
@@ -1983,7 +2031,7 @@ var _default = {
           "translated": "crwdns6388159:0crwdne6388159:0",
           "source": "Past"
         },
-        "comment": "id:past_assignments\nDescription for the past assignments section of the assignments screen\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js"
+        "comment": "id:past_assignments\nDescription for the past assignments section of the assignments screen\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
       "error_loading_assigned_content_banner": {
         "form": {
@@ -1991,7 +2039,7 @@ var _default = {
           "translated": "crwdns6499505:0crwdne6499505:0",
           "source": "Unable to load latest content. Try again?"
         },
-        "comment": "id:error_loading_assigned_content_banner\nText on a banner that is displayed on the Assignments Screen when there was an error loading the data, but there is cached data to use.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js"
+        "comment": "id:error_loading_assigned_content_banner\nText on a banner that is displayed on the Assignments Screen when there was an error loading the data, but there is cached data to use.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx"
       },
       "back": {
         "form": {
@@ -1999,7 +2047,7 @@ var _default = {
           "translated": "crwdns6388165:0crwdne6388165:0",
           "source": "Back"
         },
-        "comment": "id:back\nText for a button that closes an error alert\nUsed in the following files:\nFile: /shared/alert-utils.js\nFile: /shared/components/BackButton.js\nFile: /shared/components/NavBar.js"
+        "comment": "id:back\nText for a button that closes an error alert\nUsed in the following files:\nFile: /shared/alert-utils.ts\nFile: /shared/components/BackButton.tsx\nFile: /shared/components/NavBar.tsx\nFile: /snapshots/app-store/ScreenshotNavbar.tsx"
       },
       "loading": {
         "form": {
@@ -2015,7 +2063,7 @@ var _default = {
           "translated": "crwdns6388173:0crwdne6388173:0",
           "source": "You're all set! Nothing's upcoming."
         },
-        "comment": "id:nothing_upcoming\nText for the empty state of the upcoming tab in the assignments screen.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:nothing_upcoming\nText for the empty state of the upcoming tab in the assignments screen.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_complete": {
         "form": {
@@ -2023,7 +2071,7 @@ var _default = {
           "translated": "crwdns6388177:0crwdne6388177:0",
           "source": "Assignment complete!"
         },
-        "comment": "id:assignment_complete\nText for a notification that appears when an assignment is completed.\nUsed in the following files:\nFile: /Assignments/AssignmentNotif/index.js"
+        "comment": "id:assignment_complete\nText for a notification that appears when an assignment is completed.\nUsed in the following files:\nFile: /Assignments/AssignmentNotif/index.tsx"
       },
       "complete": {
         "form": {
@@ -2031,7 +2079,7 @@ var _default = {
           "translated": "crwdns6388179:0crwdne6388179:0",
           "source": "Complete"
         },
-        "comment": "id:complete\nText that replaces the due date of assignments that are complete on the explore tab.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:complete\nText that replaces the due date of assignments that are complete on the explore tab.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "best_score": {
         "form": {
@@ -2039,7 +2087,7 @@ var _default = {
           "translated": "crwdns6388181:0%(num1)dcrwdne6388181:0",
           "source": "%(num1)d%"
         },
-        "comment": "id:best_score\nThe best score, as a percentage (e.g., \"80%\") for completed assignments on the explore tab.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:best_score\nThe best score, as a percentage (e.g., \"80%\") for completed assignments on the explore tab.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_no_content": {
         "form": {
@@ -2047,7 +2095,7 @@ var _default = {
           "translated": "crwdns6388187:0crwdne6388187:0",
           "source": "This assignment is not available in your language."
         },
-        "comment": "id:assignment_no_content\nA title shown for an assignment if it is unavailable.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_no_content\nA title shown for an assignment if it is unavailable.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_no_content_error": {
         "form": {
@@ -2055,7 +2103,7 @@ var _default = {
           "translated": "crwdns6388189:0crwdne6388189:0",
           "source": "We're sorry, but this assignment is not available in your language. Please switch to your classroom's primary language to access your assignment."
         },
-        "comment": "id:assignment_no_content_error\nAn alert shown for assignments that are unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_no_content_error\nAn alert shown for assignments that are unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assigned_goal_no_content": {
         "form": {
@@ -2063,7 +2111,7 @@ var _default = {
           "translated": "crwdns6499507:0crwdne6499507:0",
           "source": "This course is not available in your language."
         },
-        "comment": "id:assigned_goal_no_content\nA title shown for an assigned goal when it is unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assigned_goal_no_content\nA title shown for an assigned goal when it is unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assigned_goal_no_content_error": {
         "form": {
@@ -2071,7 +2119,7 @@ var _default = {
           "translated": "crwdns6499509:0crwdne6499509:0",
           "source": "We're sorry, but this course is not available in your language. Please switch to your classroom's primary language."
         },
-        "comment": "id:assigned_goal_no_content_error\nAn alert shown for assigned Course Mastery goals that are unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assigned_goal_no_content_error\nAn alert shown for assigned Course Mastery goals that are unavailable in the user's language.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignments_nav_title": {
         "form": {
@@ -2079,7 +2127,7 @@ var _default = {
           "translated": "crwdns6399437:0crwdne6399437:0",
           "source": "Assignments"
         },
-        "comment": "id:assignments_nav_title\nNavigation bar title for the `Assignments` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js"
+        "comment": "id:assignments_nav_title\nNavigation bar title for the `Assignments` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
       "assignments_nav_title_course_mastery": {
         "form": {
@@ -2087,7 +2135,7 @@ var _default = {
           "translated": "crwdns6399439:0crwdne6399439:0",
           "source": "Courses"
         },
-        "comment": "id:assignments_nav_title_course_mastery\nNavigation bar title for the `Courses` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js"
+        "comment": "id:assignments_nav_title_course_mastery\nNavigation bar title for the `Courses` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
       "assignments_nav_title_kmap": {
         "form": {
@@ -2095,7 +2143,7 @@ var _default = {
           "translated": "crwdns6399441:0crwdne6399441:0",
           "source": "MAP Accelerator"
         },
-        "comment": "id:assignments_nav_title_kmap\nNavigation bar title for the `MAP Accelerator` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.js\nFile: /ClassDetails/Cards/AssignedKmapCard.js"
+        "comment": "id:assignments_nav_title_kmap\nNavigation bar title for the `MAP Accelerator` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
       },
       "assignments_see_more_button": {
         "form": {
@@ -2103,7 +2151,7 @@ var _default = {
           "translated": "crwdns6515094:0crwdne6515094:0",
           "source": "See more"
         },
-        "comment": "id:assignments_see_more_button\nThe title displayed on the button at the bottom of the assignments screen. Used to fetch more assignments.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.js"
+        "comment": "id:assignments_see_more_button\nThe title displayed on the button at the bottom of the assignments screen. Used to fetch more assignments.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx"
       },
       "assignment_no_upcoming_assignments_title": {
         "form": {
@@ -2111,7 +2159,7 @@ var _default = {
           "translated": "crwdns6412027:0crwdne6412027:0",
           "source": "No upcoming assignments"
         },
-        "comment": "id:assignment_no_upcoming_assignments_title\nEmpty-state text for the learner's Assignments screen if there are no upcoming assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_no_upcoming_assignments_title\nEmpty-state text for the learner's Assignments screen if there are no upcoming assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_no_past_assignments_title": {
         "form": {
@@ -2119,7 +2167,7 @@ var _default = {
           "translated": "crwdns6399445:0crwdne6399445:0",
           "source": "No past assignments"
         },
-        "comment": "id:assignment_no_past_assignments_title\nEmpty-state text for the learner's Assignments screen if there are no past assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_no_past_assignments_title\nEmpty-state text for the learner's Assignments screen if there are no past assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_no_past_assignments_subtitle": {
         "form": {
@@ -2127,7 +2175,7 @@ var _default = {
           "translated": "crwdns6399447:0crwdne6399447:0",
           "source": "Assignments past their due date will appear here soon!"
         },
-        "comment": "id:assignment_no_past_assignments_subtitle\nEmpty-state subtitle for the Assignments (Past) screen, if there are no past assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_no_past_assignments_subtitle\nEmpty-state subtitle for the Assignments (Past) screen, if there are no past assignments.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_no_active_title": {
         "form": {
@@ -2135,7 +2183,7 @@ var _default = {
           "translated": "crwdns6399449:0crwdne6399449:0",
           "source": "No active goals"
         },
-        "comment": "id:assignment_course_mastery_no_active_title\nAssignments screen empty-state header when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_no_active_title\nAssignments screen empty-state header when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_no_active_subtitle": {
         "form": {
@@ -2143,7 +2191,7 @@ var _default = {
           "translated": "crwdns6399451:0crwdne6399451:0",
           "source": "You don't have any active goals right now. Ask your teacher for a new goal to get started!"
         },
-        "comment": "id:assignment_course_mastery_no_active_subtitle\nAssignments screen empty-state detail description when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_no_active_subtitle\nAssignments screen empty-state detail description when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_no_past_title": {
         "form": {
@@ -2151,7 +2199,7 @@ var _default = {
           "translated": "crwdns6399453:0crwdne6399453:0",
           "source": "No past goals"
         },
-        "comment": "id:assignment_course_mastery_no_past_title\nAssignments screen empty-state header when there are no past learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_no_past_title\nAssignments screen empty-state header when there are no past learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_no_past_subtitle": {
         "form": {
@@ -2159,7 +2207,7 @@ var _default = {
           "translated": "crwdns6399455:0crwdne6399455:0",
           "source": "You don't have any complete or past-due goals yet."
         },
-        "comment": "id:assignment_course_mastery_no_past_subtitle\nAssignments screen empty-state detail description when there are no past learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_no_past_subtitle\nAssignments screen empty-state detail description when there are no past learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_why_archived_alert_title": {
         "form": {
@@ -2167,7 +2215,7 @@ var _default = {
           "translated": "crwdns6410363:0crwdne6410363:0",
           "source": "Why is this goal archived?"
         },
-        "comment": "id:assignment_course_mastery_why_archived_alert_title\nTitle for an alert that helps the learner understand why a goal is archived.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_why_archived_alert_title\nTitle for an alert that helps the learner understand why a goal is archived.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_why_archived_alert_message": {
         "form": {
@@ -2175,7 +2223,7 @@ var _default = {
           "translated": "crwdns6410365:0crwdne6410365:0",
           "source": "Your teacher determined this goal was no longer best for you."
         },
-        "comment": "id:assignment_course_mastery_why_archived_alert_message\nMessage body for an alert that helps the learner understand that a teacher archived a goal because it was no longer best for the learner..\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_why_archived_alert_message\nMessage body for an alert that helps the learner understand that a teacher archived a goal because it was no longer best for the learner..\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_completed_alert_message": {
         "form": {
@@ -2183,7 +2231,7 @@ var _default = {
           "translated": "crwdns6410367:0%(num1)scrwdne6410367:0",
           "source": "You completed this goal on %(num1)s."
         },
-        "comment": "id:assignment_course_mastery_completed_alert_message\nMessage body for an alert that tells the learner they completed a course-mastery goal on a given date.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_completed_alert_message\nMessage body for an alert that tells the learner they completed a course-mastery goal on a given date.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_incomplete_title": {
         "form": {
@@ -2191,7 +2239,7 @@ var _default = {
           "translated": "crwdns6410369:0crwdne6410369:0",
           "source": "Why is this goal incomplete?"
         },
-        "comment": "id:assignment_course_mastery_incomplete_title\nMessage title for an alert that explains why a goal was marked as incomplete.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_incomplete_title\nMessage title for an alert that explains why a goal was marked as incomplete.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_incomplete_message": {
         "form": {
@@ -2199,7 +2247,7 @@ var _default = {
           "translated": "crwdns6410371:0crwdne6410371:0",
           "source": "The due date for this goal has passed, but you can continue working on it."
         },
-        "comment": "id:assignment_course_mastery_incomplete_message\nMessage body for an alert that explains why a goal was marked as incomplete.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_incomplete_message\nMessage body for an alert that explains why a goal was marked as incomplete.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_current_placement": {
         "form": {
@@ -2207,7 +2255,7 @@ var _default = {
           "translated": "crwdns6399461:0%(num1)scrwdne6399461:0",
           "source": "Current placement: %(num1)s"
         },
-        "comment": "id:assignment_kmap_current_placement\nSubtitle text on a current MAP placement goal with the placement scores.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_current_placement\nSubtitle text on a current MAP placement goal with the placement scores.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_archived": {
         "form": {
@@ -2215,7 +2263,7 @@ var _default = {
           "translated": "crwdns6399463:0%(num1)scrwdnd6399463:0%(num2)scrwdne6399463:0",
           "source": "Archived %(num1)s: %(num2)s"
         },
-        "comment": "id:assignment_kmap_archived\nSubtitle text on an archived MAP placement goal with the placement scores. num1 = date completed (\"Jun 1\"), num2 = score range (\"160-180\")\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_archived\nSubtitle text on an archived MAP placement goal with the placement scores. num1 = date completed (\"Jun 1\"), num2 = score range (\"160-180\")\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_completed": {
         "form": {
@@ -2223,7 +2271,7 @@ var _default = {
           "translated": "crwdns6399465:0%(num1)scrwdnd6399465:0%(num2)scrwdne6399465:0",
           "source": "Completed %(num1)s: %(num2)s"
         },
-        "comment": "id:assignment_kmap_completed\nSubtitle text on a completed MAP placement goal with the placement scores. num1 = date completed (\"Jun 1\"), num2 = score range (\"160-180\")\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_completed\nSubtitle text on a completed MAP placement goal with the placement scores. num1 = date completed (\"Jun 1\"), num2 = score range (\"160-180\")\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_completed": {
         "form": {
@@ -2231,7 +2279,7 @@ var _default = {
           "translated": "crwdns6462723:0%(num1)scrwdne6462723:0",
           "source": "Completed %(num1)s"
         },
-        "comment": "id:assignment_course_mastery_completed\nSubtitle text on a completed course-mastery goal. num1 = date completed (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_completed\nSubtitle text on a completed course-mastery goal. num1 = date completed (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_archived": {
         "form": {
@@ -2239,7 +2287,7 @@ var _default = {
           "translated": "crwdns6462725:0%(num1)scrwdne6462725:0",
           "source": "Archived %(num1)s"
         },
-        "comment": "id:assignment_course_mastery_archived\nSubtitle text on an archived course-mastery goal. num1 = date completed (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_archived\nSubtitle text on an archived course-mastery goal. num1 = date completed (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_course_mastery_incomplete": {
         "form": {
@@ -2247,7 +2295,7 @@ var _default = {
           "translated": "crwdns6462729:0%(num1)scrwdne6462729:0",
           "source": "Incomplete %(num1)s"
         },
-        "comment": "id:assignment_course_mastery_incomplete\nSubtitle text on an incomplete course-mastery goal. num1 = due date (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_course_mastery_incomplete\nSubtitle text on an incomplete course-mastery goal. num1 = due date (\"Jun 1\")\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assigned_goals_waiting_empty_title": {
         "form": {
@@ -2255,7 +2303,7 @@ var _default = {
           "translated": "crwdns6450919:0crwdne6450919:0",
           "source": "Hold tight! Your teacher is setting up your work."
         },
-        "comment": "id:assigned_goals_waiting_empty_title\nMAP Goals empty-state header that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assigned_goals_waiting_empty_title\nMAP Goals empty-state header that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assigned_goals_waiting_empty_subtitle": {
         "form": {
@@ -2263,7 +2311,7 @@ var _default = {
           "translated": "crwdns6450921:0crwdne6450921:0",
           "source": "Your teacher is adding new things to learn, just for you."
         },
-        "comment": "id:assigned_goals_waiting_empty_subtitle\nMAP Goals empty-state description that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assigned_goals_waiting_empty_subtitle\nMAP Goals empty-state description that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_active_empty_title": {
         "form": {
@@ -2271,7 +2319,7 @@ var _default = {
           "translated": "crwdns6399471:0crwdne6399471:0",
           "source": "No active placements"
         },
-        "comment": "id:assignment_kmap_active_empty_title\nMAP Goals empty state header that explains there are no active placement goals assigned to the student.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_active_empty_title\nMAP Goals empty state header that explains there are no active placement goals assigned to the student.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_active_empty_subtitle": {
         "form": {
@@ -2279,7 +2327,7 @@ var _default = {
           "translated": "crwdns6399473:0crwdne6399473:0",
           "source": "You don't have any active placements right now. Ask your teacher for a new placement to get started!"
         },
-        "comment": "id:assignment_kmap_active_empty_subtitle\nMAP Goals empty state description that explains there are no active placement goals for the learner, and that they can ask their teacher for new ones.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_active_empty_subtitle\nMAP Goals empty state description that explains there are no active placement goals for the learner, and that they can ask their teacher for new ones.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_past_empty_title": {
         "form": {
@@ -2287,7 +2335,7 @@ var _default = {
           "translated": "crwdns6399475:0crwdne6399475:0",
           "source": "No past placements"
         },
-        "comment": "id:assignment_kmap_past_empty_title\nMAP Goals empty state header that explains there are no old goals in their history.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_past_empty_title\nMAP Goals empty state header that explains there are no old goals in their history.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_past_empty_subtitle": {
         "form": {
@@ -2295,7 +2343,7 @@ var _default = {
           "translated": "crwdns6399477:0crwdne6399477:0",
           "source": "You don't have any complete or past-due placements yet."
         },
-        "comment": "id:assignment_kmap_past_empty_subtitle\nMAP Goals empty state description that explains there are no old goals in their history.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_past_empty_subtitle\nMAP Goals empty state description that explains there are no old goals in their history.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_why_archived_alert_title": {
         "form": {
@@ -2303,7 +2351,7 @@ var _default = {
           "translated": "crwdns6410375:0crwdne6410375:0",
           "source": "Why is this archived?"
         },
-        "comment": "id:assignment_kmap_why_archived_alert_title\nTitle for an alert that helps the learner understand why MAP materials were archived.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_why_archived_alert_title\nTitle for an alert that helps the learner understand why MAP materials were archived.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_why_archived_alert_message": {
         "form": {
@@ -2311,7 +2359,7 @@ var _default = {
           "translated": "crwdns6410377:0crwdne6410377:0",
           "source": "Your teacher determined that these materials are no longer best for you."
         },
-        "comment": "id:assignment_kmap_why_archived_alert_message\nMessage body for an alert that helps the learner understand that a teacher archived some MAP materials because they were no longer best for the learner..\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_why_archived_alert_message\nMessage body for an alert that helps the learner understand that a teacher archived some MAP materials because they were no longer best for the learner..\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "assignment_kmap_completed_alert_message": {
         "form": {
@@ -2319,7 +2367,7 @@ var _default = {
           "translated": "crwdns6469345:0%(num1)scrwdne6469345:0",
           "source": "You completed these materials on %(num1)s."
         },
-        "comment": "id:assignment_kmap_completed_alert_message\nMessage body for an alert that tells the learner they completed a kmap goal on a given date.\nUsed in the following files:\nFile: /Assignments/ui-utils.js"
+        "comment": "id:assignment_kmap_completed_alert_message\nMessage body for an alert that tells the learner they completed a kmap goal on a given date.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "keep_going": {
         "form": {
@@ -2327,7 +2375,7 @@ var _default = {
           "translated": "crwdns6388193:0crwdne6388193:0",
           "source": "Keep going!"
         },
-        "comment": "id:keep_going\nDisplayed when learner does not reach 100%\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:keep_going\nDisplayed when learner does not reach 100%\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "sign_up": {
         "form": {
@@ -2335,7 +2383,7 @@ var _default = {
           "translated": "crwdns6388207:0crwdne6388207:0",
           "source": "Sign up"
         },
-        "comment": "id:sign_up\nTitle for the sign up screen.\nUsed in the following files:\nFile: /navigators/Settings.js"
+        "comment": "id:sign_up\nTitle for the sign up screen.\nUsed in the following files:\nFile: /navigators/Settings.tsx"
       },
       "sign_up_prompt": {
         "form": {
@@ -2343,7 +2391,7 @@ var _default = {
           "translated": "crwdns6388209:0crwdne6388209:0",
           "source": "Tell us a little bit about yourself to create your account"
         },
-        "comment": "id:sign_up_prompt\nThe placeholder text for first name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.js"
+        "comment": "id:sign_up_prompt\nThe placeholder text for first name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "first_name": {
         "form": {
@@ -2351,7 +2399,7 @@ var _default = {
           "translated": "crwdns6388211:0crwdne6388211:0",
           "source": "First name"
         },
-        "comment": "id:first_name\nThe placeholder text for first name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.js"
+        "comment": "id:first_name\nThe placeholder text for first name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "last_name": {
         "form": {
@@ -2359,7 +2407,7 @@ var _default = {
           "translated": "crwdns6388213:0crwdne6388213:0",
           "source": "Last name"
         },
-        "comment": "id:last_name\nThe placeholder text for last name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.js"
+        "comment": "id:last_name\nThe placeholder text for last name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "birthday": {
         "form": {
@@ -2367,7 +2415,7 @@ var _default = {
           "translated": "crwdns6388215:0crwdne6388215:0",
           "source": "Birthday"
         },
-        "comment": "id:birthday\nThe prompt for entering a birthday.\nUsed in the following files:\nFile: /SignUp/BirthdayInput.js"
+        "comment": "id:birthday\nThe prompt for entering a birthday.\nUsed in the following files:\nFile: /SignUp/BirthdayInput.tsx"
       },
       "email_address": {
         "form": {
@@ -2375,7 +2423,7 @@ var _default = {
           "translated": "crwdns6388217:0crwdne6388217:0",
           "source": "Email address"
         },
-        "comment": "id:email_address\nThe placeholder text for email address text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.js"
+        "comment": "id:email_address\nThe placeholder text for email address text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "password": {
         "form": {
@@ -2383,7 +2431,7 @@ var _default = {
           "translated": "crwdns6388219:0crwdne6388219:0",
           "source": "Password"
         },
-        "comment": "id:password\nThe placeholder text for password text input.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js\nFile: /SignUp/PasswordInput.js"
+        "comment": "id:password\nThe placeholder text for password text input.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /SignUp/PasswordInput.tsx"
       },
       "password_requirements": {
         "form": {
@@ -2391,7 +2439,7 @@ var _default = {
           "translated": "crwdns6388221:0crwdne6388221:0",
           "source": "Passwords should be at least 8 characters long and should contain a mixture of letters, numbers, and other characters."
         },
-        "comment": "id:password_requirements\nThe requirements for a valid password.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.js"
+        "comment": "id:password_requirements\nThe requirements for a valid password.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "create": {
         "form": {
@@ -2399,7 +2447,7 @@ var _default = {
           "translated": "crwdns6388223:0crwdne6388223:0",
           "source": "Create"
         },
-        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\nFile: /SignUp/index.js"
+        "comment": "id:create\nA button used to create a new account.\nUsed in the following files:\nFile: /SignUp/index.tsx"
       },
       "default_error": {
         "form": {
@@ -2407,7 +2455,7 @@ var _default = {
           "translated": "crwdns6388225:0crwdne6388225:0",
           "source": "Sorry, we saw an unexpected error! Please try again later."
         },
-        "comment": "id:default_error\nAn unexpected error while trying to sign up.\nUsed in the following files:\nFile: /AddCoaches/index.js\nFile: /ClassDetails/ClassDetailsScreen.js\nFile: /LogIn/shared-buttons.js\nFile: /SignUp/index.js\nFile: /shared/User/queries.js\nFile: /shared/makeScreenDataLoader.js"
+        "comment": "id:default_error\nAn unexpected error while trying to sign up.\nUsed in the following files:\nFile: /AddCoaches/index.tsx\nFile: /ClassDetails/ClassDetailsScreen.tsx\nFile: /LogIn/shared-buttons.tsx\nFile: /SignUp/index.tsx\nFile: /shared/User/queries.ts\nFile: /shared/makeScreenDataLoader.tsx"
       },
       "sign_up_underage_alert_title": {
         "form": {
@@ -2415,7 +2463,7 @@ var _default = {
           "translated": "crwdns6474347:0crwdne6474347:0",
           "source": "Unable to sign up"
         },
-        "comment": "id:sign_up_underage_alert_title\nAlert title when a user is unable to sign up in the app.\nUsed in the following files:\nFile: /SignUp/api-utils.js"
+        "comment": "id:sign_up_underage_alert_title\nAlert title when a user is unable to sign up in the app.\nUsed in the following files:\nFile: /SignUp/api-utils.ts"
       },
       "sign_up_underage_alert_message": {
         "form": {
@@ -2423,7 +2471,7 @@ var _default = {
           "translated": "crwdns6474349:0crwdne6474349:0",
           "source": "Unfortunately, you can't sign-up here, but you can try on our website!"
         },
-        "comment": "id:sign_up_underage_alert_message\nAlert message when a user is unable to sign up in the app.\nUsed in the following files:\nFile: /SignUp/api-utils.js"
+        "comment": "id:sign_up_underage_alert_message\nAlert message when a user is unable to sign up in the app.\nUsed in the following files:\nFile: /SignUp/api-utils.ts"
       },
       "continue_on_the_web": {
         "form": {
@@ -2431,7 +2479,7 @@ var _default = {
           "translated": "crwdns6474351:0crwdne6474351:0",
           "source": "Continue on the web"
         },
-        "comment": "id:continue_on_the_web\nButton title to continue an action on the Khan Academy website.\nUsed in the following files:\nFile: /SignUp/api-utils.js"
+        "comment": "id:continue_on_the_web\nButton title to continue an action on the Khan Academy website.\nUsed in the following files:\nFile: /SignUp/api-utils.ts"
       },
       "log_in_header": {
         "form": {
@@ -2439,7 +2487,7 @@ var _default = {
           "translated": "crwdns6388227:0crwdne6388227:0",
           "source": "A world class education for anyone, anywhere. 100% free."
         },
-        "comment": "id:log_in_header\nHeader that encourages the user to create a KA account.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:log_in_header\nHeader that encourages the user to create a KA account.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "log_in_subheader": {
         "form": {
@@ -2447,7 +2495,7 @@ var _default = {
           "translated": "crwdns6388229:0crwdne6388229:0",
           "source": "We'll keep your progress in sync no matter what phone, device, or computer you're using."
         },
-        "comment": "id:log_in_subheader\nText that describes the benefits of logging in / signing up.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:log_in_subheader\nText that describes the benefits of logging in / signing up.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "continue_with_google": {
         "form": {
@@ -2455,7 +2503,7 @@ var _default = {
           "translated": "crwdns6388231:0crwdne6388231:0",
           "source": "Continue with Google"
         },
-        "comment": "id:continue_with_google\nLabel for a button that allows a user to sign up / log in with Google.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:continue_with_google\nLabel for a button that allows a user to sign up / log in with Google.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "continue_with_facebook": {
         "form": {
@@ -2463,7 +2511,7 @@ var _default = {
           "translated": "crwdns6388233:0crwdne6388233:0",
           "source": "Continue with Facebook"
         },
-        "comment": "id:continue_with_facebook\nLabel for a button that allows a user to sign up / log in with Facebook.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:continue_with_facebook\nLabel for a button that allows a user to sign up / log in with Facebook.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "continue_with_apple": {
         "form": {
@@ -2471,7 +2519,7 @@ var _default = {
           "translated": "crwdns6637198:0crwdne6637198:0",
           "source": "Continue with Apple"
         },
-        "comment": "id:continue_with_apple\nLabel for a button that allows a user to sign up / log in with Sign in With Apple.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:continue_with_apple\nLabel for a button that allows a user to sign up / log in with Sign in With Apple.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "sign_up_with_email": {
         "form": {
@@ -2479,7 +2527,7 @@ var _default = {
           "translated": "crwdns6388235:0crwdne6388235:0",
           "source": "Sign up with email"
         },
-        "comment": "id:sign_up_with_email\nLabel for a button that allows a user to sign up with email.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:sign_up_with_email\nLabel for a button that allows a user to sign up with email.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "already_a_user": {
         "form": {
@@ -2487,7 +2535,7 @@ var _default = {
           "translated": "crwdns6388237:0crwdne6388237:0",
           "source": "Already a user?"
         },
-        "comment": "id:already_a_user\nPrompt for a sign in button.\nUsed in the following files:\nFile: /Welcome/index.js"
+        "comment": "id:already_a_user\nPrompt for a sign in button.\nUsed in the following files:\nFile: /Welcome/index.tsx"
       },
       "welcome": {
         "form": {
@@ -2495,7 +2543,7 @@ var _default = {
           "translated": "crwdns6637200:0crwdne6637200:0",
           "source": "Welcome"
         },
-        "comment": "id:welcome\nScreen title for our sign-in and sign-up feature.\nUsed in the following files:\nFile: /navigators/Settings.js"
+        "comment": "id:welcome\nScreen title for our sign-in and sign-up feature.\nUsed in the following files:\nFile: /navigators/Settings.tsx"
       },
       "sign_in": {
         "form": {
@@ -2503,7 +2551,7 @@ var _default = {
           "translated": "crwdns6388239:0crwdne6388239:0",
           "source": "Sign in"
         },
-        "comment": "id:sign_in\nText for a nav bar or button or that allows the user to sign in.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js\nFile: /Welcome/index.js\nFile: /navigators/Settings.js"
+        "comment": "id:sign_in\nText for a nav bar or button or that allows the user to sign in.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /Welcome/index.tsx\nFile: /navigators/Settings.tsx"
       },
       "logging_in": {
         "form": {
@@ -2511,7 +2559,7 @@ var _default = {
           "translated": "crwdns6388999:0crwdne6388999:0",
           "source": "Signing in…"
         },
-        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /Welcome/LoggingInScreen.js\nFile: /navigators/Root.js\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:logging_in\nTitle text on the screen that lets the user know they're being signed in.\nUsed in the following files:\nFile: /Welcome/LoggingInScreen.tsx\nFile: /navigators/Root.tsx\nFile: /shared/native/DeepLinkModule.ts"
       },
       "or": {
         "form": {
@@ -2519,7 +2567,7 @@ var _default = {
           "translated": "crwdns6388241:0crwdne6388241:0",
           "source": "Or"
         },
-        "comment": "id:or\nText that separates the Google and Facebook log in from password log in.\nUsed in the following files:\nFile: /LogIn/index.js"
+        "comment": "id:or\nText that separates the Google and Facebook log in from password log in.\nUsed in the following files:\nFile: /LogIn/index.tsx"
       },
       "error_no_facebook_email_address": {
         "form": {
@@ -2527,7 +2575,7 @@ var _default = {
           "translated": "crwdns7089327:0crwdne7089327:0",
           "source": "We couldn't connect your Facebook account because we didn't receive your email address from Facebook."
         },
-        "comment": "id:error_no_facebook_email_address\nText displayed to indicate that the facebook account can't be used to login to khan academy, because it doesn't have a verified email address.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:error_no_facebook_email_address\nText displayed to indicate that the facebook account can't be used to login to khan academy, because it doesn't have a verified email address.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "error_incorrect_password": {
         "form": {
@@ -2535,7 +2583,7 @@ var _default = {
           "translated": "crwdns6388975:0crwdne6388975:0",
           "source": "Invalid password"
         },
-        "comment": "id:error_incorrect_password\n\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:error_incorrect_password\n\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "error_login_shadowed_account": {
         "form": {
@@ -2543,7 +2591,7 @@ var _default = {
           "translated": "crwdns6824338:0%(loginMethod)scrwdne6824338:0",
           "source": "You may already have an account! Please log into khanacademy.org/settings/account to link %(loginMethod)s to your existing account."
         },
-        "comment": "id:error_login_shadowed_account\nThe error that is displayed when a user signs in using a third-party account (Google, Facebook, Apple) and their third-party account's email address is already in use on another Khan Academy account.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:error_login_shadowed_account\nThe error that is displayed when a user signs in using a third-party account (Google, Facebook, Apple) and their third-party account's email address is already in use on another Khan Academy account.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "error_duplicate_username": {
         "form": {
@@ -2551,7 +2599,7 @@ var _default = {
           "translated": "crwdns6821764:0crwdne6821764:0",
           "source": "Oops! We’re unable to sign you in with that username. Please sign in with your email address and then change your username to fix this issue. If you don’t have an email address, contact support for help."
         },
-        "comment": "id:error_duplicate_username\nError text that is displayed when a user attempts to log in with a non-unique username.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:error_duplicate_username\nError text that is displayed when a user attempts to log in with a non-unique username.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "error_existing_email": {
         "form": {
@@ -2559,7 +2607,7 @@ var _default = {
           "translated": "crwdns6821766:0crwdne6821766:0",
           "source": "There’s already an account with that email. If it’s yours, log in to continue."
         },
-        "comment": "id:error_existing_email\nError text that is displayed when a user attempts to sign up with an existing email.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:error_existing_email\nError text that is displayed when a user attempts to sign up with an existing email.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "error_third_party_login": {
         "form": {
@@ -2575,7 +2623,7 @@ var _default = {
           "translated": "crwdns6684688:0crwdne6684688:0",
           "source": "Sign in with Apple"
         },
-        "comment": "id:sign_in_with_apple\nLabel for a button that allows a user to sign in with Apple.\nUsed in the following files:\nFile: /LogIn/index.js\nFile: /navigators/Settings.js"
+        "comment": "id:sign_in_with_apple\nLabel for a button that allows a user to sign in with Apple.\nUsed in the following files:\nFile: /LogIn/index.tsx\nFile: /navigators/Settings.tsx"
       },
       "sign_in_with_google": {
         "form": {
@@ -2583,7 +2631,7 @@ var _default = {
           "translated": "crwdns6388243:0crwdne6388243:0",
           "source": "Sign in with Google"
         },
-        "comment": "id:sign_in_with_google\nLabel for a button that allows a user to sign in with Google.\nUsed in the following files:\nFile: /LogIn/index.js"
+        "comment": "id:sign_in_with_google\nLabel for a button that allows a user to sign in with Google.\nUsed in the following files:\nFile: /LogIn/index.tsx"
       },
       "sign_in_with_facebook": {
         "form": {
@@ -2591,7 +2639,7 @@ var _default = {
           "translated": "crwdns6388245:0crwdne6388245:0",
           "source": "Sign in with Facebook"
         },
-        "comment": "id:sign_in_with_facebook\nLabel for a button that allows a user to sign in with Facebook.\nUsed in the following files:\nFile: /LogIn/index.js"
+        "comment": "id:sign_in_with_facebook\nLabel for a button that allows a user to sign in with Facebook.\nUsed in the following files:\nFile: /LogIn/index.tsx"
       },
       "signing_in_with_clever": {
         "form": {
@@ -2599,7 +2647,7 @@ var _default = {
           "translated": "crwdns6831250:0crwdne6831250:0",
           "source": "Signing in with Clever…"
         },
-        "comment": "id:signing_in_with_clever\nText on screen that lets the user know they're being signed in with Clever\nUsed in the following files:\nFile: /LoginInProgress/index.js"
+        "comment": "id:signing_in_with_clever\nText on screen that lets the user know they're being signed in with Clever\nUsed in the following files:\nFile: /LoginInProgress/index.tsx"
       },
       "sign_in_with_clever_account_not_linked": {
         "form": {
@@ -2607,7 +2655,7 @@ var _default = {
           "translated": "crwdns6849518:0crwdne6849518:0",
           "source": "It looks like you haven't activated your Clever account with Khan Academy yet. Would you like to do that now?"
         },
-        "comment": "id:sign_in_with_clever_account_not_linked\nThis message is displayed to the user in an alert when theylog into the app with a Clever account that has not completed activation. The alert has 2 options: Continue and Cancel\nUsed in the following files:\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:sign_in_with_clever_account_not_linked\nThis message is displayed to the user in an alert when theylog into the app with a Clever account that has not completed activation. The alert has 2 options: Continue and Cancel\nUsed in the following files:\nFile: /shared/native/DeepLinkModule.ts"
       },
       "email_address_or_username": {
         "form": {
@@ -2615,7 +2663,7 @@ var _default = {
           "translated": "crwdns6388247:0crwdne6388247:0",
           "source": "Enter an e-mail address or username"
         },
-        "comment": "id:email_address_or_username\nDefault text for email / username text input.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js"
+        "comment": "id:email_address_or_username\nDefault text for email / username text input.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx"
       },
       "forgot_password": {
         "form": {
@@ -2623,7 +2671,7 @@ var _default = {
           "translated": "crwdns6388249:0crwdne6388249:0",
           "source": "Forgot?"
         },
-        "comment": "id:forgot_password\nText for forgot password button.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js"
+        "comment": "id:forgot_password\nText for forgot password button.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx"
       },
       "signInDefaultError": {
         "form": {
@@ -2631,7 +2679,7 @@ var _default = {
           "translated": "crwdns6388901:0crwdne6388901:0",
           "source": "There was an issue signing in"
         },
-        "comment": "id:signInDefaultError\nAn error message for when the user is trying to login but an error occurs.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.js\nFile: /shared/User/queries.js"
+        "comment": "id:signInDefaultError\nAn error message for when the user is trying to login but an error occurs.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /shared/User/queries.ts"
       },
       "signInGenericError": {
         "form": {
@@ -2639,7 +2687,7 @@ var _default = {
           "translated": "crwdns6849520:0%(loginMethod)scrwdne6849520:0",
           "source": "There was an issue signing in with %(loginMethod)s"
         },
-        "comment": "id:signInGenericError\nAn error message displayed when there is an issue signing them in with the given service (the service name is provided by the app, such as Facebook, Clever, Google, etc).\nUsed in the following files:\nFile: /shared/User/queries.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:signInGenericError\nAn error message displayed when there is an issue signing them in with the given service (the service name is provided by the app, such as Facebook, Clever, Google, etc).\nUsed in the following files:\nFile: /shared/User/queries.ts\nFile: /shared/native/NavigationModule.ts"
       },
       "signInAppleError": {
         "form": {
@@ -2647,7 +2695,7 @@ var _default = {
           "translated": "crwdns6684690:0crwdne6684690:0",
           "source": "There was an issue signing in with Apple"
         },
-        "comment": "id:signInAppleError\nAn error message for when the user is trying to login with Apple but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:signInAppleError\nAn error message for when the user is trying to login with Apple but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "signInFacebookError": {
         "form": {
@@ -2655,7 +2703,7 @@ var _default = {
           "translated": "crwdns6388903:0crwdne6388903:0",
           "source": "There was an issue signing in with Facebook"
         },
-        "comment": "id:signInFacebookError\nAn error message for when the user is trying to login with Facebook but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:signInFacebookError\nAn error message for when the user is trying to login with Facebook but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "signInGoogleError": {
         "form": {
@@ -2663,7 +2711,7 @@ var _default = {
           "translated": "crwdns6388905:0crwdne6388905:0",
           "source": "There was an issue signing in with Google"
         },
-        "comment": "id:signInGoogleError\nAn error message for when the user is trying to login with Google but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:signInGoogleError\nAn error message for when the user is trying to login with Google but an error occurs.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
       "teachers_header_text": {
         "form": {
@@ -2671,7 +2719,7 @@ var _default = {
           "translated": "crwdns6388251:0crwdne6388251:0",
           "source": "Teachers"
         },
-        "comment": "id:teachers_header_text\nNav bar title for the manage teachers screen.\nUsed in the following files:\nFile: /navigators/Home.js"
+        "comment": "id:teachers_header_text\nNav bar title for the manage teachers screen.\nUsed in the following files:\nFile: /navigators/Home.tsx"
       },
       "your_teachers": {
         "form": {
@@ -2687,7 +2735,7 @@ var _default = {
           "translated": "crwdns6388255:0crwdne6388255:0",
           "source": "Add teacher"
         },
-        "comment": "id:add_teacher\nText for a button or screen that allows user to add teachers.\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js\nFile: /navigators/Home.js"
+        "comment": "id:add_teacher\nText for a button or screen that allows user to add teachers.\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx\nFile: /navigators/Home.tsx"
       },
       "add_a_teacher": {
         "form": {
@@ -2695,7 +2743,7 @@ var _default = {
           "translated": "crwdns6821768:0crwdne6821768:0",
           "source": "Add a teacher"
         },
-        "comment": "id:add_a_teacher\nButton title that allows a user to add a teacher.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.js"
+        "comment": "id:add_a_teacher\nButton title that allows a user to add a teacher.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.tsx"
       },
       "add_teacher_prompt": {
         "form": {
@@ -2703,7 +2751,7 @@ var _default = {
           "translated": "crwdns6388257:0crwdne6388257:0",
           "source": "Enter a class code or your teacher's email address"
         },
-        "comment": "id:add_teacher_prompt\nText that prompts the user to add a teacher.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:add_teacher_prompt\nText that prompts the user to add a teacher.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "cannot_add_teacher": {
         "form": {
@@ -2711,7 +2759,7 @@ var _default = {
           "translated": "crwdns6824342:0crwdne6824342:0",
           "source": "Cannot add teacher"
         },
-        "comment": "id:cannot_add_teacher\nTitle for an alert that explains that the learner cannot add a teacher.\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.js"
+        "comment": "id:cannot_add_teacher\nTitle for an alert that explains that the learner cannot add a teacher.\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.tsx"
       },
       "ask_parent_or_guardian": {
         "form": {
@@ -2719,7 +2767,7 @@ var _default = {
           "translated": "crwdns6824344:0crwdne6824344:0",
           "source": "Ask your parent or guardian for help."
         },
-        "comment": "id:ask_parent_or_guardian\nDescription for an alert that explains that a learner can ask their parent or guardian for help.\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.js"
+        "comment": "id:ask_parent_or_guardian\nDescription for an alert that explains that a learner can ask their parent or guardian for help.\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.tsx"
       },
       "remove_teacher_a11y_label": {
         "form": {
@@ -2727,7 +2775,7 @@ var _default = {
           "translated": "crwdns6474071:0crwdne6474071:0",
           "source": "Remove teacher"
         },
-        "comment": "id:remove_teacher_a11y_label\nAccessibility label for a button that removes a teacher from your list of teachers.\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.js"
+        "comment": "id:remove_teacher_a11y_label\nAccessibility label for a button that removes a teacher from your list of teachers.\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.tsx"
       },
       "class_code_placeholder": {
         "form": {
@@ -2735,7 +2783,7 @@ var _default = {
           "translated": "crwdns6388263:0crwdne6388263:0",
           "source": "e.g. ABC123 or teacher@example.com"
         },
-        "comment": "id:class_code_placeholder\nPlaceholder for the input where the user adds a class code.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:class_code_placeholder\nPlaceholder for the input where the user adds a class code.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "add_teacher_button": {
         "form": {
@@ -2743,7 +2791,7 @@ var _default = {
           "translated": "crwdns6388265:0crwdne6388265:0",
           "source": "Add"
         },
-        "comment": "id:add_teacher_button\nText for a button that adds a teacher.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:add_teacher_button\nText for a button that adds a teacher.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "class_not_found": {
         "form": {
@@ -2751,7 +2799,7 @@ var _default = {
           "translated": "crwdns6388267:0crwdne6388267:0",
           "source": "Class not found. Please enter another class code or email address."
         },
-        "comment": "id:class_not_found\nError message when a user enters an incorrect class code.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:class_not_found\nError message when a user enters an incorrect class code.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "teacher_not_found": {
         "form": {
@@ -2759,7 +2807,7 @@ var _default = {
           "translated": "crwdns6543215:0crwdne6543215:0",
           "source": "Teacher not found. Please enter another email address or class code."
         },
-        "comment": "id:teacher_not_found\nError message when a user enters an incorrect email address.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:teacher_not_found\nError message when a user enters an incorrect email address.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "invalid_class_code": {
         "form": {
@@ -2767,7 +2815,7 @@ var _default = {
           "translated": "crwdns6388269:0crwdne6388269:0",
           "source": "Please enter a valid class code or email address."
         },
-        "comment": "id:invalid_class_code\nError message when a user enters an invalid class code.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:invalid_class_code\nError message when a user enters an invalid class code.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "couldnt_add_teacher_title": {
         "form": {
@@ -2775,7 +2823,7 @@ var _default = {
           "translated": "crwdns6388271:0crwdne6388271:0",
           "source": "Couldn't add teacher"
         },
-        "comment": "id:couldnt_add_teacher_title\nError message title when a teacher cannot be added\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:couldnt_add_teacher_title\nError message title when a teacher cannot be added\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "teacher_added": {
         "form": {
@@ -2783,7 +2831,7 @@ var _default = {
           "translated": "crwdns6849522:0crwdne6849522:0",
           "source": "Teacher added"
         },
-        "comment": "id:teacher_added\nAlert title to confirm that a teacher was added.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:teacher_added\nAlert title to confirm that a teacher was added.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "teacher_added_description": {
         "form": {
@@ -2791,7 +2839,7 @@ var _default = {
           "translated": "crwdns6849524:0%(email)scrwdne6849524:0",
           "source": "You've added %(email)s to your account - once they add you to a class, you'll see it in the app!"
         },
-        "comment": "id:teacher_added_description\nAlert description to confirm that a teacher was added.\nUsed in the following files:\nFile: /AddCoaches/index.js"
+        "comment": "id:teacher_added_description\nAlert description to confirm that a teacher was added.\nUsed in the following files:\nFile: /AddCoaches/index.tsx"
       },
       "remove_teacher_button": {
         "form": {
@@ -2799,7 +2847,7 @@ var _default = {
           "translated": "crwdns6388273:0crwdne6388273:0",
           "source": "Remove teacher?"
         },
-        "comment": "id:remove_teacher_button\nButton in an alert that allows a user to remove a coach.\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.js"
+        "comment": "id:remove_teacher_button\nButton in an alert that allows a user to remove a coach.\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.tsx"
       },
       "remove_teacher_warning": {
         "form": {
@@ -2807,7 +2855,7 @@ var _default = {
           "translated": "crwdns6388275:0crwdne6388275:0",
           "source": "If you remove this teacher, you will not receive future assignments from them."
         },
-        "comment": "id:remove_teacher_warning\ntext to be shown in an alert when removing a teacher\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.js"
+        "comment": "id:remove_teacher_warning\ntext to be shown in an alert when removing a teacher\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.tsx"
       },
       "remove": {
         "form": {
@@ -2815,7 +2863,7 @@ var _default = {
           "translated": "crwdns6388277:0crwdne6388277:0",
           "source": "Remove"
         },
-        "comment": "id:remove\nButton text to remove a bookmark or a teacher\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.js\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:remove\nButton text to remove a bookmark or a teacher\nUsed in the following files:\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "no_teachers_header": {
         "form": {
@@ -2823,7 +2871,7 @@ var _default = {
           "translated": "crwdns6388279:0crwdne6388279:0",
           "source": "No teachers"
         },
-        "comment": "id:no_teachers_header\nHeader text to show when there are no teachers\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js"
+        "comment": "id:no_teachers_header\nHeader text to show when there are no teachers\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx"
       },
       "no_teachers_description": {
         "form": {
@@ -2831,7 +2879,7 @@ var _default = {
           "translated": "crwdns6388281:0crwdne6388281:0",
           "source": "You haven't added any teachers. After you add a teacher you can receive assignments from them."
         },
-        "comment": "id:no_teachers_description\nBody text to show when there are no teachers\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js"
+        "comment": "id:no_teachers_description\nBody text to show when there are no teachers\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx"
       },
       "error_loading_teachers_header": {
         "form": {
@@ -2839,7 +2887,7 @@ var _default = {
           "translated": "crwdns6388283:0crwdne6388283:0",
           "source": "Error loading teachers"
         },
-        "comment": "id:error_loading_teachers_header\nHeader text when teacher list fails to load\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js\nFile: /ManageCoaches/state/Actions.js"
+        "comment": "id:error_loading_teachers_header\nHeader text when teacher list fails to load\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx\nFile: /ManageCoaches/state/Actions.ts"
       },
       "error_loading_teacher_description": {
         "form": {
@@ -2847,7 +2895,7 @@ var _default = {
           "translated": "crwdns6388285:0crwdne6388285:0",
           "source": "We couldn't update your teachers right now."
         },
-        "comment": "id:error_loading_teacher_description\nBody text when teacher list fails to load\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js\nFile: /ManageCoaches/state/Actions.js"
+        "comment": "id:error_loading_teacher_description\nBody text when teacher list fails to load\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx\nFile: /ManageCoaches/state/Actions.ts"
       },
       "retry_loading_teachers": {
         "form": {
@@ -2855,7 +2903,7 @@ var _default = {
           "translated": "crwdns6388287:0crwdne6388287:0",
           "source": "Reload"
         },
-        "comment": "id:retry_loading_teachers\nButton text to show to reload teacher list\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.js"
+        "comment": "id:retry_loading_teachers\nButton text to show to reload teacher list\nUsed in the following files:\nFile: /ManageCoaches/EmptyStates.tsx"
       },
       "my_teachers": {
         "form": {
@@ -2863,7 +2911,7 @@ var _default = {
           "translated": "crwdns6821770:0crwdne6821770:0",
           "source": "My teachers"
         },
-        "comment": "id:my_teachers\nSection title for a list of the learner's teachers\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.js"
+        "comment": "id:my_teachers\nSection title for a list of the learner's teachers\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.tsx"
       },
       "district_assigned_teachers": {
         "form": {
@@ -2871,7 +2919,7 @@ var _default = {
           "translated": "crwdns6821772:0crwdne6821772:0",
           "source": "District-assigned teachers"
         },
-        "comment": "id:district_assigned_teachers\nSection title for a list of the learner's district-assigned teachers\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.js"
+        "comment": "id:district_assigned_teachers\nSection title for a list of the learner's district-assigned teachers\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.tsx"
       },
       "learn_more_sentence": {
         "form": {
@@ -2879,7 +2927,7 @@ var _default = {
           "translated": "crwdns6821774:0crwdne6821774:0",
           "source": "Learn more."
         },
-        "comment": "id:learn_more_sentence\nBrief sentence that links out to a webpage that fully explains a feature.\nUsed in the following files:\nFile: /ManageCoaches/SectionFooter.js"
+        "comment": "id:learn_more_sentence\nBrief sentence that links out to a webpage that fully explains a feature.\nUsed in the following files:\nFile: /ManageCoaches/SectionFooter.tsx"
       },
       "manage_teachers_underage_footer": {
         "form": {
@@ -2887,7 +2935,7 @@ var _default = {
           "translated": "crwdns6821776:0crwdne6821776:0",
           "source": "To remove one of these teachers, ask your parent or teacher for help."
         },
-        "comment": "id:manage_teachers_underage_footer\nUnderage learners can't remove a teacher; this sentence asks them to ask a parent or teacher for help.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.js"
+        "comment": "id:manage_teachers_underage_footer\nUnderage learners can't remove a teacher; this sentence asks them to ask a parent or teacher for help.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.tsx"
       },
       "manage_teachers_district_footer": {
         "form": {
@@ -2895,7 +2943,7 @@ var _default = {
           "translated": "crwdns6821778:0crwdne6821778:0",
           "source": "These classes are managed by your school district."
         },
-        "comment": "id:manage_teachers_district_footer\nIf a class is district-managed, then users can't manually remove them. This sentence is displayed below a list of district-managed classes.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.js"
+        "comment": "id:manage_teachers_district_footer\nIf a class is district-managed, then users can't manually remove them. This sentence is displayed below a list of district-managed classes.\nUsed in the following files:\nFile: /ManageCoaches/TeacherList.tsx"
       },
       "bookmarks": {
         "form": {
@@ -2903,7 +2951,7 @@ var _default = {
           "translated": "crwdns6388291:0crwdne6388291:0",
           "source": "Bookmarks"
         },
-        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /navigators/Bookmarks.js\nFile: /navigators/Root.js\nFile: /navigators/Tabs.js"
+        "comment": "id:bookmarks\nTitle for Bookmarks\nUsed in the following files:\nFile: /navigators/Bookmarks.tsx\nFile: /navigators/Root.tsx\nFile: /navigators/Tabs.tsx\nFile: /shared/native/SharedStorageModule.ts"
       },
       "edit": {
         "form": {
@@ -2911,7 +2959,7 @@ var _default = {
           "translated": "crwdns6388293:0crwdne6388293:0",
           "source": "Edit"
         },
-        "comment": "id:edit\nLabel for a button that allows a user to edit a list of items.\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /Home/Sections/MyCourses/MyCoursesCard.js"
+        "comment": "id:edit\nLabel for a button that allows a user to edit a list of items.\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /Home/Sections/MyCourses/MyCoursesCard.tsx"
       },
       "undownload": {
         "form": {
@@ -2919,7 +2967,7 @@ var _default = {
           "translated": "crwdns6388295:0crwdne6388295:0",
           "source": "Undownload"
         },
-        "comment": "id:undownload\nTitle for button which removes single or multiple offline downloads of bookmarks.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.js\nFile: /BookmarksScreen/Cells/SwipeableButton.js"
+        "comment": "id:undownload\nTitle for button which removes single or multiple offline downloads of bookmarks.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.tsx\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx"
       },
       "delete": {
         "form": {
@@ -2927,7 +2975,7 @@ var _default = {
           "translated": "crwdns6388297:0crwdne6388297:0",
           "source": "Delete"
         },
-        "comment": "id:delete\nLabel for a button that allows a user to delete selected items.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.js\nFile: /BookmarksScreen/Cells/SwipeableButton.js\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:delete\nLabel for a button that allows a user to delete selected items.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.tsx\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "bookmarks_empty_state_title": {
         "form": {
@@ -2935,7 +2983,7 @@ var _default = {
           "translated": "crwdns6388299:0crwdne6388299:0",
           "source": "You have no bookmarks."
         },
-        "comment": "id:bookmarks_empty_state_title\nTitle for empty state bookmarks Screen\nUsed in the following files:\nFile: /BookmarksScreen/index.js"
+        "comment": "id:bookmarks_empty_state_title\nTitle for empty state bookmarks Screen\nUsed in the following files:\nFile: /BookmarksScreen/index.tsx\nFile: /shared/native/SharedStorageModule.ts"
       },
       "bookmarks_empty_state_subtitle": {
         "form": {
@@ -2943,7 +2991,7 @@ var _default = {
           "translated": "crwdns6388301:0crwdne6388301:0",
           "source": "You can download videos in Bookmarks for offline viewing."
         },
-        "comment": "id:bookmarks_empty_state_subtitle\nSubtitle for empty state bookmarks Screen\nUsed in the following files:\nFile: /BookmarksScreen/index.js"
+        "comment": "id:bookmarks_empty_state_subtitle\nSubtitle for empty state bookmarks Screen\nUsed in the following files:\nFile: /BookmarksScreen/index.tsx"
       },
       "download_settings": {
         "form": {
@@ -2951,7 +2999,7 @@ var _default = {
           "translated": "crwdns6388303:0crwdne6388303:0",
           "source": "Download settings"
         },
-        "comment": "id:download_settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/DownloadSettingsCell.js\nFile: /Settings/utils.js\nFile: /navigators/Bookmarks.js"
+        "comment": "id:download_settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/DownloadSettingsCell.tsx\nFile: /Settings/utils.ts\nFile: /navigators/Bookmarks.tsx"
       },
       "no_longer_available": {
         "form": {
@@ -2959,7 +3007,7 @@ var _default = {
           "translated": "crwdns6388305:0crwdne6388305:0",
           "source": "No longer available"
         },
-        "comment": "id:no_longer_available\nText that indicates that a bookmark's content is no longer available.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.js"
+        "comment": "id:no_longer_available\nText that indicates that a bookmark's content is no longer available.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.tsx"
       },
       "no_longer_available_body": {
         "form": {
@@ -2967,7 +3015,7 @@ var _default = {
           "translated": "crwdns6388307:0crwdne6388307:0",
           "source": "Our library has updated, and this item is no longer available."
         },
-        "comment": "id:no_longer_available_body\nBody for an alert that indicates that a bookmark's content is no longer available.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.js"
+        "comment": "id:no_longer_available_body\nBody for an alert that indicates that a bookmark's content is no longer available.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.tsx"
       },
       "not_available_in": {
         "form": {
@@ -2975,7 +3023,7 @@ var _default = {
           "translated": "crwdns6388309:0%(num)scrwdne6388309:0",
           "source": "Not available in %(num)s"
         },
-        "comment": "id:not_available_in\nText that indicates that a bookmark in not available in a specific language.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.js"
+        "comment": "id:not_available_in\nText that indicates that a bookmark in not available in a specific language.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.tsx"
       },
       "to_view_bookmark_change_langauge": {
         "form": {
@@ -2983,7 +3031,7 @@ var _default = {
           "translated": "crwdns6388311:0crwdne6388311:0",
           "source": "To view this bookmark, please change your language in Settings."
         },
-        "comment": "id:to_view_bookmark_change_langauge\nBody of an alert indicating that a bookmark is not available in the current locale.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.js"
+        "comment": "id:to_view_bookmark_change_langauge\nBody of an alert indicating that a bookmark is not available in the current locale.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/BookmarkCell.tsx"
       },
       "download_automatically": {
         "form": {
@@ -2991,7 +3039,7 @@ var _default = {
           "translated": "crwdns6388313:0crwdne6388313:0",
           "source": "Download automatically"
         },
-        "comment": "id:download_automatically\nExplanatory label appearing next to a switch which causes newly-added bookmarks to automatically be downloaded.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_automatically\nExplanatory label appearing next to a switch which causes newly-added bookmarks to automatically be downloaded.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_automatically_subtitle_on": {
         "form": {
@@ -2999,7 +3047,7 @@ var _default = {
           "translated": "crwdns6388315:0crwdne6388315:0",
           "source": "Bookmarks will automatically download when you add them."
         },
-        "comment": "id:download_automatically_subtitle_on\nExplanatory label appearing under a switch which causes newly-added bookmarks to automatically be downloaded. This label explains the behavior of when the switch is on.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_automatically_subtitle_on\nExplanatory label appearing under a switch which causes newly-added bookmarks to automatically be downloaded. This label explains the behavior of when the switch is on.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_automatically_subtitle_off": {
         "form": {
@@ -3007,7 +3055,7 @@ var _default = {
           "translated": "crwdns6388317:0crwdne6388317:0",
           "source": "Items will not automatically download when you bookmark them."
         },
-        "comment": "id:download_automatically_subtitle_off\nExplanatory label appearing under a switch which causes newly-added bookmarks to automatically be downloaded. This label explains the behavior of when the switch is off.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_automatically_subtitle_off\nExplanatory label appearing under a switch which causes newly-added bookmarks to automatically be downloaded. This label explains the behavior of when the switch is off.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_over_wifi": {
         "form": {
@@ -3015,7 +3063,7 @@ var _default = {
           "translated": "crwdns6388319:0crwdne6388319:0",
           "source": "Download over Wi-Fi only"
         },
-        "comment": "id:download_over_wifi\nExplanatory label appearing next to a switch which causes the app to only download content over WiFi.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_over_wifi\nExplanatory label appearing next to a switch which causes the app to only download content over WiFi.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_over_wifi_subtitle_on": {
         "form": {
@@ -3023,7 +3071,7 @@ var _default = {
           "translated": "crwdns6388321:0crwdne6388321:0",
           "source": "Downloads will only occur if you're connected to Wi-Fi."
         },
-        "comment": "id:download_over_wifi_subtitle_on\nExplanatory label appearing under a switch which causes the app to only download content over WiFi. This label explains the behavior of when the switch is on\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_over_wifi_subtitle_on\nExplanatory label appearing under a switch which causes the app to only download content over WiFi. This label explains the behavior of when the switch is on\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_over_wifi_subtitle_off": {
         "form": {
@@ -3031,7 +3079,7 @@ var _default = {
           "translated": "crwdns6388323:0crwdne6388323:0",
           "source": "Downloads will be allowed, even when on a cellular connection."
         },
-        "comment": "id:download_over_wifi_subtitle_off\nExplanatory label appearing under a switch which causes the app to only download content over WiFi. This label explains the behavior of when the switch is off\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_over_wifi_subtitle_off\nExplanatory label appearing under a switch which causes the app to only download content over WiFi. This label explains the behavior of when the switch is off\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_prefer_HD": {
         "form": {
@@ -3039,7 +3087,7 @@ var _default = {
           "translated": "crwdns6388325:0crwdne6388325:0",
           "source": "Prefer HD-quality downloads"
         },
-        "comment": "id:download_prefer_HD\nExplanatory label appearing next to a switch which causes the app to download content in HD quality, if available.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_prefer_HD\nExplanatory label appearing next to a switch which causes the app to download content in HD quality, if available.\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_prefer_HD_subtitle_on": {
         "form": {
@@ -3047,7 +3095,7 @@ var _default = {
           "translated": "crwdns6388327:0crwdne6388327:0",
           "source": "Videos will be downloaded in a larger, higher-quality format."
         },
-        "comment": "id:download_prefer_HD_subtitle_on\nExplanatory label appearing under a switch which causes the app to download content in HD quality, if available. This label explains the behavior of when the switch is on\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_prefer_HD_subtitle_on\nExplanatory label appearing under a switch which causes the app to download content in HD quality, if available. This label explains the behavior of when the switch is on\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "download_prefer_HD_subtitle_off": {
         "form": {
@@ -3055,7 +3103,7 @@ var _default = {
           "translated": "crwdns6388329:0crwdne6388329:0",
           "source": "Videos will be downloaded in the smaller, lower-quality format."
         },
-        "comment": "id:download_prefer_HD_subtitle_off\nExplanatory label appearing under a switch which causes the app to download content in HD quality, if available. This label explains the behavior of when the switch is off\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.js"
+        "comment": "id:download_prefer_HD_subtitle_off\nExplanatory label appearing under a switch which causes the app to download content in HD quality, if available. This label explains the behavior of when the switch is off\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/PreferenceCell.tsx"
       },
       "available_space": {
         "form": {
@@ -3063,7 +3111,7 @@ var _default = {
           "translated": "crwdns6388331:0crwdne6388331:0",
           "source": "Available space"
         },
-        "comment": "id:available_space\nTitle for cell which shows the available disk space for downloading offline videos\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/AvailableSpaceCell.js"
+        "comment": "id:available_space\nTitle for cell which shows the available disk space for downloading offline videos\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/AvailableSpaceCell.tsx"
       },
       "start": {
         "form": {
@@ -3079,7 +3127,7 @@ var _default = {
           "translated": "crwdns6388345:0crwdne6388345:0",
           "source": "Error downloading bookmark"
         },
-        "comment": "id:error_downloading_bookmark\nTitle for an alert shown when downloading a bookmark fails due to an error.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.js\nFile: /redux/bookmarks/download/thunkActions.js"
+        "comment": "id:error_downloading_bookmark\nTitle for an alert shown when downloading a bookmark fails due to an error.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.ts\nFile: /redux/bookmarks/download/thunkActions.ts"
       },
       "want_to_retry_download": {
         "form": {
@@ -3087,7 +3135,7 @@ var _default = {
           "translated": "crwdns6388347:0crwdne6388347:0",
           "source": "Want to retry the download?"
         },
-        "comment": "id:want_to_retry_download\nError message asking user if they'd like to retry the download for a failed bookmark download.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.js"
+        "comment": "id:want_to_retry_download\nError message asking user if they'd like to retry the download for a failed bookmark download.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.ts"
       },
       "not_enough_storage_available": {
         "form": {
@@ -3095,7 +3143,7 @@ var _default = {
           "translated": "crwdns6388349:0crwdne6388349:0",
           "source": "There is not enough storage available on this device."
         },
-        "comment": "id:not_enough_storage_available\nError message indicating that a bookmark could not be downloaded because there is not enough storage available.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.js"
+        "comment": "id:not_enough_storage_available\nError message indicating that a bookmark could not be downloaded because there is not enough storage available.\nUsed in the following files:\nFile: /redux/bookmarks/download/download-utils.ts"
       },
       "remove_this_bookmark": {
         "form": {
@@ -3103,7 +3151,7 @@ var _default = {
           "translated": "crwdns6388351:0crwdne6388351:0",
           "source": "Remove this bookmark?"
         },
-        "comment": "id:remove_this_bookmark\nTitle for alert which appears when you take an action which would both remove a bookmark and remove its offline download in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:remove_this_bookmark\nTitle for alert which appears when you take an action which would both remove a bookmark and remove its offline download in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "remove_these_bookmarks": {
         "form": {
@@ -3111,7 +3159,7 @@ var _default = {
           "translated": "crwdns6388353:0crwdne6388353:0",
           "source": "Remove these bookmarks?"
         },
-        "comment": "id:remove_these_bookmarks\nTitle for alert which appears when you take an action which would remove multiple bookmarks and their offline downloads in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:remove_these_bookmarks\nTitle for alert which appears when you take an action which would remove multiple bookmarks and their offline downloads in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "removing_bookmark_will_remove_downloads": {
         "form": {
@@ -3119,7 +3167,7 @@ var _default = {
           "translated": "crwdns6388355:0crwdne6388355:0",
           "source": "Removing this bookmark will also remove its downloaded content."
         },
-        "comment": "id:removing_bookmark_will_remove_downloads\nBody of alert which appears when you take an action which would both remove a bookmarked topic and remove its offline download in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:removing_bookmark_will_remove_downloads\nBody of alert which appears when you take an action which would both remove a bookmarked topic and remove its offline download in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "removing_bookmarks_will_remove_downloads": {
         "form": {
@@ -3127,7 +3175,7 @@ var _default = {
           "translated": "crwdns6388357:0crwdne6388357:0",
           "source": "Removing these bookmarks will also remove their downloaded content."
         },
-        "comment": "id:removing_bookmarks_will_remove_downloads\nBody of alert which appears when you take an action which would remove multiple bookmarks and their offline downloads in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:removing_bookmarks_will_remove_downloads\nBody of alert which appears when you take an action which would remove multiple bookmarks and their offline downloads in one step.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "download_accessibility_label": {
         "form": {
@@ -3135,7 +3183,7 @@ var _default = {
           "translated": "crwdns6388359:0crwdne6388359:0",
           "source": "Download bookmark"
         },
-        "comment": "id:download_accessibility_label\nAccessibility label for the download bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.js"
+        "comment": "id:download_accessibility_label\nAccessibility label for the download bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.tsx"
       },
       "undownload_accessibility_label": {
         "form": {
@@ -3143,7 +3191,7 @@ var _default = {
           "translated": "crwdns6388361:0crwdne6388361:0",
           "source": "Undownload bookmark"
         },
-        "comment": "id:undownload_accessibility_label\nAccessibility label for the undownload bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/SwipeableButton.js"
+        "comment": "id:undownload_accessibility_label\nAccessibility label for the undownload bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx"
       },
       "delete_bookmark_accessibility_label": {
         "form": {
@@ -3151,7 +3199,7 @@ var _default = {
           "translated": "crwdns6388363:0crwdne6388363:0",
           "source": "Delete bookmark"
         },
-        "comment": "id:delete_bookmark_accessibility_label\nAccessibility label for the delete bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/SwipeableButton.js"
+        "comment": "id:delete_bookmark_accessibility_label\nAccessibility label for the delete bookmark button.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx"
       },
       "stop_download_accessibility_label": {
         "form": {
@@ -3159,7 +3207,7 @@ var _default = {
           "translated": "crwdns6388365:0crwdne6388365:0",
           "source": "Stop downloading bookmark"
         },
-        "comment": "id:stop_download_accessibility_label\nAccessibility label for a button that stops a bookmark download.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.js"
+        "comment": "id:stop_download_accessibility_label\nAccessibility label for a button that stops a bookmark download.\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.tsx"
       },
       "select_accessibility_label": {
         "form": {
@@ -3167,7 +3215,7 @@ var _default = {
           "translated": "crwdns6388367:0crwdne6388367:0",
           "source": "Select bookmark"
         },
-        "comment": "id:select_accessibility_label\nAccessibility label for a button that selects a bookmark for bulk editing (to delete or undownload bookmarks).\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.js"
+        "comment": "id:select_accessibility_label\nAccessibility label for a button that selects a bookmark for bulk editing (to delete or undownload bookmarks).\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.tsx"
       },
       "unselect_accessibility_label": {
         "form": {
@@ -3175,7 +3223,7 @@ var _default = {
           "translated": "crwdns6388369:0crwdne6388369:0",
           "source": "Unselect bookmark"
         },
-        "comment": "id:unselect_accessibility_label\nAccessibility label for a button that unselects a bookmark for bulk editing (to delete or undownload bookmarks)\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.js"
+        "comment": "id:unselect_accessibility_label\nAccessibility label for a button that unselects a bookmark for bulk editing (to delete or undownload bookmarks)\nUsed in the following files:\nFile: /BookmarksScreen/Cells/AccessoryView.tsx"
       },
       "added_bookmark_toast": {
         "form": {
@@ -3183,7 +3231,7 @@ var _default = {
           "translated": "crwdns6388371:0%(num)scrwdne6388371:0",
           "source": "Added \"%(num)s\" to Bookmarks"
         },
-        "comment": "id:added_bookmark_toast\nMessage when a bookmark with the given name has been added.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:added_bookmark_toast\nMessage when a bookmark with the given name has been added.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "removed_bookmark_toast": {
         "form": {
@@ -3191,7 +3239,7 @@ var _default = {
           "translated": "crwdns6388373:0%(num)scrwdne6388373:0",
           "source": "Removed \"%(num)s\" from Bookmarks"
         },
-        "comment": "id:removed_bookmark_toast\nMessage when a bookmark with the given name has been removed.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:removed_bookmark_toast\nMessage when a bookmark with the given name has been removed.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "add_video_bookmark_title": {
         "form": {
@@ -3199,7 +3247,7 @@ var _default = {
           "translated": "crwdns6388375:0crwdne6388375:0",
           "source": "You added a video to Bookmarks!"
         },
-        "comment": "id:add_video_bookmark_title\nTitle for an alert when the user first bookmarks a video.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:add_video_bookmark_title\nTitle for an alert when the user first bookmarks a video.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "add_article_bookmark_title": {
         "form": {
@@ -3215,7 +3263,7 @@ var _default = {
           "translated": "crwdns6388379:0crwdne6388379:0",
           "source": "You added a topic to Bookmarks!"
         },
-        "comment": "id:add_topic_bookmark_title\nTitle for an alert when the user first bookmarks a topic.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:add_topic_bookmark_title\nTitle for an alert when the user first bookmarks a topic.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "add_bookmark_message": {
         "form": {
@@ -3223,7 +3271,7 @@ var _default = {
           "translated": "crwdns6388381:0crwdne6388381:0",
           "source": "Now you can download it for offline use in the Bookmarks tab."
         },
-        "comment": "id:add_bookmark_message\nBody of an alert when the user first bookmarks content.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:add_bookmark_message\nBody of an alert when the user first bookmarks content.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "add_bookmark_go_to_bookmarks_label": {
         "form": {
@@ -3231,7 +3279,7 @@ var _default = {
           "translated": "crwdns6388383:0crwdne6388383:0",
           "source": "Go to Bookmarks"
         },
-        "comment": "id:add_bookmark_go_to_bookmarks_label\nAction label for navigating to the bookmarks tab.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:add_bookmark_go_to_bookmarks_label\nAction label for navigating to the bookmarks tab.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "add_bookmark_stay_label": {
         "form": {
@@ -3239,7 +3287,7 @@ var _default = {
           "translated": "crwdns6388385:0crwdne6388385:0",
           "source": "Got it"
         },
-        "comment": "id:add_bookmark_stay_label\nAction label for acknowledging bookmark alert.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.js"
+        "comment": "id:add_bookmark_stay_label\nAction label for acknowledging bookmark alert.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
       "please_connect_to_wifi": {
         "form": {
@@ -3247,7 +3295,7 @@ var _default = {
           "translated": "crwdns6388387:0crwdne6388387:0",
           "source": "Please connect to Wi-Fi"
         },
-        "comment": "id:please_connect_to_wifi\nTitle for an alert that is shown when a user tries to download a bookmark while they are not connected to Wi-Fi, but they have the download over wifi only preference enabled.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.js"
+        "comment": "id:please_connect_to_wifi\nTitle for an alert that is shown when a user tries to download a bookmark while they are not connected to Wi-Fi, but they have the download over wifi only preference enabled.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.ts"
       },
       "please_connect_to_wifi_message": {
         "form": {
@@ -3255,7 +3303,7 @@ var _default = {
           "translated": "crwdns6388389:0crwdne6388389:0",
           "source": "To download this item, please connect to Wi-Fi, or change your download settings."
         },
-        "comment": "id:please_connect_to_wifi_message\nMessage for an alert that is shown when a user tries to download a bookmark while they are not connected to Wi-Fi, but they have the download over wifi only preference enabled.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.js"
+        "comment": "id:please_connect_to_wifi_message\nMessage for an alert that is shown when a user tries to download a bookmark while they are not connected to Wi-Fi, but they have the download over wifi only preference enabled.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.ts"
       },
       "settings": {
         "form": {
@@ -3263,7 +3311,7 @@ var _default = {
           "translated": "crwdns6388391:0crwdne6388391:0",
           "source": "Settings"
         },
-        "comment": "id:settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.js\nFile: /navigators/Settings.js"
+        "comment": "id:settings\nLabel for a button that navigates the user to the Download settings page.\nUsed in the following files:\nFile: /BookmarksScreen/download-utils.ts\nFile: /navigators/Settings.tsx"
       },
       "setting_download_settings_error": {
         "form": {
@@ -3271,7 +3319,7 @@ var _default = {
           "translated": "crwdns6388399:0crwdne6388399:0",
           "source": "Saving download setting failed."
         },
-        "comment": "id:setting_download_settings_error\nError message indicating that saving a download setting failed.\nUsed in the following files:\nFile: /redux/bookmarks/index.js"
+        "comment": "id:setting_download_settings_error\nError message indicating that saving a download setting failed.\nUsed in the following files:\nFile: /redux/bookmarks/index.ts"
       },
       "saving_bookmarks_failed": {
         "form": {
@@ -3279,7 +3327,7 @@ var _default = {
           "translated": "crwdns6388401:0crwdne6388401:0",
           "source": "Saving bookmarks failed."
         },
-        "comment": "id:saving_bookmarks_failed\nError message indicating that saving bookmarks failed.\nUsed in the following files:\nFile: /redux/bookmarks/persist-utils.js"
+        "comment": "id:saving_bookmarks_failed\nError message indicating that saving bookmarks failed.\nUsed in the following files:\nFile: /redux/bookmarks/persist-utils.ts"
       },
       "plus_x_more": {
         "form": {
@@ -3287,7 +3335,7 @@ var _default = {
           "translated": "crwdns6853288:0%(num)crwdne6853288:0",
           "source": "+ %(num) more"
         },
-        "comment": "id:plus_x_more\nLabel describing how many-more items there are in the list."
+        "comment": "id:plus_x_more\nLabel describing how many-more items there are in the list.\nUsed in the following files:\nFile: /shared/native/SharedStorageModule.ts"
       },
       "bookmarks_widget_summary": {
         "form": {
@@ -3295,7 +3343,7 @@ var _default = {
           "translated": "crwdns6853290:0crwdne6853290:0",
           "source": "Quickly access your recent bookmarks."
         },
-        "comment": "id:bookmarks_widget_summary\nLabel describing our new Bookmarks widget on iOS."
+        "comment": "id:bookmarks_widget_summary\nLabel describing our new Bookmarks widget on iOS.\nUsed in the following files:\nFile: /shared/native/SharedStorageModule.ts"
       },
       "identify_growth_one": {
         "form": {
@@ -3303,7 +3351,7 @@ var _default = {
           "translated": "crwdns6388403:0crwdne6388403:0",
           "source": "Identify your areas for growth in this lesson:"
         },
-        "comment": "id:identify_growth_one\nPre-mastery: Prompt to begin a unit quiz with one tutorial.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:identify_growth_one\nPre-mastery: Prompt to begin a unit quiz with one tutorial.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "identify_growth_multiple": {
         "form": {
@@ -3311,7 +3359,7 @@ var _default = {
           "translated": "crwdns6388405:0crwdne6388405:0",
           "source": "Identify your areas for growth in these lessons:"
         },
-        "comment": "id:identify_growth_multiple\nPre-mastery: Prompt to begin a unit quiz with multiple tutorials.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:identify_growth_multiple\nPre-mastery: Prompt to begin a unit quiz with multiple tutorials.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "start_quiz": {
         "form": {
@@ -3327,7 +3375,7 @@ var _default = {
           "translated": "crwdns6388409:0crwdne6388409:0",
           "source": "Start"
         },
-        "comment": "id:start_quiz_brief\nButton on Topic view that allows a user to start a unit quiz.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:start_quiz_brief\nButton on Topic view that allows a user to start a unit quiz.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "retake_quiz_brief": {
         "form": {
@@ -3335,7 +3383,7 @@ var _default = {
           "translated": "crwdns6388411:0crwdne6388411:0",
           "source": "Redo quiz"
         },
-        "comment": "id:retake_quiz_brief\nButton on Topic view that allows a user to retake a unit quiz.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:retake_quiz_brief\nButton on Topic view that allows a user to retake a unit quiz.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "unit_test_shelf_description_mastered": {
         "form": {
@@ -3343,7 +3391,7 @@ var _default = {
           "translated": "crwdns6388423:0crwdne6388423:0",
           "source": "Great work! You’ve already mastered this unit and can’t level up in any skills nor collect any mastery points."
         },
-        "comment": "id:unit_test_shelf_description_mastered\nPrompt to retake a unit test in an already mastered unit.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:unit_test_shelf_description_mastered\nPrompt to retake a unit test in an already mastered unit.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "start_test": {
         "form": {
@@ -3367,7 +3415,7 @@ var _default = {
           "translated": "crwdns6388429:0crwdne6388429:0",
           "source": "Start"
         },
-        "comment": "id:start_test_brief\nButton with brief title that allows a user to start a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:start_test_brief\nButton with brief title that allows a user to start a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "retake_test_brief": {
         "form": {
@@ -3375,7 +3423,7 @@ var _default = {
           "translated": "crwdns6388431:0crwdne6388431:0",
           "source": "Redo"
         },
-        "comment": "id:retake_test_brief\nButton with brief title that allows a user to redo a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:retake_test_brief\nButton with brief title that allows a user to redo a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "unit_test": {
         "form": {
@@ -3383,7 +3431,7 @@ var _default = {
           "translated": "crwdns6388433:0crwdne6388433:0",
           "source": "Unit test"
         },
-        "comment": "id:unit_test\nTitle for a unit test\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js\nFile: /shared/components/ContentThumbnail.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:unit_test\nTitle for a unit test\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx\nFile: /shared/components/ContentThumbnail.tsx\nFile: /shared/native/NavigationModule.ts"
       },
       "level_up_in_the_skills_above": {
         "form": {
@@ -3391,7 +3439,7 @@ var _default = {
           "translated": "crwdns6388437:0crwdne6388437:0",
           "source": "Level up in the skills above"
         },
-        "comment": "id:level_up_in_the_skills_above\nSubtitle on a quiz cell, which improves your mastery-level in the skills above it\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
+        "comment": "id:level_up_in_the_skills_above\nSubtitle on a quiz cell, which improves your mastery-level in the skills above it\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx"
       },
       "nice_work": {
         "form": {
@@ -3399,7 +3447,7 @@ var _default = {
           "translated": "crwdns6388439:0crwdne6388439:0",
           "source": "Nice work!"
         },
-        "comment": "id:nice_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:nice_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "good_work": {
         "form": {
@@ -3407,7 +3455,7 @@ var _default = {
           "translated": "crwdns6388441:0crwdne6388441:0",
           "source": "Good work!"
         },
-        "comment": "id:good_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:good_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "great_work": {
         "form": {
@@ -3415,7 +3463,7 @@ var _default = {
           "translated": "crwdns6388443:0crwdne6388443:0",
           "source": "Great work!"
         },
-        "comment": "id:great_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:great_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "not_quite": {
         "form": {
@@ -3423,7 +3471,7 @@ var _default = {
           "translated": "crwdns6388445:0crwdne6388445:0",
           "source": "Not quite!"
         },
-        "comment": "id:not_quite\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:not_quite\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "give_it_another_shot": {
         "form": {
@@ -3431,7 +3479,7 @@ var _default = {
           "translated": "crwdns6388447:0crwdne6388447:0",
           "source": "Give it another shot!"
         },
-        "comment": "id:give_it_another_shot\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:give_it_another_shot\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "not_quite_yet": {
         "form": {
@@ -3439,7 +3487,7 @@ var _default = {
           "translated": "crwdns6388449:0crwdne6388449:0",
           "source": "Not quite yet..."
         },
-        "comment": "id:not_quite_yet\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:not_quite_yet\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "way_to_go": {
         "form": {
@@ -3447,7 +3495,7 @@ var _default = {
           "translated": "crwdns6388451:0crwdne6388451:0",
           "source": "Way to go!"
         },
-        "comment": "id:way_to_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Assignments/ui-utils.js\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:way_to_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "there_you_go": {
         "form": {
@@ -3455,7 +3503,7 @@ var _default = {
           "translated": "crwdns6388453:0crwdne6388453:0",
           "source": "There you go!"
         },
-        "comment": "id:there_you_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:there_you_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "you_improved_your_answer": {
         "form": {
@@ -3463,7 +3511,7 @@ var _default = {
           "translated": "crwdns6388455:0crwdne6388455:0",
           "source": "You improved your answer!"
         },
-        "comment": "id:you_improved_your_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:you_improved_your_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "you_got_it": {
         "form": {
@@ -3471,7 +3519,7 @@ var _default = {
           "translated": "crwdns6388457:0crwdne6388457:0",
           "source": "You got it!"
         },
-        "comment": "id:you_got_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:you_got_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "almost_there": {
         "form": {
@@ -3479,7 +3527,7 @@ var _default = {
           "translated": "crwdns6388459:0crwdne6388459:0",
           "source": "You're almost there!"
         },
-        "comment": "id:almost_there\nExercise feedback text when a user has not met the question critera.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:almost_there\nExercise feedback text when a user has not met the question critera.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "step_by_step": {
         "form": {
@@ -3487,7 +3535,7 @@ var _default = {
           "translated": "crwdns6388461:0crwdne6388461:0",
           "source": "Or see a step-by-step solution."
         },
-        "comment": "id:step_by_step\nExercise feedback text that allows the user to see the solution.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:step_by_step\nExercise feedback text that allows the user to see the solution.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "you_got_it_onward": {
         "form": {
@@ -3495,7 +3543,7 @@ var _default = {
           "translated": "crwdns6388463:0crwdne6388463:0",
           "source": "You got it. Onward!"
         },
-        "comment": "id:you_got_it_onward\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:you_got_it_onward\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "get_help": {
         "form": {
@@ -3503,7 +3551,7 @@ var _default = {
           "translated": "crwdns6388465:0crwdne6388465:0",
           "source": "Get help."
         },
-        "comment": "id:get_help\nExercise feedback text that prompts the user to get a hint.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:get_help\nExercise feedback text that prompts the user to get a hint.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "skip_for_now": {
         "form": {
@@ -3511,7 +3559,7 @@ var _default = {
           "translated": "crwdns6388467:0crwdne6388467:0",
           "source": "Skip for now."
         },
-        "comment": "id:skip_for_now\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:skip_for_now\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "move_on": {
         "form": {
@@ -3519,7 +3567,7 @@ var _default = {
           "translated": "crwdns6388469:0crwdne6388469:0",
           "source": "Or move on."
         },
-        "comment": "id:move_on\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:move_on\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "right_answer": {
         "form": {
@@ -3527,7 +3575,7 @@ var _default = {
           "translated": "crwdns6388471:0crwdne6388471:0",
           "source": "That's the right answer. Keep practicing!"
         },
-        "comment": "id:right_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:right_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "stuck_with_it": {
         "form": {
@@ -3535,7 +3583,7 @@ var _default = {
           "translated": "crwdns6388473:0crwdne6388473:0",
           "source": "Great that you stuck with it. Onward!"
         },
-        "comment": "id:stuck_with_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:stuck_with_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "you_got_it_persistence": {
         "form": {
@@ -3543,7 +3591,7 @@ var _default = {
           "translated": "crwdns6388475:0crwdne6388475:0",
           "source": "You got it; keep up the great persistence."
         },
-        "comment": "id:you_got_it_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:you_got_it_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "great_persistence": {
         "form": {
@@ -3551,7 +3599,7 @@ var _default = {
           "translated": "crwdns6388477:0crwdne6388477:0",
           "source": "Keep up the great persistence!"
         },
-        "comment": "id:great_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:great_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "check": {
         "form": {
@@ -3559,7 +3607,7 @@ var _default = {
           "translated": "crwdns6388479:0crwdne6388479:0",
           "source": "Check"
         },
-        "comment": "id:check\nText for a button that checks whether a problem attempt is correct.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:check\nText for a button that checks whether a problem attempt is correct.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "next_question": {
         "form": {
@@ -3567,7 +3615,7 @@ var _default = {
           "translated": "crwdns6388481:0crwdne6388481:0",
           "source": "Next question"
         },
-        "comment": "id:next_question\nText for a button that moves on to the next question in an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:next_question\nText for a button that moves on to the next question in an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "check_again": {
         "form": {
@@ -3575,7 +3623,7 @@ var _default = {
           "translated": "crwdns6388483:0crwdne6388483:0",
           "source": "Check again"
         },
-        "comment": "id:check_again\nText for a button that allows the user to check a problem attempt again.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:check_again\nText for a button that allows the user to check a problem attempt again.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "start_over": {
         "form": {
@@ -3583,7 +3631,7 @@ var _default = {
           "translated": "crwdns7499873:0crwdne7499873:0",
           "source": "Start over"
         },
-        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js\nFile: /Task/Exercise/ActionBar/index.js"
+        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx\nFile: /Task/Exercise/ActionBar/index.tsx"
       },
       "are_you_sure": {
         "form": {
@@ -3591,7 +3639,7 @@ var _default = {
           "translated": "crwdns7499875:0crwdne7499875:0",
           "source": "Are you sure?"
         },
-        "comment": "id:are_you_sure\nHeading for a confirmation modal.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:are_you_sure\nHeading for a confirmation modal.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "start_over_lose_progress_warning": {
         "form": {
@@ -3599,7 +3647,7 @@ var _default = {
           "translated": "crwdns7499877:0crwdne7499877:0",
           "source": "You will lose your progress if you start over."
         },
-        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "start_over_error_title": {
         "form": {
@@ -3607,7 +3655,7 @@ var _default = {
           "translated": "crwdns7534863:0crwdne7534863:0",
           "source": "We’re sorry, there’s been an error."
         },
-        "comment": "id:start_over_error_title\nTitle for an error modal that appears when the user tries to start over on a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:start_over_error_title\nTitle for an error modal that appears when the user tries to start over on a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "start_over_error_already_restarted": {
         "form": {
@@ -3615,7 +3663,7 @@ var _default = {
           "translated": "crwdns7534865:0crwdne7534865:0",
           "source": "It looks like you already restarted this task on another device."
         },
-        "comment": "id:start_over_error_already_restarted\nError message that appears when the user tries to start over on a task that they have already restarted.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:start_over_error_already_restarted\nError message that appears when the user tries to start over on a task that they have already restarted.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "start_over_error_already_completed": {
         "form": {
@@ -3623,7 +3671,7 @@ var _default = {
           "translated": "crwdns7534867:0crwdne7534867:0",
           "source": "It looks like you already completed this task on another device."
         },
-        "comment": "id:start_over_error_already_completed\nError message that appears when the user tries to start over on a task that they have already completed.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:start_over_error_already_completed\nError message that appears when the user tries to start over on a task that they have already completed.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "start_over_error_unknown": {
         "form": {
@@ -3631,7 +3679,7 @@ var _default = {
           "translated": "crwdns7534869:0crwdne7534869:0",
           "source": "We encountered an error while attempting to restart this task. Please try again later."
         },
-        "comment": "id:start_over_error_unknown\nError message that appears when the user tries to start over on a task and an unknown error occurs.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:start_over_error_unknown\nError message that appears when the user tries to start over on a task and an unknown error occurs.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "close": {
         "form": {
@@ -3639,7 +3687,7 @@ var _default = {
           "translated": "crwdns7499879:0crwdne7499879:0",
           "source": "Close"
         },
-        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.js"
+        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "toggle_scratchpad": {
         "form": {
@@ -3647,7 +3695,7 @@ var _default = {
           "translated": "crwdns7088219:0crwdne7088219:0",
           "source": "Toggle scratchpad"
         },
-        "comment": "id:toggle_scratchpad\nAccessibility label for the scratchpad button, a button that hides and shows the scratchpad view during exercises.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.js"
+        "comment": "id:toggle_scratchpad\nAccessibility label for the scratchpad button, a button that hides and shows the scratchpad view during exercises.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.tsx"
       },
       "show_summary": {
         "form": {
@@ -3655,7 +3703,7 @@ var _default = {
           "translated": "crwdns6388485:0crwdne6388485:0",
           "source": "Show summary"
         },
-        "comment": "id:show_summary\nText for a button that allows the user to see the end of task card after completing an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:show_summary\nText for a button that allows the user to see the end of task card after completing an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "stuck_hint": {
         "form": {
@@ -3663,7 +3711,7 @@ var _default = {
           "translated": "crwdns6388487:0crwdne6388487:0",
           "source": "Stuck? Use a hint."
         },
-        "comment": "id:stuck_hint\nText that prompts the user to use a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js"
+        "comment": "id:stuck_hint\nText that prompts the user to use a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
       },
       "hint_alert_body": {
         "form": {
@@ -3671,7 +3719,7 @@ var _default = {
           "translated": "crwdns6503887:0crwdne6503887:0",
           "source": "If you use a hint, this problem won't count towards your progress."
         },
-        "comment": "id:hint_alert_body\nText that describes the consequence of taking a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js"
+        "comment": "id:hint_alert_body\nText that describes the consequence of taking a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
       },
       "use_hint": {
         "form": {
@@ -3679,7 +3727,7 @@ var _default = {
           "translated": "crwdns6388493:0crwdne6388493:0",
           "source": "Use hint"
         },
-        "comment": "id:use_hint\nText that allows the user to see a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js"
+        "comment": "id:use_hint\nText that allows the user to see a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
       },
       "use_hint_question": {
         "form": {
@@ -3687,7 +3735,7 @@ var _default = {
           "translated": "crwdns6503888:0crwdne6503888:0",
           "source": "Use hint?"
         },
-        "comment": "id:use_hint_question\nText that asks the user if they would like to take a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js"
+        "comment": "id:use_hint_question\nText that asks the user if they would like to take a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
       },
       "cancel": {
         "form": {
@@ -3695,7 +3743,7 @@ var _default = {
           "translated": "crwdns6388495:0crwdne6388495:0",
           "source": "Cancel"
         },
-        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /ManageCoaches/TeacherRow.js\nFile: /Settings/AppIconPicker.js\nFile: /Settings/utils.js\nFile: /SignUp/api-utils.js\nFile: /Task/Exercise/Help/GetHintHelpPrompt.js\nFile: /Task/Exercise/Scratchpad/index.js\nFile: /navigators/Home.js\nFile: /navigators/Settings.js\nFile: /redux/bookmarks/bookmark-alerts-utils.js\nFile: /shared/native/DeepLinkModule.js\nFile: /shared/native/NavigationModule.js"
+        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /Settings/AppIconPicker.tsx\nFile: /Settings/utils.ts\nFile: /SignUp/api-utils.ts\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx\nFile: /Task/Exercise/Scratchpad/index.tsx\nFile: /navigators/Home.tsx\nFile: /navigators/Settings.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts\nFile: /shared/native/DeepLinkModule.ts\nFile: /shared/native/NavigationModule.ts"
       },
       "exercise_watch_a_video": {
         "form": {
@@ -3703,7 +3751,7 @@ var _default = {
           "translated": "crwdns6388497:0crwdne6388497:0",
           "source": "Watch a video"
         },
-        "comment": "id:exercise_watch_a_video\nText that prompts the user to watch a video.\nUsed in the following files:\nFile: /Task/Exercise/Help/RelatedVideos.js"
+        "comment": "id:exercise_watch_a_video\nText that prompts the user to watch a video.\nUsed in the following files:\nFile: /Task/Exercise/Help/RelatedVideos.tsx"
       },
       "exercise_error_title": {
         "form": {
@@ -3711,7 +3759,7 @@ var _default = {
           "translated": "crwdns6388499:0crwdne6388499:0",
           "source": "Error making task progress"
         },
-        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.js\nFile: /Task/Exercise/state/mastery.js\nFile: /Task/Exercise/state/online.js"
+        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts\nFile: /Task/Exercise/state/online.ts"
       },
       "exercise_error_message": {
         "form": {
@@ -3719,7 +3767,7 @@ var _default = {
           "translated": "crwdns6388501:0crwdne6388501:0",
           "source": "We encountered an error while attempting to make progress in this task; please try again later."
         },
-        "comment": "id:exercise_error_message\nMessage for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.js\nFile: /Task/Exercise/state/mastery.js"
+        "comment": "id:exercise_error_message\nMessage for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts"
       },
       "exercise_error_accept": {
         "form": {
@@ -3727,7 +3775,7 @@ var _default = {
           "translated": "crwdns6388503:0crwdne6388503:0",
           "source": "Okay"
         },
-        "comment": "id:exercise_error_accept\nAction label to exit an exercise after an error has occurred.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.js"
+        "comment": "id:exercise_error_accept\nAction label to exit an exercise after an error has occurred.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts"
       },
       "error_loading_exercise": {
         "form": {
@@ -3743,7 +3791,7 @@ var _default = {
           "translated": "crwdns6499679:0crwdne6499679:0",
           "source": "Oh no!"
         },
-        "comment": "id:error_loading_exercise_title\nScreen header-title for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.js"
+        "comment": "id:error_loading_exercise_title\nScreen header-title for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
       },
       "error_loading_exercise_description": {
         "form": {
@@ -3751,7 +3799,7 @@ var _default = {
           "translated": "crwdns6499681:0crwdne6499681:0",
           "source": "We weren't able to load this exercise."
         },
-        "comment": "id:error_loading_exercise_description\nScreen description for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.js"
+        "comment": "id:error_loading_exercise_description\nScreen description for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
       },
       "checking": {
         "form": {
@@ -3759,7 +3807,7 @@ var _default = {
           "translated": "crwdns6388507:0crwdne6388507:0",
           "source": "Checking..."
         },
-        "comment": "id:checking\nButton text that indicates a problem attempt is being checked.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:checking\nButton text that indicates a problem attempt is being checked.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "loading_completion_data": {
         "form": {
@@ -3767,7 +3815,7 @@ var _default = {
           "translated": "crwdns6388509:0crwdne6388509:0",
           "source": "Loading…"
         },
-        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.js"
+        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "exercise_not_available": {
         "form": {
@@ -3775,7 +3823,7 @@ var _default = {
           "translated": "crwdns6388511:0crwdne6388511:0",
           "source": "This exercise is not available in our app; please complete it on the web."
         },
-        "comment": "id:exercise_not_available\nModal text that indicates the exercise cannot be completed in the app.\nUsed in the following files:\nFile: /Task/Exercise/state/online.js"
+        "comment": "id:exercise_not_available\nModal text that indicates the exercise cannot be completed in the app.\nUsed in the following files:\nFile: /Task/Exercise/state/online.ts"
       },
       "hide_scratchpad": {
         "form": {
@@ -3783,7 +3831,7 @@ var _default = {
           "translated": "crwdns6824346:0crwdne6824346:0",
           "source": "Hide scratchpad"
         },
-        "comment": "id:hide_scratchpad\nTitle for a button that hides the scratchpad\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/Toolbar.js"
+        "comment": "id:hide_scratchpad\nTitle for a button that hides the scratchpad\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/Toolbar.tsx\nFile: /shared/components/SketchView/PencilKitSketchView.tsx"
       },
       "erase_drawing": {
         "form": {
@@ -3791,7 +3839,7 @@ var _default = {
           "translated": "crwdns6824348:0crwdne6824348:0",
           "source": "Erase drawing?"
         },
-        "comment": "id:erase_drawing\nTitle for an alert confirming that the learner wants to erase the entire drawing.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.js"
+        "comment": "id:erase_drawing\nTitle for an alert confirming that the learner wants to erase the entire drawing.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.tsx"
       },
       "erase": {
         "form": {
@@ -3799,7 +3847,7 @@ var _default = {
           "translated": "crwdns6824350:0crwdne6824350:0",
           "source": "Erase"
         },
-        "comment": "id:erase\nButton title to erase something.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.js"
+        "comment": "id:erase\nButton title to erase something.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.tsx"
       },
       "a11y_add": {
         "form": {
@@ -3807,7 +3855,7 @@ var _default = {
           "translated": "crwdns6849526:0crwdne6849526:0",
           "source": "Add"
         },
-        "comment": "id:a11y_add\nAccessibility label for the \"add\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_add\nAccessibility label for the \"add\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_subtract": {
         "form": {
@@ -3815,7 +3863,7 @@ var _default = {
           "translated": "crwdns6849528:0crwdne6849528:0",
           "source": "Subtract"
         },
-        "comment": "id:a11y_subtract\nAccessibility label for the \"subtract\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_subtract\nAccessibility label for the \"subtract\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_negative": {
         "form": {
@@ -3823,7 +3871,7 @@ var _default = {
           "translated": "crwdns6849530:0crwdne6849530:0",
           "source": "Negative"
         },
-        "comment": "id:a11y_negative\nAccessibility label for the \"negative\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_negative\nAccessibility label for the \"negative\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_multiply": {
         "form": {
@@ -3831,7 +3879,7 @@ var _default = {
           "translated": "crwdns6849532:0crwdne6849532:0",
           "source": "Multiply"
         },
-        "comment": "id:a11y_multiply\nAccessibility label for the \"multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_multiply\nAccessibility label for the \"multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_divide": {
         "form": {
@@ -3839,7 +3887,7 @@ var _default = {
           "translated": "crwdns6849534:0crwdne6849534:0",
           "source": "Divide"
         },
-        "comment": "id:a11y_divide\nAccessibility label for the \"divide\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_divide\nAccessibility label for the \"divide\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_decimal": {
         "form": {
@@ -3847,7 +3895,7 @@ var _default = {
           "translated": "crwdns6849536:0crwdne6849536:0",
           "source": "Decimal"
         },
-        "comment": "id:a11y_decimal\nAccessibility label for the \"decimal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_decimal\nAccessibility label for the \"decimal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_percent": {
         "form": {
@@ -3855,7 +3903,7 @@ var _default = {
           "translated": "crwdns6849538:0crwdne6849538:0",
           "source": "Percent"
         },
-        "comment": "id:a11y_percent\nAccessibility label for the \"percent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_percent\nAccessibility label for the \"percent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_dot": {
         "form": {
@@ -3863,7 +3911,7 @@ var _default = {
           "translated": "crwdns6849540:0crwdne6849540:0",
           "source": "Dot"
         },
-        "comment": "id:a11y_dot\nAccessibility label for the \"dot-multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_dot\nAccessibility label for the \"dot-multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_equals": {
         "form": {
@@ -3871,7 +3919,7 @@ var _default = {
           "translated": "crwdns6849542:0crwdne6849542:0",
           "source": "Equals"
         },
-        "comment": "id:a11y_equals\nAccessibility label for the \"equals\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_equals\nAccessibility label for the \"equals\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_not_equal": {
         "form": {
@@ -3879,7 +3927,7 @@ var _default = {
           "translated": "crwdns6849544:0crwdne6849544:0",
           "source": "Not equal"
         },
-        "comment": "id:a11y_not_equal\nAccessibility label for the \"not equal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_not_equal\nAccessibility label for the \"not equal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_greater_than": {
         "form": {
@@ -3887,7 +3935,7 @@ var _default = {
           "translated": "crwdns6849546:0crwdne6849546:0",
           "source": "Greater than"
         },
-        "comment": "id:a11y_greater_than\nAccessibility label for the \"greater than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_greater_than\nAccessibility label for the \"greater than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_less_than": {
         "form": {
@@ -3895,7 +3943,7 @@ var _default = {
           "translated": "crwdns6849548:0crwdne6849548:0",
           "source": "Less than"
         },
-        "comment": "id:a11y_less_than\nAccessibility label for the \"less than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_less_than\nAccessibility label for the \"less than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_greater_than_or_equal_to": {
         "form": {
@@ -3903,7 +3951,7 @@ var _default = {
           "translated": "crwdns6849550:0crwdne6849550:0",
           "source": "Greater than or equal to"
         },
-        "comment": "id:a11y_greater_than_or_equal_to\nAccessibility label for the \"greater than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_greater_than_or_equal_to\nAccessibility label for the \"greater than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_less_than_or_equal_to": {
         "form": {
@@ -3911,7 +3959,7 @@ var _default = {
           "translated": "crwdns6849552:0crwdne6849552:0",
           "source": "Less than or equal to"
         },
-        "comment": "id:a11y_less_than_or_equal_to\nAccessibility label for the \"less than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_less_than_or_equal_to\nAccessibility label for the \"less than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_fraction": {
         "form": {
@@ -3919,7 +3967,7 @@ var _default = {
           "translated": "crwdns6849554:0crwdne6849554:0",
           "source": "Fraction"
         },
-        "comment": "id:a11y_fraction\nAccessibility label for the \"fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_fraction\nAccessibility label for the \"fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_mixed_fraction": {
         "form": {
@@ -3927,7 +3975,7 @@ var _default = {
           "translated": "crwdns6849556:0crwdne6849556:0",
           "source": "Mixed fraction"
         },
-        "comment": "id:a11y_mixed_fraction\nAccessibility label for the \"mixed fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_mixed_fraction\nAccessibility label for the \"mixed fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exponent": {
         "form": {
@@ -3935,7 +3983,7 @@ var _default = {
           "translated": "crwdns6849558:0crwdne6849558:0",
           "source": "Exponent"
         },
-        "comment": "id:a11y_exponent\nAccessibility label for the \"exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exponent\nAccessibility label for the \"exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_squared": {
         "form": {
@@ -3943,7 +3991,7 @@ var _default = {
           "translated": "crwdns6849560:0crwdne6849560:0",
           "source": "Squared"
         },
-        "comment": "id:a11y_squared\nAccessibility label for the \"squared\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_squared\nAccessibility label for the \"squared\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_cubed": {
         "form": {
@@ -3951,7 +3999,7 @@ var _default = {
           "translated": "crwdns6849562:0crwdne6849562:0",
           "source": "Cubed"
         },
-        "comment": "id:a11y_cubed\nAccessibility label for the \"cubed\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_cubed\nAccessibility label for the \"cubed\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_square_root": {
         "form": {
@@ -3959,7 +4007,7 @@ var _default = {
           "translated": "crwdns6849564:0crwdne6849564:0",
           "source": "Square root"
         },
-        "comment": "id:a11y_square_root\nAccessibility label for the \"square root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_square_root\nAccessibility label for the \"square root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_cube_root": {
         "form": {
@@ -3967,7 +4015,7 @@ var _default = {
           "translated": "crwdns6849566:0crwdne6849566:0",
           "source": "Cube root"
         },
-        "comment": "id:a11y_cube_root\nAccessibility label for the \"cube root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_cube_root\nAccessibility label for the \"cube root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_radical": {
         "form": {
@@ -3975,7 +4023,7 @@ var _default = {
           "translated": "crwdns6849568:0crwdne6849568:0",
           "source": "Radical"
         },
-        "comment": "id:a11y_radical\nAccessibility label for the \"radical\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_radical\nAccessibility label for the \"radical\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_open_parenthesis": {
         "form": {
@@ -3983,7 +4031,7 @@ var _default = {
           "translated": "crwdns6849570:0crwdne6849570:0",
           "source": "Open parenthesis"
         },
-        "comment": "id:a11y_open_parenthesis\nAccessibility label for the \"Open parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_open_parenthesis\nAccessibility label for the \"Open parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_close_parenthesis": {
         "form": {
@@ -3991,7 +4039,7 @@ var _default = {
           "translated": "crwdns6849572:0crwdne6849572:0",
           "source": "Close parenthesis"
         },
-        "comment": "id:a11y_close_parenthesis\nAccessibility label for the \"close parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_close_parenthesis\nAccessibility label for the \"close parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_natural_log": {
         "form": {
@@ -3999,7 +4047,7 @@ var _default = {
           "translated": "crwdns6849574:0crwdne6849574:0",
           "source": "Natural log"
         },
-        "comment": "id:a11y_natural_log\nAccessibility label for the \"natural log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_natural_log\nAccessibility label for the \"natural log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_log": {
         "form": {
@@ -4007,7 +4055,7 @@ var _default = {
           "translated": "crwdns6849576:0crwdne6849576:0",
           "source": "Log"
         },
-        "comment": "id:a11y_log\nAccessibility label for the \"log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_log\nAccessibility label for the \"log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_log_n": {
         "form": {
@@ -4015,7 +4063,7 @@ var _default = {
           "translated": "crwdns6849578:0crwdne6849578:0",
           "source": "Log N"
         },
-        "comment": "id:a11y_log_n\nAccessibility label for the \"log n\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_log_n\nAccessibility label for the \"log n\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_sine": {
         "form": {
@@ -4023,7 +4071,7 @@ var _default = {
           "translated": "crwdns6849580:0crwdne6849580:0",
           "source": "Sine"
         },
-        "comment": "id:a11y_sine\nAccessibility label for the \"sine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_sine\nAccessibility label for the \"sine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_cosine": {
         "form": {
@@ -4031,7 +4079,7 @@ var _default = {
           "translated": "crwdns6849582:0crwdne6849582:0",
           "source": "Cosine"
         },
-        "comment": "id:a11y_cosine\nAccessibility label for the \"cosine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_cosine\nAccessibility label for the \"cosine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_tangent": {
         "form": {
@@ -4039,7 +4087,7 @@ var _default = {
           "translated": "crwdns6849584:0crwdne6849584:0",
           "source": "Tangent"
         },
-        "comment": "id:a11y_tangent\nAccessibility label for the \"tangent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_tangent\nAccessibility label for the \"tangent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_pi": {
         "form": {
@@ -4047,7 +4095,7 @@ var _default = {
           "translated": "crwdns6849586:0crwdne6849586:0",
           "source": "Pi"
         },
-        "comment": "id:a11y_pi\nAccessibility label for the \"pi\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_pi\nAccessibility label for the \"pi\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_theta": {
         "form": {
@@ -4055,7 +4103,7 @@ var _default = {
           "translated": "crwdns6849588:0crwdne6849588:0",
           "source": "Theta"
         },
-        "comment": "id:a11y_theta\nAccessibility label for the \"theta\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_theta\nAccessibility label for the \"theta\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exit_parenthesis": {
         "form": {
@@ -4063,7 +4111,7 @@ var _default = {
           "translated": "crwdns6849590:0crwdne6849590:0",
           "source": "Exit parenthesis"
         },
-        "comment": "id:a11y_exit_parenthesis\nAccessibility label for the \"exit parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exit_parenthesis\nAccessibility label for the \"exit parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exit_exponent": {
         "form": {
@@ -4071,7 +4119,7 @@ var _default = {
           "translated": "crwdns6849592:0crwdne6849592:0",
           "source": "Exit exponent"
         },
-        "comment": "id:a11y_exit_exponent\nAccessibility label for the \"exit exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exit_exponent\nAccessibility label for the \"exit exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exit_base": {
         "form": {
@@ -4079,7 +4127,7 @@ var _default = {
           "translated": "crwdns6849594:0crwdne6849594:0",
           "source": "Exit base"
         },
-        "comment": "id:a11y_exit_base\nAccessibility label for the \"exit base\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exit_base\nAccessibility label for the \"exit base\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_enter_numerator": {
         "form": {
@@ -4087,7 +4135,7 @@ var _default = {
           "translated": "crwdns6849596:0crwdne6849596:0",
           "source": "Enter numerator"
         },
-        "comment": "id:a11y_enter_numerator\nAccessibility label for the \"enter numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_enter_numerator\nAccessibility label for the \"enter numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exit_numerator": {
         "form": {
@@ -4095,7 +4143,7 @@ var _default = {
           "translated": "crwdns6849598:0crwdne6849598:0",
           "source": "Exit numerator"
         },
-        "comment": "id:a11y_exit_numerator\nAccessibility label for the \"exit numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exit_numerator\nAccessibility label for the \"exit numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_exit_denominator": {
         "form": {
@@ -4103,7 +4151,7 @@ var _default = {
           "translated": "crwdns6849600:0crwdne6849600:0",
           "source": "Exit denominator"
         },
-        "comment": "id:a11y_exit_denominator\nAccessibility label for the \"exit denominator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_exit_denominator\nAccessibility label for the \"exit denominator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_zero": {
         "form": {
@@ -4111,7 +4159,7 @@ var _default = {
           "translated": "crwdns6849602:0crwdne6849602:0",
           "source": "Zero"
         },
-        "comment": "id:a11y_zero\nAccessibility label for the \"zero\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_zero\nAccessibility label for the \"zero\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_one": {
         "form": {
@@ -4119,7 +4167,7 @@ var _default = {
           "translated": "crwdns6849604:0crwdne6849604:0",
           "source": "One"
         },
-        "comment": "id:a11y_one\nAccessibility label for the \"one\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_one\nAccessibility label for the \"one\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_two": {
         "form": {
@@ -4127,7 +4175,7 @@ var _default = {
           "translated": "crwdns6849606:0crwdne6849606:0",
           "source": "Two"
         },
-        "comment": "id:a11y_two\nAccessibility label for the \"two\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_two\nAccessibility label for the \"two\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_three": {
         "form": {
@@ -4135,7 +4183,7 @@ var _default = {
           "translated": "crwdns6849608:0crwdne6849608:0",
           "source": "Three"
         },
-        "comment": "id:a11y_three\nAccessibility label for the \"three\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_three\nAccessibility label for the \"three\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_four": {
         "form": {
@@ -4143,7 +4191,7 @@ var _default = {
           "translated": "crwdns6849610:0crwdne6849610:0",
           "source": "Four"
         },
-        "comment": "id:a11y_four\nAccessibility label for the \"four\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_four\nAccessibility label for the \"four\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_five": {
         "form": {
@@ -4151,7 +4199,7 @@ var _default = {
           "translated": "crwdns6849612:0crwdne6849612:0",
           "source": "Five"
         },
-        "comment": "id:a11y_five\nAccessibility label for the \"five\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_five\nAccessibility label for the \"five\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_six": {
         "form": {
@@ -4159,7 +4207,7 @@ var _default = {
           "translated": "crwdns6849614:0crwdne6849614:0",
           "source": "Six"
         },
-        "comment": "id:a11y_six\nAccessibility label for the \"six\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_six\nAccessibility label for the \"six\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_seven": {
         "form": {
@@ -4167,7 +4215,7 @@ var _default = {
           "translated": "crwdns6849616:0crwdne6849616:0",
           "source": "Seven"
         },
-        "comment": "id:a11y_seven\nAccessibility label for the \"seven\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_seven\nAccessibility label for the \"seven\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_eight": {
         "form": {
@@ -4175,7 +4223,7 @@ var _default = {
           "translated": "crwdns6849618:0crwdne6849618:0",
           "source": "Eight"
         },
-        "comment": "id:a11y_eight\nAccessibility label for the \"eight\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_eight\nAccessibility label for the \"eight\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_nine": {
         "form": {
@@ -4183,7 +4231,7 @@ var _default = {
           "translated": "crwdns6849620:0crwdne6849620:0",
           "source": "Nine"
         },
-        "comment": "id:a11y_nine\nAccessibility label for the \"nine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js"
+        "comment": "id:a11y_nine\nAccessibility label for the \"nine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
       },
       "a11y_up": {
         "form": {
@@ -4191,7 +4239,7 @@ var _default = {
           "translated": "crwdns6849622:0crwdne6849622:0",
           "source": "Up"
         },
-        "comment": "id:a11y_up\nAccessibility label for the \"up\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.js"
+        "comment": "id:a11y_up\nAccessibility label for the \"up\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "a11y_down": {
         "form": {
@@ -4199,7 +4247,7 @@ var _default = {
           "translated": "crwdns6849624:0crwdne6849624:0",
           "source": "Down"
         },
-        "comment": "id:a11y_down\nAccessibility label for the \"down\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.js"
+        "comment": "id:a11y_down\nAccessibility label for the \"down\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "a11y_left": {
         "form": {
@@ -4207,7 +4255,7 @@ var _default = {
           "translated": "crwdns6849626:0crwdne6849626:0",
           "source": "Left"
         },
-        "comment": "id:a11y_left\nAccessibility label for the \"left\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.js"
+        "comment": "id:a11y_left\nAccessibility label for the \"left\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "a11y_right": {
         "form": {
@@ -4215,7 +4263,7 @@ var _default = {
           "translated": "crwdns6849628:0crwdne6849628:0",
           "source": "Right"
         },
-        "comment": "id:a11y_right\nAccessibility label for the \"right\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.js"
+        "comment": "id:a11y_right\nAccessibility label for the \"right\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "sot_ready_to_practice": {
         "form": {
@@ -4223,7 +4271,7 @@ var _default = {
           "translated": "crwdns6474129:0crwdne6474129:0",
           "source": "Ready to practice?"
         },
-        "comment": "id:sot_ready_to_practice\nScreen title shown before starting a practice exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_ready_to_practice\nScreen title shown before starting a practice exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "lets_go": {
         "form": {
@@ -4231,7 +4279,7 @@ var _default = {
           "translated": "crwdns6474131:0crwdne6474131:0",
           "source": "Let's go"
         },
-        "comment": "id:lets_go\nButton title to start an exercise, quiz, or unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:lets_go\nButton title to start an exercise, quiz, or unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_warning_cannot_level_up_with_practice": {
         "form": {
@@ -4239,7 +4287,7 @@ var _default = {
           "translated": "crwdns6474133:0crwdne6474133:0",
           "source": "You can’t level up with practice anymore. Take a unit test or course challenge to reach mastery!"
         },
-        "comment": "id:sot_warning_cannot_level_up_with_practice\nWarning shown before practicing an exercise, that the learner should take a unit test or course challenge instead, because they cannot level-up by doing a practice exercise for this skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_warning_cannot_level_up_with_practice\nWarning shown before practicing an exercise, that the learner should take a unit test or course challenge instead, because they cannot level-up by doing a practice exercise for this skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_warning_already_mastered": {
         "form": {
@@ -4247,7 +4295,7 @@ var _default = {
           "translated": "crwdns6474135:0crwdne6474135:0",
           "source": "You’re already a master of this skill — there are no more levels to reach on this practice!"
         },
-        "comment": "id:sot_warning_already_mastered\nWarning shown before practicing an exercie, that the learner is already mastered and cannot level-up in practice.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_warning_already_mastered\nWarning shown before practicing an exercie, that the learner is already mastered and cannot level-up in practice.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_keep_going_keep_growing": {
         "form": {
@@ -4255,7 +4303,7 @@ var _default = {
           "translated": "crwdns6508123:0crwdne6508123:0",
           "source": "Keep going. Keep growing. 💪"
         },
-        "comment": "id:eot_keep_going_keep_growing\nEnd-of-task card title, often used when the mastery level did not change.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_keep_going_keep_growing\nEnd-of-task card title, often used when the mastery level did not change.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_leveled_up": {
         "form": {
@@ -4263,7 +4311,7 @@ var _default = {
           "translated": "crwdns6474139:0crwdne6474139:0",
           "source": "🔥 Awesome! You leveled up! 🔥"
         },
-        "comment": "id:eot_leveled_up\nScreen title to celebrate a level-up in mastery skill at the end of a practice task. The fire-emoji should be at the start and end of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_leveled_up\nScreen title to celebrate a level-up in mastery skill at the end of a practice task. The fire-emoji should be at the start and end of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_keep_practicing": {
         "form": {
@@ -4271,7 +4319,7 @@ var _default = {
           "translated": "crwdns6474141:0crwdne6474141:0",
           "source": "📚 Keep on practicing!"
         },
-        "comment": "id:eot_keep_practicing\nScreen title to encourage a learner to keep trying on a practice task; it is shown if the learner lost a mastery level or did not level up. The book-emoji should be at the start of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_keep_practicing\nScreen title to encourage a learner to keep trying on a practice task; it is shown if the learner lost a mastery level or did not level up. The book-emoji should be at the start of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_leveled_down_description": {
         "form": {
@@ -4279,7 +4327,7 @@ var _default = {
           "translated": "crwdns6474143:0crwdne6474143:0",
           "source": "You leveled down this time.  Not to worry — keep practicing this skill and you’ll ace it next time!"
         },
-        "comment": "id:eot_leveled_down_description\nExplanatory text shown when a learner lost a mastery level after practicing a skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_leveled_down_description\nExplanatory text shown when a learner lost a mastery level after practicing a skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_level_did_not_change_description": {
         "form": {
@@ -4287,7 +4335,7 @@ var _default = {
           "translated": "crwdns6474145:0crwdne6474145:0",
           "source": "Your level stayed the same.  Keep on practicing and you’ll level up in no time!"
         },
-        "comment": "id:eot_level_did_not_change_description\nExplanatory text shown when there was no change to your mastery level after an exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_level_did_not_change_description\nExplanatory text shown when there was no change to your mastery level after an exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_take_unit_test_or_course_challenge": {
         "form": {
@@ -4295,7 +4343,7 @@ var _default = {
           "translated": "crwdns6474147:0crwdne6474147:0",
           "source": "Take a unit test or course challenge to level up."
         },
-        "comment": "id:eot_take_unit_test_or_course_challenge\nExplanatory text that tells the learner to take a unit test or course challenge to improve their mastery level.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:eot_take_unit_test_or_course_challenge\nExplanatory text that tells the learner to take a unit test or course challenge to improve their mastery level.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_energy_points_short_format": {
         "form": {
@@ -4303,7 +4351,7 @@ var _default = {
           "translated": "crwdns6474149:0%(num1)scrwdne6474149:0",
           "source": "%(num1)s energy pts"
         },
-        "comment": "id:eot_energy_points_short_format\nSummary information about the number of energy points earned from an activity. The word `points` is truncated to `pts` in english, to save space, so if you have a shorter version of the word `points` available, please use it!\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.js"
+        "comment": "id:eot_energy_points_short_format\nSummary information about the number of energy points earned from an activity. The word `points` is truncated to `pts` in english, to save space, so if you have a shorter version of the word `points` available, please use it!\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
       },
       "eot_fraction_correct": {
         "form": {
@@ -4311,7 +4359,7 @@ var _default = {
           "translated": "crwdns6474151:0%(num1)dcrwdnd6474151:0%(num2)dcrwdne6474151:0",
           "source": "%(num1)d/%(num2)d correct"
         },
-        "comment": "id:eot_fraction_correct\nSummary information about the fraction of questions-correct divided by the questions-incorrect, eg `4/5 correct`. num1 = number correct, num2 = total.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.js"
+        "comment": "id:eot_fraction_correct\nSummary information about the fraction of questions-correct divided by the questions-incorrect, eg `4/5 correct`. num1 = number correct, num2 = total.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
       },
       "sot_time_for_a_quiz": {
         "form": {
@@ -4319,7 +4367,7 @@ var _default = {
           "translated": "crwdns6474153:0crwdne6474153:0",
           "source": "Time for a quiz?"
         },
-        "comment": "id:sot_time_for_a_quiz\nScreen title shown before a learner takes a quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_time_for_a_quiz\nScreen title shown before a learner takes a quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_quiz_description": {
         "form": {
@@ -4327,7 +4375,7 @@ var _default = {
           "translated": "crwdns6474155:0crwdne6474155:0",
           "source": "Get ready for questions on the unit so far."
         },
-        "comment": "id:sot_quiz_description\nScreen description shown before a learner takes a quiz, explaining that the quiz contains questions from the unit so-far.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_quiz_description\nScreen description shown before a learner takes a quiz, explaining that the quiz contains questions from the unit so-far.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_warning_quiz_already_proficient_or_mastered": {
         "form": {
@@ -4335,7 +4383,7 @@ var _default = {
           "translated": "crwdns6474159:0crwdne6474159:0",
           "source": "You’re already proficient or a master of these skills — there are no more levels to reach!"
         },
-        "comment": "id:sot_warning_quiz_already_proficient_or_mastered\nWarning banner shown on start-of-task screen for a quiz if the learner is already proficient and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_warning_quiz_already_proficient_or_mastered\nWarning banner shown on start-of-task screen for a quiz if the learner is already proficient and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_warning_unit_test_already_mastered": {
         "form": {
@@ -4343,7 +4391,7 @@ var _default = {
           "translated": "crwdns6474161:0crwdne6474161:0",
           "source": "You already mastered these skills — there are no more levels to reach!"
         },
-        "comment": "id:sot_warning_unit_test_already_mastered\nWarning banner shown on start-of-task screen for a unit test if the learner is already mastered and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_warning_unit_test_already_mastered\nWarning banner shown on start-of-task screen for a unit test if the learner is already mastered and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_unit_test_title": {
         "form": {
@@ -4351,7 +4399,7 @@ var _default = {
           "translated": "crwdns6474163:0crwdne6474163:0",
           "source": "All set for the unit test?"
         },
-        "comment": "id:sot_unit_test_title\nScreen title shown before a learner takes a unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_unit_test_title\nScreen title shown before a learner takes a unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_unit_test_description": {
         "form": {
@@ -4359,7 +4407,7 @@ var _default = {
           "translated": "crwdns6474165:0crwdne6474165:0",
           "source": "Welcome to the unit test — where you get to test your skills for the entire unit!"
         },
-        "comment": "id:sot_unit_test_description\nScreen description shown before a learner takes a unit test, explaining that the test will cover everything in the unit.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_unit_test_description\nScreen description shown before a learner takes a unit test, explaining that the test will cover everything in the unit.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_course_challenge_title": {
         "form": {
@@ -4367,7 +4415,7 @@ var _default = {
           "translated": "crwdns6474353:0crwdne6474353:0",
           "source": "Ready for the Course Challenge?"
         },
-        "comment": "id:sot_course_challenge_title\nScreen title shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_course_challenge_title\nScreen title shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_course_challenge_description_1": {
         "form": {
@@ -4375,7 +4423,7 @@ var _default = {
           "translated": "crwdns6474355:0crwdne6474355:0",
           "source": "That's right. Test your course skills in a challenge!"
         },
-        "comment": "id:sot_course_challenge_description_1\nScreen description (part 1 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_course_challenge_description_1\nScreen description (part 1 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_course_challenge_description_2": {
         "form": {
@@ -4383,7 +4431,7 @@ var _default = {
           "translated": "crwdns6474357:0crwdne6474357:0",
           "source": "Put everything you've learned to the test and show what you know."
         },
-        "comment": "id:sot_course_challenge_description_2\nScreen description (part 2 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_course_challenge_description_2\nScreen description (part 2 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_minutes_estimate": {
         "form": {
@@ -4391,7 +4439,7 @@ var _default = {
           "translated": "crwdns6474359:0%(num1)scrwdnd6474359:0%(num2)scrwdne6474359:0",
           "source": "%(num1)s–%(num2)s minutes"
         },
-        "comment": "id:sot_minutes_estimate\nTime estimate for an exercise, quiz, or unit test, e.g. `4-6 minutes`.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_minutes_estimate\nTime estimate for an exercise, quiz, or unit test, e.g. `4-6 minutes`.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "sot_exercise_description": {
         "form": {
@@ -4399,7 +4447,7 @@ var _default = {
           "translated": "crwdns6474179:0crwdne6474179:0",
           "source": "Okay, show us what you can do!"
         },
-        "comment": "id:sot_exercise_description\nDescriptive text before an exercise that encourages the learner to show us what they know!\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_exercise_description\nDescriptive text before an exercise that encourages the learner to show us what they know!\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_summary_leveled_up": {
         "form": {
@@ -4407,7 +4455,7 @@ var _default = {
           "translated": "crwdns6474167:0crwdne6474167:0",
           "source": "Leveled up"
         },
-        "comment": "id:eot_summary_leveled_up\nSection title for the number-of-skills leveled-up during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_leveled_up\nSection title for the number-of-skills leveled-up during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "eot_summary_leveled_down": {
         "form": {
@@ -4415,7 +4463,7 @@ var _default = {
           "translated": "crwdns6474169:0crwdne6474169:0",
           "source": "Leveled down"
         },
-        "comment": "id:eot_summary_leveled_down\nSection title for the number-of-skills leveled-down during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_leveled_down\nSection title for the number-of-skills leveled-down during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "eot_summary_no_change": {
         "form": {
@@ -4423,7 +4471,7 @@ var _default = {
           "translated": "crwdns6474171:0crwdne6474171:0",
           "source": "No change"
         },
-        "comment": "id:eot_summary_no_change\nSection title for the number-of-skills that did not change during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_no_change\nSection title for the number-of-skills that did not change during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "eot_summary_not_tested": {
         "form": {
@@ -4431,7 +4479,7 @@ var _default = {
           "translated": "crwdns6474173:0crwdne6474173:0",
           "source": "Not tested"
         },
-        "comment": "id:eot_summary_not_tested\nSection title for the number-of-skills that were not tested in a unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_not_tested\nSection title for the number-of-skills that were not tested in a unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "eot_summary_overall": {
         "form": {
@@ -4439,7 +4487,7 @@ var _default = {
           "translated": "crwdns6474175:0crwdne6474175:0",
           "source": "Overall"
         },
-        "comment": "id:eot_summary_overall\nSection title for summary information about X/Y correct and energy-points-earned in a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_overall\nSection title for summary information about X/Y correct and energy-points-earned in a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "eot_summary_not_tested_explanation": {
         "form": {
@@ -4447,7 +4495,7 @@ var _default = {
           "translated": "crwdns6474177:0crwdne6474177:0",
           "source": "Some skills from the unit did not appear on this test. Re-take the test for the chance to level up on those skills."
         },
-        "comment": "id:eot_summary_not_tested_explanation\nText in an alert that explains that some skills were not included in the unit test, and that the learner can repeat the unit test to try and have those skills covered.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_summary_not_tested_explanation\nText in an alert that explains that some skills were not included in the unit test, and that the learner can repeat the unit test to try and have those skills covered.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "skill_level_changes": {
         "form": {
@@ -4455,7 +4503,7 @@ var _default = {
           "translated": "crwdns6388561:0crwdne6388561:0",
           "source": "Skill level changes"
         },
-        "comment": "id:skill_level_changes\nSubtitle for skill level changes on the start of task card.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/index.js"
+        "comment": "id:skill_level_changes\nSubtitle for skill level changes on the start of task card.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/index.tsx"
       },
       "course": {
         "form": {
@@ -4471,7 +4519,7 @@ var _default = {
           "translated": "crwdns6388573:0%(num1)dcrwdnd6388573:0%(num2)dcrwdne6388573:0",
           "source": "%(num1)d/%(num2)d possible mastery points"
         },
-        "comment": "id:unit_possible_mastery_points\nLabel for indicating how many mastery points (out of the total possible) have been earned for a unit, shown on the unit card on the course page.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.js"
+        "comment": "id:unit_possible_mastery_points\nLabel for indicating how many mastery points (out of the total possible) have been earned for a unit, shown on the unit card on the course page.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.tsx"
       },
       "unit_mastery_unavailable": {
         "form": {
@@ -4479,7 +4527,7 @@ var _default = {
           "translated": "crwdns6388575:0crwdne6388575:0",
           "source": "Mastery unavailable"
         },
-        "comment": "id:unit_mastery_unavailable\nLabel for indicating that mastery is unavailable for a unit, shown on the unit card on the course page.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.js"
+        "comment": "id:unit_mastery_unavailable\nLabel for indicating that mastery is unavailable for a unit, shown on the unit card on the course page.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.tsx"
       },
       "unit_mastery_unavailable_detail": {
         "form": {
@@ -4487,7 +4535,7 @@ var _default = {
           "translated": "crwdns6388577:0crwdne6388577:0",
           "source": "Unit mastery is not available for this unit, but you can still watch videos, practice, and take quizzes and tests."
         },
-        "comment": "id:unit_mastery_unavailable_detail\nText that explains unit mastery is not available for a unit, shown on the unit card on the course page when the question-mark icon is clicked.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.js"
+        "comment": "id:unit_mastery_unavailable_detail\nText that explains unit mastery is not available for a unit, shown on the unit card on the course page when the question-mark icon is clicked.\nUsed in the following files:\nFile: /Course/Cards/UnitCard.tsx"
       },
       "article": {
         "form": {
@@ -4495,7 +4543,7 @@ var _default = {
           "translated": "crwdns6388579:0crwdne6388579:0",
           "source": "Article"
         },
-        "comment": "id:article\nThe text under a content item thumbnail indicating it is an article\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.js"
+        "comment": "id:article\nThe text under a content item thumbnail indicating it is an article\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.tsx"
       },
       "exercise": {
         "form": {
@@ -4503,7 +4551,7 @@ var _default = {
           "translated": "crwdns6388581:0crwdne6388581:0",
           "source": "Exercise"
         },
-        "comment": "id:exercise\nThe text under a content item thumbnail indicating it is an exercise\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.js"
+        "comment": "id:exercise\nThe text under a content item thumbnail indicating it is an exercise\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.tsx"
       },
       "quiz": {
         "form": {
@@ -4511,7 +4559,7 @@ var _default = {
           "translated": "crwdns6388583:0crwdne6388583:0",
           "source": "Quiz"
         },
-        "comment": "id:quiz\nThe text under a content item thumbnail indicating it is a quiz\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.js"
+        "comment": "id:quiz\nThe text under a content item thumbnail indicating it is a quiz\nUsed in the following files:\nFile: /shared/components/ContentThumbnail.tsx"
       },
       "course_error": {
         "form": {
@@ -4519,7 +4567,7 @@ var _default = {
           "translated": "crwdns6388587:0crwdne6388587:0",
           "source": "Unable to load course. Check your connection and tap to try again."
         },
-        "comment": "id:course_error\nError displayed when the data required to display a course screen could not be fetched.\nUsed in the following files:\nFile: /Course/streaming.js"
+        "comment": "id:course_error\nError displayed when the data required to display a course screen could not be fetched.\nUsed in the following files:\nFile: /Course/streaming.tsx"
       },
       "topic_error": {
         "form": {
@@ -4527,7 +4575,7 @@ var _default = {
           "translated": "crwdns6388589:0crwdne6388589:0",
           "source": "Unable to load unit. Check your connection and tap to try again."
         },
-        "comment": "id:topic_error\nError displayed when the data required to display a unit screen could not be fetched.\nUsed in the following files:\nFile: /Unit/index.js"
+        "comment": "id:topic_error\nError displayed when the data required to display a unit screen could not be fetched.\nUsed in the following files:\nFile: /Unit/index.tsx"
       },
       "video_error": {
         "form": {
@@ -4535,7 +4583,7 @@ var _default = {
           "translated": "crwdns6388591:0crwdne6388591:0",
           "source": "Unable to load video.\nCheck your connection\nand tap to try again."
         },
-        "comment": "id:video_error\nError displayed when the data required to display a video screen could not be fetched.\nUsed in the following files:\nFile: /Video/streaming.js"
+        "comment": "id:video_error\nError displayed when the data required to display a video screen could not be fetched.\nUsed in the following files:\nFile: /Video/streaming.tsx"
       },
       "unit_test_error": {
         "form": {
@@ -4543,7 +4591,7 @@ var _default = {
           "translated": "crwdns6388593:0crwdne6388593:0",
           "source": "Unable to load this unit test.\nCheck your connection\nand tap to try again."
         },
-        "comment": "id:unit_test_error\nError displayed when the data required to display a unit test could not be fetched.\nUsed in the following files:\nFile: /Task/Quiz/index.js\nFile: /Task/UnitTest/index.js"
+        "comment": "id:unit_test_error\nError displayed when the data required to display a unit test could not be fetched.\nUsed in the following files:\nFile: /Task/Quiz/index.tsx\nFile: /Task/UnitTest/index.tsx"
       },
       "course_challenge_error": {
         "form": {
@@ -4551,7 +4599,7 @@ var _default = {
           "translated": "crwdns6388597:0crwdne6388597:0",
           "source": "Unable to load this course challenge.\nCheck your connection\nand tap to try again."
         },
-        "comment": "id:course_challenge_error\nError displayed when the data required to display a course challenge could not be fetched.\nUsed in the following files:\nFile: /Task/CourseChallenge/index.js"
+        "comment": "id:course_challenge_error\nError displayed when the data required to display a course challenge could not be fetched.\nUsed in the following files:\nFile: /Task/CourseChallenge/index.tsx"
       },
       "exercise_error": {
         "form": {
@@ -4559,7 +4607,7 @@ var _default = {
           "translated": "crwdns6399485:0crwdne6399485:0",
           "source": "Unable to load this exercise.\nCheck your connection\nand tap to try again."
         },
-        "comment": "id:exercise_error\nError displayed when the data required to display a exercise could not be fetched.\nUsed in the following files:\nFile: /Task/Exercise/index.js"
+        "comment": "id:exercise_error\nError displayed when the data required to display a exercise could not be fetched.\nUsed in the following files:\nFile: /Task/Exercise/index.tsx"
       },
       "mastery_challenge_error": {
         "form": {
@@ -4567,7 +4615,7 @@ var _default = {
           "translated": "crwdns6543256:0crwdne6543256:0",
           "source": "Unable to load this mastery challenge.\nCheck your connection\nand tap to try again."
         },
-        "comment": "id:mastery_challenge_error\nError displayed when the data required to display a mastery challenge could not be fetched.\nUsed in the following files:\nFile: /Task/MasteryChallenge/index.js"
+        "comment": "id:mastery_challenge_error\nError displayed when the data required to display a mastery challenge could not be fetched.\nUsed in the following files:\nFile: /Task/MasteryChallenge/index.tsx"
       },
       "due_tomorrow": {
         "form": {
@@ -4575,7 +4623,7 @@ var _default = {
           "translated": "crwdns6388605:0%(num)scrwdne6388605:0",
           "source": "Due tomorrow, %(num)s"
         },
-        "comment": "id:due_tomorrow\nindicates the assignment is due tomorrow, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:due_tomorrow\nindicates the assignment is due tomorrow, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "due_today": {
         "form": {
@@ -4583,7 +4631,7 @@ var _default = {
           "translated": "crwdns6388607:0%(num)scrwdne6388607:0",
           "source": "Due today, %(num)s"
         },
-        "comment": "id:due_today\nindicates the assignment is due today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:due_today\nindicates the assignment is due today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "due_date": {
         "form": {
@@ -4591,7 +4639,7 @@ var _default = {
           "translated": "crwdns6388609:0%(num1)scrwdnd6388609:0%(num2)scrwdne6388609:0",
           "source": "Due %(num1)s, %(num2)s"
         },
-        "comment": "id:due_date\nindicates the assignment is due on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:due_date\nindicates the assignment is due on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "late_due_today": {
         "form": {
@@ -4599,7 +4647,7 @@ var _default = {
           "translated": "crwdns6388611:0crwdne6388611:0",
           "source": "Late, due today"
         },
-        "comment": "id:late_due_today\nindicates the assignment is late, and was due today\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:late_due_today\nindicates the assignment is late, and was due today\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "late_due_yesterday": {
         "form": {
@@ -4607,7 +4655,7 @@ var _default = {
           "translated": "crwdns6388613:0crwdne6388613:0",
           "source": "Late, due yesterday"
         },
-        "comment": "id:late_due_yesterday\nindicates the assignment is late, and was due yesterday\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:late_due_yesterday\nindicates the assignment is late, and was due yesterday\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "late_due_date": {
         "form": {
@@ -4615,7 +4663,7 @@ var _default = {
           "translated": "crwdns6388615:0%(num)scrwdne6388615:0",
           "source": "Late, due %(num)s"
         },
-        "comment": "id:late_due_date\nindicates the assignment is late, and was due on a given date\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:late_due_date\nindicates the assignment is late, and was due on a given date\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "tomorrow": {
         "form": {
@@ -4623,7 +4671,7 @@ var _default = {
           "translated": "crwdns6388619:0%(num)scrwdne6388619:0",
           "source": "Tomorrow, %(num)s"
         },
-        "comment": "id:tomorrow\nIndicates the assignment is due tomorrow, including the time.\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:tomorrow\nIndicates the assignment is due tomorrow, including the time.\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "today": {
         "form": {
@@ -4631,7 +4679,7 @@ var _default = {
           "translated": "crwdns6388621:0%(num)scrwdne6388621:0",
           "source": "Today, %(num)s"
         },
-        "comment": "id:today\nIndicates the assignment is due today, including the time.\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:today\nIndicates the assignment is due today, including the time.\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "yesterday": {
         "form": {
@@ -4639,7 +4687,7 @@ var _default = {
           "translated": "crwdns6388623:0%(num)scrwdne6388623:0",
           "source": "Yesterday, %(num)s"
         },
-        "comment": "id:yesterday\nIndicates the assignment was due yesterday.\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:yesterday\nIndicates the assignment was due yesterday.\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "completed_today": {
         "form": {
@@ -4647,7 +4695,7 @@ var _default = {
           "translated": "crwdns6388627:0%(num)scrwdne6388627:0",
           "source": "Completed today, %(num)s"
         },
-        "comment": "id:completed_today\nindicates the assignment was completed today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:completed_today\nindicates the assignment was completed today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "completed_yesterday": {
         "form": {
@@ -4655,7 +4703,7 @@ var _default = {
           "translated": "crwdns6388629:0%(num)scrwdne6388629:0",
           "source": "Completed yesterday, %(num)s"
         },
-        "comment": "id:completed_yesterday\nindicates the assignment was completed yesterday, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:completed_yesterday\nindicates the assignment was completed yesterday, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "completed_date": {
         "form": {
@@ -4663,7 +4711,7 @@ var _default = {
           "translated": "crwdns6388631:0%(num1)scrwdnd6388631:0%(num2)scrwdne6388631:0",
           "source": "Completed %(num1)s, %(num2)s"
         },
-        "comment": "id:completed_date\nindicates the assignment was completed on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:completed_date\nindicates the assignment was completed on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "not_started": {
         "form": {
@@ -4671,7 +4719,7 @@ var _default = {
           "translated": "crwdns6388633:0crwdne6388633:0",
           "source": "Not Started"
         },
-        "comment": "id:not_started\nNot Started mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.js"
+        "comment": "id:not_started\nNot Started mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
       },
       "attempted": {
         "form": {
@@ -4679,7 +4727,7 @@ var _default = {
           "translated": "crwdns6388635:0crwdne6388635:0",
           "source": "Attempted"
         },
-        "comment": "id:attempted\nAttempted mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.js"
+        "comment": "id:attempted\nAttempted mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
       },
       "familiar": {
         "form": {
@@ -4687,7 +4735,7 @@ var _default = {
           "translated": "crwdns6388637:0crwdne6388637:0",
           "source": "Familiar"
         },
-        "comment": "id:familiar\nFamiliar mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.js"
+        "comment": "id:familiar\nFamiliar mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
       },
       "proficient": {
         "form": {
@@ -4695,7 +4743,7 @@ var _default = {
           "translated": "crwdns6388639:0crwdne6388639:0",
           "source": "Proficient"
         },
-        "comment": "id:proficient\nProficient mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.js"
+        "comment": "id:proficient\nProficient mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
       },
       "mastered": {
         "form": {
@@ -4703,7 +4751,7 @@ var _default = {
           "translated": "crwdns6388641:0crwdne6388641:0",
           "source": "Mastered"
         },
-        "comment": "id:mastered\nMastered mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.js"
+        "comment": "id:mastered\nMastered mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
       },
       "done": {
         "form": {
@@ -4711,7 +4759,7 @@ var _default = {
           "translated": "crwdns6388675:0crwdne6388675:0",
           "source": "Done"
         },
-        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.js\nFile: /CoursesPicker/SelectCourses.js\nFile: /LoginInProgress/index.js\nFile: /SignUp/DatePickerOverlayIOS.js\nFile: /Task/SimpleTaskCard/__test__/utils.test.js\nFile: /Task/SimpleTaskCard/utils.js\nFile: /Task/SkillsListTaskCard/index.js\nFile: /navigators/Settings.js"
+        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /LoginInProgress/index.tsx\nFile: /SignUp/DatePickerOverlayIOS.tsx\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts\nFile: /Task/SkillsListTaskCard/index.tsx\nFile: /navigators/Settings.tsx"
       },
       "whats_new_title": {
         "form": {
@@ -4719,7 +4767,7 @@ var _default = {
           "translated": "crwdns6388689:0crwdne6388689:0",
           "source": "What's New"
         },
-        "comment": "id:whats_new_title\nTitle for screen that displays information about new features in the app.\nUsed in the following files:\nFile: /AppUpdateMessage/interactor.js"
+        "comment": "id:whats_new_title\nTitle for screen that displays information about new features in the app.\nUsed in the following files:\nFile: /AppUpdateMessage/interactor.ts"
       },
       "update_now": {
         "form": {
@@ -4727,7 +4775,7 @@ var _default = {
           "translated": "crwdns6515095:0crwdne6515095:0",
           "source": "Update now"
         },
-        "comment": "id:update_now\nTitle for button that will take the user to the app store to update the app\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:update_now\nTitle for button that will take the user to the app store to update the app\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "must_update_title": {
         "form": {
@@ -4735,7 +4783,7 @@ var _default = {
           "translated": "crwdns6388697:0crwdne6388697:0",
           "source": "Update Required"
         },
-        "comment": "id:must_update_title\nTitle to show when the app is out of date\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:must_update_title\nTitle to show when the app is out of date\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "must_update_message": {
         "form": {
@@ -4743,7 +4791,7 @@ var _default = {
           "translated": "crwdns6388699:0crwdne6388699:0",
           "source": "This version of the app is no longer supported, and won't work properly.  Please update to the latest version of the app to continue."
         },
-        "comment": "id:must_update_message\nMessage to show when the app is out of date\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:must_update_message\nMessage to show when the app is out of date\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "update_recommended_title": {
         "form": {
@@ -4751,7 +4799,7 @@ var _default = {
           "translated": "crwdns6515096:0crwdne6515096:0",
           "source": "Update available"
         },
-        "comment": "id:update_recommended_title\nTitle to show when the app is out of date, but still supported\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:update_recommended_title\nTitle to show when the app is out of date, but still supported\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "update_recommended_message": {
         "form": {
@@ -4759,7 +4807,7 @@ var _default = {
           "translated": "crwdns6515097:0crwdne6515097:0",
           "source": "Important updates are available for this app!\n\nFor the best experience, please update now."
         },
-        "comment": "id:update_recommended_message\nMessage to show when the app is out of date, but still supported\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:update_recommended_message\nMessage to show when the app is out of date, but still supported\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "recommended_update_dismiss": {
         "form": {
@@ -4767,7 +4815,7 @@ var _default = {
           "translated": "crwdns6515098:0crwdne6515098:0",
           "source": "No thanks, I’ll update later"
         },
-        "comment": "id:recommended_update_dismiss\nTitle for button that dismisses the recommended update screen\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.js"
+        "comment": "id:recommended_update_dismiss\nTitle for button that dismisses the recommended update screen\nUsed in the following files:\nFile: /AppUpdateMessage/PleaseUpdateView.tsx"
       },
       "mastery_points": {
         "form": {
@@ -4775,7 +4823,7 @@ var _default = {
           "translated": "crwdns6388703:0crwdne6388703:0",
           "source": "Mastery Points"
         },
-        "comment": "id:mastery_points\nlabel for the number of mastery points obtained so far in a unit\nUsed in the following files:\nFile: /Mastery/MasteryInfoBar.js"
+        "comment": "id:mastery_points\nlabel for the number of mastery points obtained so far in a unit\nUsed in the following files:\nFile: /Mastery/MasteryInfoBar.tsx"
       },
       "up_next_for_you": {
         "form": {
@@ -4783,7 +4831,7 @@ var _default = {
           "translated": "crwdns6388715:0crwdne6388715:0",
           "source": "Up next for you"
         },
-        "comment": "id:up_next_for_you\nIndicates what you should work on next on the unit page\nUsed in the following files:\nFile: /shared/Mastery/UpNextLabel.js"
+        "comment": "id:up_next_for_you\nIndicates what you should work on next on the unit page\nUsed in the following files:\nFile: /shared/Mastery/UpNextLabel.tsx"
       },
       "out_of_100_points": {
         "form": {
@@ -4791,7 +4839,7 @@ var _default = {
           "translated": "crwdns6388717:0%(num)dcrwdne6388717:0",
           "source": "%(num)d/100 points"
         },
-        "comment": "id:out_of_100_points\nIndicates the number of mastery points the user has earned for the given exercise\nUsed in the following files:\nFile: /Unit/PracticeItemCell.js"
+        "comment": "id:out_of_100_points\nIndicates the number of mastery points the user has earned for the given exercise\nUsed in the following files:\nFile: /Unit/PracticeItemCell.tsx"
       },
       "skill_summary": {
         "form": {
@@ -4799,7 +4847,7 @@ var _default = {
           "translated": "crwdns6388719:0crwdne6388719:0",
           "source": "Skill summary"
         },
-        "comment": "id:skill_summary\nTitle for a list of skills that a learner can study\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
+        "comment": "id:skill_summary\nTitle for a list of skills that a learner can study\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx"
       },
       "course_summary": {
         "form": {
@@ -4807,7 +4855,7 @@ var _default = {
           "translated": "crwdns6388723:0crwdne6388723:0",
           "source": "Course summary"
         },
-        "comment": "id:course_summary\nTitle for a list of units that a learner can study\nUsed in the following files:\nFile: /Course/UnitList/index.js"
+        "comment": "id:course_summary\nTitle for a list of units that a learner can study\nUsed in the following files:\nFile: /Course/UnitList/index.tsx"
       },
       "more": {
         "form": {
@@ -4815,7 +4863,7 @@ var _default = {
           "translated": "crwdns6388751:0crwdne6388751:0",
           "source": "more"
         },
-        "comment": "id:more\nText for a button that reveals a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.js\nFile: /wonderblocks-doctoral-candidates/OverflowButton.js"
+        "comment": "id:more\nText for a button that reveals a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.tsx\nFile: /wonderblocks-doctoral-candidates/OverflowButton.tsx"
       },
       "less": {
         "form": {
@@ -4823,7 +4871,7 @@ var _default = {
           "translated": "crwdns6388753:0crwdne6388753:0 ",
           "source": "less "
         },
-        "comment": "id:less\nText for a button that hides a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.js"
+        "comment": "id:less\nText for a button that hides a video's full description\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.tsx"
       },
       "bookmark": {
         "form": {
@@ -4831,7 +4879,7 @@ var _default = {
           "translated": "crwdns6388755:0crwdne6388755:0",
           "source": "Bookmark"
         },
-        "comment": "id:bookmark\nText for a button that bookmarks a content item\nUsed in the following files:\nFile: /Video/Details/BookmarkButton.js"
+        "comment": "id:bookmark\nText for a button that bookmarks a content item\nUsed in the following files:\nFile: /Video/Details/BookmarkButton.tsx"
       },
       "bookmark_a11y_add": {
         "form": {
@@ -4839,7 +4887,7 @@ var _default = {
           "translated": "crwdns6513099:0crwdne6513099:0",
           "source": "Add Bookmark"
         },
-        "comment": "id:bookmark_a11y_add\nAccessibility label that tapping this button will add a bookmark for this item.\nUsed in the following files:\nFile: /shared/components/BookmarkButton.js"
+        "comment": "id:bookmark_a11y_add\nAccessibility label that tapping this button will add a bookmark for this item.\nUsed in the following files:\nFile: /shared/components/BookmarkButton.tsx"
       },
       "bookmark_a11y_remove": {
         "form": {
@@ -4847,7 +4895,7 @@ var _default = {
           "translated": "crwdns6513100:0crwdne6513100:0",
           "source": "Remove Bookmark"
         },
-        "comment": "id:bookmark_a11y_remove\nAccessibility label that tapping this button will remove a bookmark.\nUsed in the following files:\nFile: /shared/components/BookmarkButton.js"
+        "comment": "id:bookmark_a11y_remove\nAccessibility label that tapping this button will remove a bookmark.\nUsed in the following files:\nFile: /shared/components/BookmarkButton.tsx"
       },
       "share": {
         "form": {
@@ -4855,7 +4903,7 @@ var _default = {
           "translated": "crwdns6388757:0crwdne6388757:0",
           "source": "Share"
         },
-        "comment": "id:share\nText for a button that allows the user to share a content item\nUsed in the following files:\nFile: /Video/Controls/TopControlsView.js\nFile: /Video/Details/AboutView.js"
+        "comment": "id:share\nText for a button that allows the user to share a content item\nUsed in the following files:\nFile: /Video/Controls/TopControlsView.tsx\nFile: /Video/Details/AboutView.tsx"
       },
       "transcript": {
         "form": {
@@ -4863,7 +4911,7 @@ var _default = {
           "translated": "crwdns6388759:0crwdne6388759:0",
           "source": "Transcript"
         },
-        "comment": "id:transcript\nText for a button that brings up a video's transcript\nUsed in the following files:\nFile: /Video/Details/AboutView.js\nFile: /Video/Transcript/index.js"
+        "comment": "id:transcript\nText for a button that brings up a video's transcript\nUsed in the following files:\nFile: /Video/Details/AboutView.tsx\nFile: /Video/Transcript/index.tsx"
       },
       "up_next": {
         "form": {
@@ -4871,7 +4919,7 @@ var _default = {
           "translated": "crwdns6388761:0crwdne6388761:0",
           "source": "Up next"
         },
-        "comment": "id:up_next\nHeading for the video screen section displaying related content\nUsed in the following files:\nFile: /Article/ArticleWebview.js\nFile: /Video/Details/UpNext/ContentItemCell.js\nFile: /Video/Details/UpNext/UpNextView.js"
+        "comment": "id:up_next\nHeading for the video screen section displaying related content\nUsed in the following files:\nFile: /Article/ArticleWebview.tsx\nFile: /Video/Details/UpNext/ContentItemCell.tsx\nFile: /Video/Details/UpNext/UpNextView.tsx"
       },
       "part_of_lesson": {
         "form": {
@@ -4879,7 +4927,7 @@ var _default = {
           "translated": "crwdns6388763:0crwdne6388763:0",
           "source": "Part of lesson"
         },
-        "comment": "id:part_of_lesson\nDescription for a cell containing the name of a lesson\nUsed in the following files:\nFile: /Video/Details/UpNext/LessonCell.js"
+        "comment": "id:part_of_lesson\nDescription for a cell containing the name of a lesson\nUsed in the following files:\nFile: /Video/Details/UpNext/LessonCell.tsx"
       },
       "unable_to_load_transcript": {
         "form": {
@@ -4887,7 +4935,7 @@ var _default = {
           "translated": "crwdns6388765:0crwdne6388765:0",
           "source": "Unable to Load Transcript"
         },
-        "comment": "id:unable_to_load_transcript\nShown if we were unable to load video subtitles because the user is offline.\nUsed in the following files:\nFile: /Video/video-utils.js"
+        "comment": "id:unable_to_load_transcript\nShown if we were unable to load video subtitles because the user is offline.\nUsed in the following files:\nFile: /Video/video-utils.ts"
       },
       "transcript_unavailable": {
         "form": {
@@ -4895,7 +4943,7 @@ var _default = {
           "translated": "crwdns6388767:0crwdne6388767:0",
           "source": "Transcript unavailable"
         },
-        "comment": "id:transcript_unavailable\nShown if we were unable to load video subtitles\nUsed in the following files:\nFile: /Video/video-utils.js"
+        "comment": "id:transcript_unavailable\nShown if we were unable to load video subtitles\nUsed in the following files:\nFile: /Video/video-utils.ts"
       },
       "trascript_failed_offline": {
         "form": {
@@ -4903,7 +4951,7 @@ var _default = {
           "translated": "crwdns6388769:0crwdne6388769:0",
           "source": "The transcript for this video is not available when offline. Connect to the internet to view the transcript."
         },
-        "comment": "id:trascript_failed_offline\nBody for an alert indicating that a video's transcript is unavailable because a user is not connected to the internet.\nUsed in the following files:\nFile: /Video/video-utils.js"
+        "comment": "id:trascript_failed_offline\nBody for an alert indicating that a video's transcript is unavailable because a user is not connected to the internet.\nUsed in the following files:\nFile: /Video/video-utils.ts"
       },
       "no_transcript_available": {
         "form": {
@@ -4911,7 +4959,7 @@ var _default = {
           "translated": "crwdns6388771:0crwdne6388771:0",
           "source": "There is no transcript available for this video at this time."
         },
-        "comment": "id:no_transcript_available\nBody for an alert indicating that a video's transcript is not available.\nUsed in the following files:\nFile: /Video/video-utils.js"
+        "comment": "id:no_transcript_available\nBody for an alert indicating that a video's transcript is not available.\nUsed in the following files:\nFile: /Video/video-utils.ts"
       },
       "toggle_fullscreen": {
         "form": {
@@ -4919,7 +4967,7 @@ var _default = {
           "translated": "crwdns6388773:0crwdne6388773:0",
           "source": "Toggle fullscreen"
         },
-        "comment": "id:toggle_fullscreen\nAccessibility label for the fullscreen toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.js"
+        "comment": "id:toggle_fullscreen\nAccessibility label for the fullscreen toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.tsx"
       },
       "toggle_picture_in_picture": {
         "form": {
@@ -4927,7 +4975,7 @@ var _default = {
           "translated": "crwdns6388775:0crwdne6388775:0",
           "source": "Toggle Picture in Picture"
         },
-        "comment": "id:toggle_picture_in_picture\nAccessibility label for the picture in picture toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.js"
+        "comment": "id:toggle_picture_in_picture\nAccessibility label for the picture in picture toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.tsx"
       },
       "toggle_captions": {
         "form": {
@@ -4935,7 +4983,7 @@ var _default = {
           "translated": "crwdns6388777:0crwdne6388777:0",
           "source": "Toggle captions"
         },
-        "comment": "id:toggle_captions\nAccessibility label for the caption toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.js"
+        "comment": "id:toggle_captions\nAccessibility label for the caption toggle button.\nUsed in the following files:\nFile: /Video/Controls/BottomControlsView.tsx"
       },
       "rewind_ten": {
         "form": {
@@ -4943,7 +4991,7 @@ var _default = {
           "translated": "crwdns6388779:0crwdne6388779:0",
           "source": "Go back ten seconds"
         },
-        "comment": "id:rewind_ten\nAccessibility label for the rewind ten second button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.js"
+        "comment": "id:rewind_ten\nAccessibility label for the rewind ten second button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx"
       },
       "forward_ten": {
         "form": {
@@ -4951,7 +4999,7 @@ var _default = {
           "translated": "crwdns6388781:0crwdne6388781:0",
           "source": "Go forward ten seconds"
         },
-        "comment": "id:forward_ten\nAccessibility label for the skip ten second button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.js"
+        "comment": "id:forward_ten\nAccessibility label for the skip ten second button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx"
       },
       "play": {
         "form": {
@@ -4959,7 +5007,7 @@ var _default = {
           "translated": "crwdns6388783:0crwdne6388783:0",
           "source": "Play"
         },
-        "comment": "id:play\nAccessibility label for the play button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.js"
+        "comment": "id:play\nAccessibility label for the play button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx"
       },
       "pause": {
         "form": {
@@ -4967,7 +5015,7 @@ var _default = {
           "translated": "crwdns6388785:0crwdne6388785:0",
           "source": "Pause"
         },
-        "comment": "id:pause\nAccessibility label for the pause button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.js"
+        "comment": "id:pause\nAccessibility label for the pause button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx"
       },
       "change_speed": {
         "form": {
@@ -4975,7 +5023,7 @@ var _default = {
           "translated": "crwdns6388787:0%(num)scrwdne6388787:0",
           "source": "Change speed to %(num)s"
         },
-        "comment": "id:change_speed\nAccessibility label for the button to change speed.\nUsed in the following files:\nFile: /Video/Controls/SpeedButton.js"
+        "comment": "id:change_speed\nAccessibility label for the button to change speed.\nUsed in the following files:\nFile: /Video/Controls/SpeedButton.tsx"
       },
       "toggle_description": {
         "form": {
@@ -4983,7 +5031,7 @@ var _default = {
           "translated": "crwdns6388789:0crwdne6388789:0",
           "source": "Toggle description"
         },
-        "comment": "id:toggle_description\nAccessibility label for the description toggle button.\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.js"
+        "comment": "id:toggle_description\nAccessibility label for the description toggle button.\nUsed in the following files:\nFile: /Video/Details/DescriptionToggleButton.tsx"
       },
       "close_transcript": {
         "form": {
@@ -4991,7 +5039,7 @@ var _default = {
           "translated": "crwdns6388791:0crwdne6388791:0",
           "source": "Close transcript"
         },
-        "comment": "id:close_transcript\nAccessibility label for the transcript close button.\nUsed in the following files:\nFile: /Video/Transcript/CloseButton.js"
+        "comment": "id:close_transcript\nAccessibility label for the transcript close button.\nUsed in the following files:\nFile: /Video/Transcript/CloseButton.tsx"
       },
       "toggle_controls": {
         "form": {
@@ -4999,7 +5047,7 @@ var _default = {
           "translated": "crwdns6388793:0crwdne6388793:0",
           "source": "Toggle control visibility"
         },
-        "comment": "id:toggle_controls\nAccessibility label for the control toggle area.\nUsed in the following files:\nFile: /Video/Controls/ControlsView.js"
+        "comment": "id:toggle_controls\nAccessibility label for the control toggle area.\nUsed in the following files:\nFile: /Video/Controls/ControlsView.tsx"
       },
       "replay": {
         "form": {
@@ -5007,7 +5055,7 @@ var _default = {
           "translated": "crwdns6388795:0crwdne6388795:0",
           "source": "Play again"
         },
-        "comment": "id:replay\nAccessibility label for the replay button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.js"
+        "comment": "id:replay\nAccessibility label for the replay button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx"
       },
       "retry": {
         "form": {
@@ -5015,7 +5063,7 @@ var _default = {
           "translated": "crwdns6388797:0crwdne6388797:0",
           "source": "Retry"
         },
-        "comment": "id:retry\nAccessibility label for the retry button.\nUsed in the following files:\nFile: /Task/index.js\nFile: /Video/Controls/MiddleControlsView.js\nFile: /redux/bookmarks/download/download-utils.js"
+        "comment": "id:retry\nAccessibility label for the retry button.\nUsed in the following files:\nFile: /Task/index.tsx\nFile: /Video/Controls/MiddleControlsView.tsx\nFile: /redux/bookmarks/download/download-utils.ts"
       },
       "keyboardShortcutFullscreen": {
         "form": {
@@ -5079,7 +5127,7 @@ var _default = {
           "translated": "crwdns6388799:0crwdne6388799:0",
           "source": "Info"
         },
-        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "add_accessibility_label": {
         "form": {
@@ -5087,7 +5135,7 @@ var _default = {
           "translated": "crwdns6388801:0crwdne6388801:0",
           "source": "Add"
         },
-        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "caret_down_accessibility_label": {
         "form": {
@@ -5127,7 +5175,7 @@ var _default = {
           "translated": "crwdns6388811:0crwdne6388811:0",
           "source": "Checkmark"
         },
-        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "content_article_accessibility_label": {
         "form": {
@@ -5135,7 +5183,7 @@ var _default = {
           "translated": "crwdns6388813:0crwdne6388813:0",
           "source": "Article"
         },
-        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "content_exercise_accessibility_label": {
         "form": {
@@ -5143,7 +5191,7 @@ var _default = {
           "translated": "crwdns6388815:0crwdne6388815:0",
           "source": "Exercise"
         },
-        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "content_video_accessibility_label": {
         "form": {
@@ -5151,7 +5199,7 @@ var _default = {
           "translated": "crwdns6388817:0crwdne6388817:0",
           "source": "Video"
         },
-        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "correct_accessibility_label": {
         "form": {
@@ -5159,7 +5207,7 @@ var _default = {
           "translated": "crwdns6388819:0crwdne6388819:0",
           "source": "Correct"
         },
-        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "critical_accessibility_label": {
         "form": {
@@ -5167,7 +5215,7 @@ var _default = {
           "translated": "crwdns7479843:0crwdne7479843:0",
           "source": "Critical"
         },
-        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "delete_accessibility_label": {
         "form": {
@@ -5175,7 +5223,7 @@ var _default = {
           "translated": "crwdns6388821:0crwdne6388821:0",
           "source": "Delete"
         },
-        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "dismiss_accessibility_label": {
         "form": {
@@ -5183,7 +5231,7 @@ var _default = {
           "translated": "crwdns6388823:0crwdne6388823:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.js\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "hint_accessibility_label": {
         "form": {
@@ -5191,7 +5239,7 @@ var _default = {
           "translated": "crwdns6388825:0crwdne6388825:0",
           "source": "Hint"
         },
-        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "incorrect_accessibility_label": {
         "form": {
@@ -5199,7 +5247,7 @@ var _default = {
           "translated": "crwdns6388827:0crwdne6388827:0",
           "source": "Incorrect"
         },
-        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "search_accessibility_label": {
         "form": {
@@ -5207,7 +5255,7 @@ var _default = {
           "translated": "crwdns6388829:0crwdne6388829:0",
           "source": "Search"
         },
-        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "settings_accessibility_label": {
         "form": {
@@ -5223,7 +5271,7 @@ var _default = {
           "translated": "crwdns6388831:0crwdne6388831:0",
           "source": "Sortable arrow down"
         },
-        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "sortable_arrow_up_small_accessibility_label": {
         "form": {
@@ -5231,7 +5279,7 @@ var _default = {
           "translated": "crwdns6388833:0crwdne6388833:0",
           "source": "Sortable arrow up"
         },
-        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "success_accessibility_label": {
         "form": {
@@ -5239,7 +5287,7 @@ var _default = {
           "translated": "crwdns7479845:0crwdne7479845:0",
           "source": "Success"
         },
-        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "zoom_in_accessibility_label": {
         "form": {
@@ -5247,7 +5295,7 @@ var _default = {
           "translated": "crwdns6388835:0crwdne6388835:0",
           "source": "Zoom in"
         },
-        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "zoom_out_accessibility_label": {
         "form": {
@@ -5255,7 +5303,7 @@ var _default = {
           "translated": "crwdns6388837:0crwdne6388837:0",
           "source": "Zoom out"
         },
-        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "scratchpad_accessibility_label": {
         "form": {
@@ -5263,7 +5311,7 @@ var _default = {
           "translated": "crwdns7088221:0crwdne7088221:0",
           "source": "Scratchpad"
         },
-        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "content_lesson_accessibility_label": {
         "form": {
@@ -5271,7 +5319,7 @@ var _default = {
           "translated": "crwdns6388839:0crwdne6388839:0",
           "source": "Lesson"
         },
-        "comment": "id:content_lesson_accessibility_label\nAccessibility label for the /thumbnail \nUsed in the following files:\nFile: /wonderblocks-rn/ItemAvatar/index.js"
+        "comment": "id:content_lesson_accessibility_label\nAccessibility label for the /thumbnail \nUsed in the following files:\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "warning_accessibility_label": {
         "form": {
@@ -5279,7 +5327,7 @@ var _default = {
           "translated": "crwdns6399489:0crwdne6399489:0",
           "source": "Warning"
         },
-        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.js"
+        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "you_can_learn_anything": {
         "form": {
@@ -5287,7 +5335,7 @@ var _default = {
           "translated": "crwdns6388841:0crwdne6388841:0",
           "source": "You can learn anything"
         },
-        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.js"
+        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
       "master_skills_using_practice_questions": {
         "form": {
@@ -5335,7 +5383,7 @@ var _default = {
           "translated": "crwdns6543217:0crwdne6543217:0",
           "source": "Sound effects"
         },
-        "comment": "id:sound_effects\nCell title that navigates to sound-effects settings.\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:sound_effects\nCell title that navigates to sound-effects settings.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "mastery_challenge_camel_case": {
         "form": {
@@ -5343,7 +5391,7 @@ var _default = {
           "translated": "crwdns6515168:0crwdne6515168:0",
           "source": "Mastery Challenge"
         },
-        "comment": "id:mastery_challenge_camel_case\nName of mastery challenge task type with both words capitalized.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.js"
+        "comment": "id:mastery_challenge_camel_case\nName of mastery challenge task type with both words capitalized.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.tsx"
       },
       "mastery_challenge_sentence_case": {
         "form": {
@@ -5351,7 +5399,7 @@ var _default = {
           "translated": "crwdns6515169:0crwdne6515169:0",
           "source": "Mastery challenge"
         },
-        "comment": "id:mastery_challenge_sentence_case\nName of mastery challenge task type with only the first word capitalized.\nUsed in the following files:\nFile: /Course/CourseScreen.js"
+        "comment": "id:mastery_challenge_sentence_case\nName of mastery challenge task type with only the first word capitalized.\nUsed in the following files:\nFile: /Course/CourseScreen.tsx"
       },
       "resumable_mastery_challenge_description": {
         "form": {
@@ -5359,7 +5407,7 @@ var _default = {
           "translated": "crwdns6515170:0%(time)scrwdne6515170:0",
           "source": "You have %(time)s left to finish this Mastery challenge."
         },
-        "comment": "id:resumable_mastery_challenge_description\nTells the user how long they have until a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:resumable_mastery_challenge_description\nTells the user how long they have until a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "inexact_resumable_mastery_challenge_description": {
         "form": {
@@ -5367,7 +5415,7 @@ var _default = {
           "translated": "crwdns6543229:0%(time)scrwdne6543229:0",
           "source": "You only have %(time)s from when you started to finish this Mastery challenge!"
         },
-        "comment": "id:inexact_resumable_mastery_challenge_description\nTells the user they have a limited amount of time before a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:inexact_resumable_mastery_challenge_description\nTells the user they have a limited amount of time before a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "time_amount": {
         "form": {
@@ -5375,7 +5423,7 @@ var _default = {
           "translated": "crwdns6515171:0%(hours_or_minutes)scrwdnd6515171:0%(minutes_or_seconds)scrwdne6515171:0",
           "source": "%(hours_or_minutes)s and %(minutes_or_seconds)s"
         },
-        "comment": "id:time_amount\nDescribes an amount of time, e.g. '23 hours and 34 minutes' or '23 minutes and 34 seconds'\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:time_amount\nDescribes an amount of time, e.g. '23 hours and 34 minutes' or '23 minutes and 34 seconds'\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "get_started": {
         "form": {
@@ -5383,7 +5431,7 @@ var _default = {
           "translated": "crwdns6515172:0crwdne6515172:0",
           "source": "Get started"
         },
-        "comment": "id:get_started\nButton text for starting some action.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.js"
+        "comment": "id:get_started\nButton text for starting some action.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.tsx"
       },
       "resume": {
         "form": {
@@ -5391,7 +5439,7 @@ var _default = {
           "translated": "crwdns6515173:0crwdne6515173:0",
           "source": "Resume"
         },
-        "comment": "id:resume\nButton text for resuming some action.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.js"
+        "comment": "id:resume\nButton text for resuming some action.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCard.tsx"
       },
       "mastery_challenge_toast": {
         "form": {
@@ -5399,7 +5447,7 @@ var _default = {
           "translated": "crwdns6543257:0crwdne6543257:0",
           "source": "Challenge complete! 💪 Keep learning to unlock the next one."
         },
-        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Exercise/state/index.js"
+        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Exercise/state/index.ts"
       },
       "mastery_challenges_learn_more": {
         "form": {
@@ -5407,7 +5455,7 @@ var _default = {
           "translated": "crwdns6550126:0crwdne6550126:0",
           "source": "Learn more about Mastery challenges"
         },
-        "comment": "id:mastery_challenges_learn_more\nLink to learn more about how mastery challenges work\nUsed in the following files:\nFile: /Task/MasteryChallenge/LearnMoreLink.js"
+        "comment": "id:mastery_challenges_learn_more\nLink to learn more about how mastery challenges work\nUsed in the following files:\nFile: /Task/MasteryChallenge/LearnMoreLink.tsx"
       },
       "learn_more": {
         "form": {
@@ -5415,7 +5463,7 @@ var _default = {
           "translated": "crwdns6571330:0crwdne6571330:0",
           "source": "Learn more"
         },
-        "comment": "id:learn_more\nText for a button that allows a user to learn more\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.js\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.js"
+        "comment": "id:learn_more\nText for a button that allows a user to learn more\nUsed in the following files:\nFile: /ManageCoaches/CoachListScene.tsx\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.tsx"
       },
       "mastery_challenge_simple_description": {
         "form": {
@@ -5423,7 +5471,7 @@ var _default = {
           "translated": "crwdns6571332:0crwdne6571332:0",
           "source": "Review skills you’ve already seen. Level up to Mastered faster."
         },
-        "comment": "id:mastery_challenge_simple_description\nSimple description of mastery challenges\nUsed in the following files:\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.js"
+        "comment": "id:mastery_challenge_simple_description\nSimple description of mastery challenges\nUsed in the following files:\nFile: /Task/MasteryChallenge/MasteryChallengeDescription.tsx"
       },
       "language_header_text": {
         "form": {
@@ -5431,7 +5479,7 @@ var _default = {
           "translated": "crwdns6450923:0crwdne6450923:0",
           "source": "Language & region"
         },
-        "comment": "id:language_header_text\nHeader for language picker screen.\nUsed in the following files:\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
+        "comment": "id:language_header_text\nHeader for language picker screen.\nUsed in the following files:\nFile: /Settings/utils.ts\nFile: /navigators/Settings.tsx"
       },
       "change_language_header": {
         "form": {
@@ -5439,7 +5487,7 @@ var _default = {
           "translated": "crwdns6450925:0crwdne6450925:0",
           "source": "How to change your language"
         },
-        "comment": "id:change_language_header\nTitle for alert that comes up when someone tries to change their language on iOS.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:change_language_header\nTitle for alert that comes up when someone tries to change their language on iOS.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "change_language_text_ios13": {
         "form": {
@@ -5447,7 +5495,7 @@ var _default = {
           "translated": "crwdns6450927:0crwdne6450927:0",
           "source": "If you have multiple languages enabled in Settings, you can use different ones for different apps! Go to Settings > General > Language & Region, and add more languages - then come back to the Khan Academy app."
         },
-        "comment": "id:change_language_text_ios13\nAlert message when someone tries to change their language on iOS 13 or later.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:change_language_text_ios13\nAlert message when someone tries to change their language on iOS 13 or later.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "change_language_text": {
         "form": {
@@ -5455,7 +5503,7 @@ var _default = {
           "translated": "crwdns6450929:0crwdne6450929:0",
           "source": "To change the language for the Khan Academy app on iOS, you’ll need to change your phone’s language. Please open the Settings app, and go to General > Language & Region."
         },
-        "comment": "id:change_language_text\nAlert message when someone tries to change their language on iOS 12 or earlier.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:change_language_text\nAlert message when someone tries to change their language on iOS 12 or earlier.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "experimental_feature": {
         "form": {
@@ -5463,7 +5511,7 @@ var _default = {
           "translated": "crwdns6450931:0crwdne6450931:0",
           "source": "Experimental feature"
         },
-        "comment": "id:experimental_feature\nAlert message header for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:experimental_feature\nAlert message header for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "experimental_feature_description": {
         "form": {
@@ -5471,7 +5519,7 @@ var _default = {
           "translated": "crwdns6450933:0crwdne6450933:0",
           "source": "This is an experimental feature — for the best experience, we recommend that you change your device’s language to English. Once iOS 13 comes out, this feature will be much better!"
         },
-        "comment": "id:experimental_feature_description\nAlert message text for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:experimental_feature_description\nAlert message text for content-switching to English.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "continue_str": {
         "form": {
@@ -5479,7 +5527,7 @@ var _default = {
           "translated": "crwdns6450935:0crwdne6450935:0",
           "source": "Continue"
         },
-        "comment": "id:continue_str\nA continue button for an alert.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /shared/native/DeepLinkModule.js"
+        "comment": "id:continue_str\nA continue button for an alert.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /shared/native/DeepLinkModule.ts"
       },
       "language_header": {
         "form": {
@@ -5487,7 +5535,7 @@ var _default = {
           "translated": "crwdns6450937:0crwdne6450937:0",
           "source": "Language"
         },
-        "comment": "id:language_header\nHeader for Language section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js\nFile: /navigators/Settings.js"
+        "comment": "id:language_header\nHeader for Language section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /navigators/Settings.tsx"
       },
       "curriculum_header": {
         "form": {
@@ -5495,7 +5543,7 @@ var _default = {
           "translated": "crwdns6450939:0crwdne6450939:0",
           "source": "Region"
         },
-        "comment": "id:curriculum_header\nHeader for Region section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.js"
+        "comment": "id:curriculum_header\nHeader for Region section on Language and Region page.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx"
       },
       "universal": {
         "form": {
@@ -5503,7 +5551,7 @@ var _default = {
           "translated": "crwdns6450941:0crwdne6450941:0",
           "source": "Universal"
         },
-        "comment": "id:universal\nUsed as a subtitle under the default, international region.\nUsed in the following files:\nFile: /redux/language/index.js"
+        "comment": "id:universal\nUsed as a subtitle under the default, international region.\nUsed in the following files:\nFile: /redux/language/index.ts"
       },
       "language_default": {
         "form": {
@@ -5511,7 +5559,7 @@ var _default = {
           "translated": "crwdns6450943:0crwdne6450943:0",
           "source": "default"
         },
-        "comment": "id:language_default\nUsed to signify that a region is the default for a language--e.g. English (default)\nUsed in the following files:\nFile: /redux/language/index.js"
+        "comment": "id:language_default\nUsed to signify that a region is the default for a language--e.g. English (default)\nUsed in the following files:\nFile: /redux/language/index.ts"
       },
       "help_and_feedback": {
         "form": {
@@ -5519,7 +5567,7 @@ var _default = {
           "translated": "crwdns6388987:0crwdne6388987:0",
           "source": "Help & feedback"
         },
-        "comment": "id:help_and_feedback\nCell title that navigates to help & feedback\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:help_and_feedback\nCell title that navigates to help & feedback\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "legal_footer": {
         "form": {
@@ -5527,7 +5575,7 @@ var _default = {
           "translated": "crwdns6543218:0crwdne6543218:0",
           "source": "By signing in, you agree to our Terms of Service and Privacy Policy"
         },
-        "comment": "id:legal_footer\nFooter text in Settings that says if you sign in you agree to our terms of service and privacy policy.\nUsed in the following files:\nFile: /Settings/SettingsFooter.js"
+        "comment": "id:legal_footer\nFooter text in Settings that says if you sign in you agree to our terms of service and privacy policy.\nUsed in the following files:\nFile: /Settings/SettingsFooter.tsx"
       },
       "manage_teachers": {
         "form": {
@@ -5535,7 +5583,7 @@ var _default = {
           "translated": "crwdns6543219:0crwdne6543219:0",
           "source": "Manage teachers"
         },
-        "comment": "id:manage_teachers\nTitle for cell linking to the manage-teachers screen.\nUsed in the following files:\nFile: /Settings/SettingsHeader.js\nFile: /Settings/__test__/utils.test.js"
+        "comment": "id:manage_teachers\nTitle for cell linking to the manage-teachers screen.\nUsed in the following files:\nFile: /Settings/SettingsHeader.tsx\nFile: /Settings/__test__/utils.test.ts"
       },
       "rate_the_app": {
         "form": {
@@ -5543,7 +5591,7 @@ var _default = {
           "translated": "crwdns6543220:0crwdne6543220:0",
           "source": "Rate the app"
         },
-        "comment": "id:rate_the_app\nTitle for cell that links out to the App Store to rate the app.\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:rate_the_app\nTitle for cell that links out to the App Store to rate the app.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "settings_explore_badges": {
         "form": {
@@ -5551,7 +5599,7 @@ var _default = {
           "translated": "crwdns6543222:0crwdne6543222:0",
           "source": "Explore badges"
         },
-        "comment": "id:settings_explore_badges\nTitle for a cell that links out to Khan Academy's website where the learner can browse their collection of badges.\nUsed in the following files:\nFile: /Settings/SettingsHeader.js\nFile: /Settings/__test__/utils.test.js"
+        "comment": "id:settings_explore_badges\nTitle for a cell that links out to Khan Academy's website where the learner can browse their collection of badges.\nUsed in the following files:\nFile: /Settings/SettingsHeader.tsx\nFile: /Settings/__test__/utils.test.ts"
       },
       "settings_view_progress": {
         "form": {
@@ -5559,7 +5607,7 @@ var _default = {
           "translated": "crwdns6637202:0crwdne6637202:0",
           "source": "View progress report"
         },
-        "comment": "id:settings_view_progress\nTitle for a cell that links out to Khan Academy's website where the learner can browse their progress report.\nUsed in the following files:\nFile: /Settings/SettingsHeader.js\nFile: /Settings/__test__/utils.test.js"
+        "comment": "id:settings_view_progress\nTitle for a cell that links out to Khan Academy's website where the learner can browse their progress report.\nUsed in the following files:\nFile: /Settings/SettingsHeader.tsx\nFile: /Settings/__test__/utils.test.ts"
       },
       "licenses": {
         "form": {
@@ -5567,7 +5615,7 @@ var _default = {
           "translated": "crwdns6388995:0crwdne6388995:0",
           "source": "Licenses"
         },
-        "comment": "id:licenses\nTitle for a cell in Settings that displays a list of the software-licen\nUsed in the following files:\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
+        "comment": "id:licenses\nTitle for a cell in Settings that displays a list of the software-licen\nUsed in the following files:\nFile: /Settings/utils.ts\nFile: /navigators/Settings.tsx"
       },
       "settings_terms_of_service": {
         "form": {
@@ -5575,7 +5623,7 @@ var _default = {
           "translated": "crwdns6543223:0crwdne6543223:0",
           "source": "Terms of service"
         },
-        "comment": "id:settings_terms_of_service\nCell title that links out to Khan Academy's terms-of-service page.\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:settings_terms_of_service\nCell title that links out to Khan Academy's terms-of-service page.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "settings_privacy_policy": {
         "form": {
@@ -5583,7 +5631,7 @@ var _default = {
           "translated": "crwdns6543224:0crwdne6543224:0",
           "source": "Privacy policy"
         },
-        "comment": "id:settings_privacy_policy\nCell title that links out to Khan Academy's privacy-policy page.\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:settings_privacy_policy\nCell title that links out to Khan Academy's privacy-policy page.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "settings_delete_account": {
         "form": {
@@ -5591,7 +5639,7 @@ var _default = {
           "translated": "crwdns7119467:0crwdne7119467:0",
           "source": "Delete account"
         },
-        "comment": "id:settings_delete_account\nCell title that links out to Khan Academy to delete your account.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js"
+        "comment": "id:settings_delete_account\nCell title that links out to Khan Academy to delete your account.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts"
       },
       "settings_energy_points": {
         "form": {
@@ -5599,7 +5647,7 @@ var _default = {
           "translated": "crwdns6548902:0%(num1)scrwdne6548902:0",
           "source": "%(num1)s energy points"
         },
-        "comment": "id:settings_energy_points\nNumber of energy points that a learner has earned.\nUsed in the following files:\nFile: /Settings/SettingsHeader.js"
+        "comment": "id:settings_energy_points\nNumber of energy points that a learner has earned.\nUsed in the following files:\nFile: /Settings/SettingsHeader.tsx"
       },
       "settings_app_icon": {
         "form": {
@@ -5607,7 +5655,7 @@ var _default = {
           "translated": "crwdns6853292:0crwdne6853292:0",
           "source": "App icon"
         },
-        "comment": "id:settings_app_icon\nTitle for a button that allows the learner to select a different app icon.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.js\nFile: /Settings/utils.js\nFile: /navigators/Settings.js"
+        "comment": "id:settings_app_icon\nTitle for a button that allows the learner to select a different app icon.\nUsed in the following files:\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts\nFile: /navigators/Settings.tsx"
       },
       "settings_about_the_team": {
         "form": {
@@ -5615,7 +5663,7 @@ var _default = {
           "translated": "crwdns7088281:0crwdne7088281:0",
           "source": "About the team"
         },
-        "comment": "id:settings_about_the_team\nTitle for a button that takes the user to Khan Academy's 'About the Team' page\nUsed in the following files:\nFile: /Settings/utils.js"
+        "comment": "id:settings_about_the_team\nTitle for a button that takes the user to Khan Academy's 'About the Team' page\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
       "app_icon_default": {
         "form": {
@@ -5623,7 +5671,7 @@ var _default = {
           "translated": "crwdns6853294:0crwdne6853294:0",
           "source": "Default"
         },
-        "comment": "id:app_icon_default\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_default\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "app_icon_purple": {
         "form": {
@@ -5631,7 +5679,7 @@ var _default = {
           "translated": "crwdns6853298:0crwdne6853298:0",
           "source": "Purple"
         },
-        "comment": "id:app_icon_purple\nTitle for the purple app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_purple\nTitle for the purple app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "app_icon_dark_blue": {
         "form": {
@@ -5639,7 +5687,7 @@ var _default = {
           "translated": "crwdns6853306:0crwdne6853306:0",
           "source": "Dark blue"
         },
-        "comment": "id:app_icon_dark_blue\nTitle for the navy app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_dark_blue\nTitle for the navy app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "app_icon_black": {
         "form": {
@@ -5647,7 +5695,7 @@ var _default = {
           "translated": "crwdns6853312:0crwdne6853312:0",
           "source": "Black"
         },
-        "comment": "id:app_icon_black\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_black\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "app_icon_rainbow": {
         "form": {
@@ -5655,7 +5703,7 @@ var _default = {
           "translated": "crwdns6853314:0crwdne6853314:0",
           "source": "Rainbow"
         },
-        "comment": "id:app_icon_rainbow\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_rainbow\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "app_icon_darkest": {
         "form": {
@@ -5663,7 +5711,7 @@ var _default = {
           "translated": "crwdns6853318:0crwdne6853318:0",
           "source": "Midnight"
         },
-        "comment": "id:app_icon_darkest\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.js"
+        "comment": "id:app_icon_darkest\nTitle for the default app icon.\nUsed in the following files:\nFile: /Settings/AppIconPicker.tsx"
       },
       "learner": {
         "form": {
@@ -5671,7 +5719,15 @@ var _default = {
           "translated": "crwdns6906328:0crwdne6906328:0",
           "source": "Learner"
         },
-        "comment": "id:learner\nThe default nickname for users who haven't set a nickname for themselves\nUsed in the following files:\nFile: /shared/User/queries.js"
+        "comment": "id:learner\nThe default nickname for users who haven't set a nickname for themselves\nUsed in the following files:\nFile: /shared/User/queries.ts"
+      },
+      "cannot_open_in_browser": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388943:0crwdne6388943:0",
+          "source": "This device is unable to open the webpage."
+        },
+        "comment": "id:cannot_open_in_browser\n\nUsed in the following files:\nFile: /shared/native/NavigationModule.ts"
       },
       "aboutUs": {
         "form": {
@@ -6008,14 +6064,6 @@ var _default = {
           "source": "Cancel download"
         },
         "comment": "id:cancel_download\n\nplatform: android"
-      },
-      "cannot_open_in_browser": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388943:0crwdne6388943:0",
-          "source": "This device is unable to open the webpage."
-        },
-        "comment": "id:cannot_open_in_browser\n\nplatform: android"
       },
       "college_careers_more": {
         "form": {
@@ -6519,7 +6567,7 @@ var _default = {
           "translated": "crwdns7353241:0crwdne7353241:0",
           "source": "Bug fixes and performance improvements."
         },
-        "comment": "id:app_store_release_notes_generic\nGeneric update notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:app_store_release_notes_generic\nGeneric update notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "introducing_gujarati": {
         "form": {
@@ -6567,7 +6615,47 @@ var _default = {
           "translated": "crwdns7353253:0crwdne7353253:0",
           "source": "Introducing support for Dutch!"
         },
-        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_azerbaijani": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569385:0crwdne7569385:0",
+          "source": "Introducing support for Azerbaijani!"
+        },
+        "comment": "id:introducing_azerbaijani\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_hungarian": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569387:0crwdne7569387:0",
+          "source": "Introducing support for Hungarian!"
+        },
+        "comment": "id:introducing_hungarian\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_marathi": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569389:0crwdne7569389:0",
+          "source": "Introducing support for Marathi!"
+        },
+        "comment": "id:introducing_marathi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_punjabi": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569391:0crwdne7569391:0",
+          "source": "Introducing support for Punjabi!"
+        },
+        "comment": "id:introducing_punjabi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_vietnamese": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569393:0crwdne7569393:0",
+          "source": "Introducing support for Vietnamese!"
+        },
+        "comment": "id:introducing_vietnamese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_chromebooks": {
         "form": {
@@ -6575,7 +6663,7 @@ var _default = {
           "translated": "crwdns7353255:0crwdne7353255:0",
           "source": "Improved support for Chromebooks."
         },
-        "comment": "id:whats_new_chromebooks\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_chromebooks\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_scratchpad": {
         "form": {
@@ -6583,7 +6671,7 @@ var _default = {
           "translated": "crwdns7353257:0crwdne7353257:0",
           "source": "Improvements to the scratch pad that is available while practicing."
         },
-        "comment": "id:whats_new_scratchpad\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_scratchpad\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_my_classes": {
         "form": {
@@ -6591,7 +6679,7 @@ var _default = {
           "translated": "crwdns7353259:0crwdne7353259:0",
           "source": "Our new My Classes feature organizes your assignments by class."
         },
-        "comment": "id:whats_new_my_classes\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_my_classes\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_rationales": {
         "form": {
@@ -6599,7 +6687,7 @@ var _default = {
           "translated": "crwdns7353261:0crwdne7353261:0",
           "source": "Many multiple choice questions now explain why an option is right or wrong."
         },
-        "comment": "id:whats_new_rationales\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_rationales\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_apple_sign_in": {
         "form": {
@@ -6607,7 +6695,7 @@ var _default = {
           "translated": "crwdns7353263:0crwdne7353263:0",
           "source": "The app now allows you to Sign in with Apple."
         },
-        "comment": "id:whats_new_apple_sign_in\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_apple_sign_in\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "whats_new_start_over": {
         "form": {
@@ -6615,7 +6703,15 @@ var _default = {
           "translated": "crwdns7501135:0crwdne7501135:0",
           "source": "Introducing the “Start over” option! Now, while working on practice activities, you’ll have the option to quickly restart the activity from the beginning with just one tap. This feature allows you to restart practice without affecting your Mastery progress, making it easier than ever to learn. Try it out now and experience the difference!"
         },
-        "comment": "id:whats_new_start_over\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.js"
+        "comment": "id:whats_new_start_over\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "whats_new_deprecate_bookmark_widget": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569395:0crwdne7569395:0",
+          "source": "By removing infrequently used features, we free up our small team to focus on building new ones. So, we’re saying goodbye to the widget that showcased your Bookmarks."
+        },
+        "comment": "id:whats_new_deprecate_bookmark_widget\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       }
     },
     "plural": {
@@ -6629,7 +6725,7 @@ var _default = {
           "source": "Late, due %(num)sd ago",
           "status": "approved"
         }],
-        "comment": "id:late_due_n_days_ago\nIndicates the assignment is late and was due the given number of days (\"d\") ago. The \"d\" represents \"day\". So something like \"2d ago\"\nUsed in the following files:\nFile: /Assignments/date-utils.js"
+        "comment": "id:late_due_n_days_ago\nIndicates the assignment is late and was due the given number of days (\"d\") ago. The \"d\" represents \"day\". So something like \"2d ago\"\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "explore_assignments_see_n_due_later": {
         "forms": [{
@@ -6641,7 +6737,7 @@ var _default = {
           "source": "See %(num)s due later",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments_see_n_due_later\nDisplayed on large layouts in the Assignments Card on the button that allows the learner to see all of their assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments_see_n_due_later\nDisplayed on large layouts in the Assignments Card on the button that allows the learner to see all of their assignments\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx"
       },
       "unit_test_description": {
         "forms": [{
@@ -6653,7 +6749,7 @@ var _default = {
           "source": "Test your understanding of %(topic_name)s with these %(num)s questions.",
           "status": "approved"
         }],
-        "comment": "id:unit_test_description\nDescription of a multi-question unit test where num1 is the name of the unit covered by the test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:unit_test_description\nDescription of a multi-question unit test where num1 is the name of the unit covered by the test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "large_layout_quiz_cell_title": {
         "forms": [{
@@ -6665,7 +6761,7 @@ var _default = {
           "source": "%(quiz_name)s: %(num)s questions",
           "status": "approved"
         }],
-        "comment": "id:large_layout_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.js"
+        "comment": "id:large_layout_quiz_cell_title\nButton title for a quiz with a number of questions\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx"
       },
       "explore_assignments": {
         "forms": [{
@@ -6677,7 +6773,7 @@ var _default = {
           "source": "Assignments (%(num)d)",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments)\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments)\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx"
       },
       "explore_assignments_additional": {
         "forms": [{
@@ -6689,7 +6785,7 @@ var _default = {
           "source": "Assignments (%(num)d+)",
           "status": "approved"
         }],
-        "comment": "id:explore_assignments_additional\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments) when there are additional assignments to load.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.js"
+        "comment": "id:explore_assignments_additional\nHeader for the Home Screen's Assignment Section (the section listing the user's assignments) when there are additional assignments to load.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx"
       },
       "quiz_shelf_description": {
         "forms": [{
@@ -6701,7 +6797,7 @@ var _default = {
           "source": "Level up on the above skills and collect up to %(num)d mastery points.",
           "status": "approved"
         }],
-        "comment": "id:quiz_shelf_description\nPrompt to take a quiz when some covered skills are not proficient yet.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:quiz_shelf_description\nPrompt to take a quiz when some covered skills are not proficient yet.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "quiz_shelf_description_retake": {
         "forms": [{
@@ -6713,7 +6809,7 @@ var _default = {
           "source": "Try taking the quiz again to level up on the above skills and collect up to %(num)d mastery points.",
           "status": "approved"
         }],
-        "comment": "id:quiz_shelf_description_retake\nPrompt to take a quiz when some covered skills are not proficient yet, and it’s been tried before.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:quiz_shelf_description_retake\nPrompt to take a quiz when some covered skills are not proficient yet, and it’s been tried before.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "quiz_shelf_description_proficient": {
         "forms": [{
@@ -6725,7 +6821,7 @@ var _default = {
           "source": "You can’t level up or collect any more mastery points with this quiz. Take the Unit test to level up on all the skills and collect up to %(num)d mastery points.",
           "status": "approved"
         }],
-        "comment": "id:quiz_shelf_description_proficient\nPrompt to take a quiz when all covered skills are proficient.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.js"
+        "comment": "id:quiz_shelf_description_proficient\nPrompt to take a quiz when all covered skills are proficient.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
       "unit_test_shelf_description_default": {
         "forms": [{
@@ -6737,7 +6833,7 @@ var _default = {
           "source": "Level up on all the skills in this unit and collect up to %(num)d mastery points!",
           "status": "approved"
         }],
-        "comment": "id:unit_test_shelf_description_default\nPrompt to take a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:unit_test_shelf_description_default\nPrompt to take a unit test.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "unit_test_shelf_description_retake": {
         "forms": [{
@@ -6749,7 +6845,7 @@ var _default = {
           "source": "Try taking the unit test again to level up on all the skills and collect up to %(num)d mastery points.",
           "status": "approved"
         }],
-        "comment": "id:unit_test_shelf_description_retake\nPrompt to retake a unit test in a unit that is not yet mastered.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.js"
+        "comment": "id:unit_test_shelf_description_retake\nPrompt to retake a unit test in a unit that is not yet mastered.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
       },
       "filter_with_count": {
         "forms": [{
@@ -6761,7 +6857,7 @@ var _default = {
           "source": "Filters (%(num)s)",
           "status": "approved"
         }],
-        "comment": "id:filter_with_count\nButton title to allow choosing search filters when one or more are applied.\nUsed in the following files:\nFile: /Explore/Explore.js"
+        "comment": "id:filter_with_count\nButton title to allow choosing search filters when one or more are applied.\nUsed in the following files:\nFile: /Explore/Explore.tsx"
       },
       "clear_filter": {
         "forms": [{
@@ -6773,7 +6869,7 @@ var _default = {
           "source": "Clear %(num)s filters",
           "status": "approved"
         }],
-        "comment": "id:clear_filter\nButton title for clearing search filters from search results.\nUsed in the following files:\nFile: /Explore/ClearFilterHeader.js"
+        "comment": "id:clear_filter\nButton title for clearing search filters from search results.\nUsed in the following files:\nFile: /Explore/ClearFilterHeader.tsx"
       },
       "keep_it_up": {
         "forms": [{
@@ -6785,7 +6881,7 @@ var _default = {
           "source": "Keep it up for %(num)s more.",
           "status": "approved"
         }],
-        "comment": "id:keep_it_up\nExercise feedback text when a user has answered a question correctly and has one or more questions left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:keep_it_up\nExercise feedback text when a user has answered a question correctly and has one or more questions left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "questions_done": {
         "forms": [{
@@ -6797,7 +6893,7 @@ var _default = {
           "source": "%(num)s questions done, keep going!",
           "status": "approved"
         }],
-        "comment": "id:questions_done\nExercise feedback text when a user has answered one or more question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:questions_done\nExercise feedback text when a user has answered one or more question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "you_got_it_more": {
         "forms": [{
@@ -6809,7 +6905,7 @@ var _default = {
           "source": "You got it. %(num)s more!",
           "status": "approved"
         }],
-        "comment": "id:you_got_it_more\nExercise feedback text when a user has answered a question correctly and has one more question left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.js"
+        "comment": "id:you_got_it_more\nExercise feedback text when a user has answered a question correctly and has one more question left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "do_n_problems": {
         "forms": [{
@@ -6821,7 +6917,7 @@ var _default = {
           "source": "Do %(num)s problems",
           "status": "approved"
         }],
-        "comment": "id:do_n_problems\nCompletion criteria when there are one or more problems in the exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/completion-criteria-utils.js"
+        "comment": "id:do_n_problems\nCompletion criteria when there are one or more problems in the exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/completion-criteria-utils.ts"
       },
       "n_course_mastery_goals": {
         "forms": [{
@@ -6833,7 +6929,19 @@ var _default = {
           "source": "%(num)s Course Mastery goals",
           "status": "approved"
         }],
-        "comment": "id:n_course_mastery_goals\nSummary count of the number of Course Mastery goals.\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:n_course_mastery_goals\nSummary count of the number of Course Mastery goals.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
+      },
+      "n_unit_mastery_goals": {
+        "forms": [{
+          "translated": "crwdns7567111:1%(num)scrwdne7567111:1",
+          "source": "%(num)s Unit Mastery goal",
+          "status": "approved"
+        }, {
+          "translated": "crwdns7567111:5%(num)scrwdne7567111:5",
+          "source": "%(num)s Unit Mastery goals",
+          "status": "approved"
+        }],
+        "comment": "id:n_unit_mastery_goals\nSummary count of the number of Unit Mastery goals."
       },
       "n_assignments": {
         "forms": [{
@@ -6845,7 +6953,7 @@ var _default = {
           "source": "%(num)s assignments",
           "status": "approved"
         }],
-        "comment": "id:n_assignments\nSummary count of the number of assignments.\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:n_assignments\nSummary count of the number of assignments.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "n_assignments_due_soon": {
         "forms": [{
@@ -6857,7 +6965,7 @@ var _default = {
           "source": "%(num)s assignments due soon",
           "status": "approved"
         }],
-        "comment": "id:n_assignments_due_soon\nSummary count of the number of assignments due soon.\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:n_assignments_due_soon\nSummary count of the number of assignments due soon.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "n_assignments_overdue": {
         "forms": [{
@@ -6869,7 +6977,7 @@ var _default = {
           "source": "%(num)s assignments overdue",
           "status": "approved"
         }],
-        "comment": "id:n_assignments_overdue\nSummary count of the number of assignments overdue.\nUsed in the following files:\nFile: /MyClasses/ui-utils.js"
+        "comment": "id:n_assignments_overdue\nSummary count of the number of assignments overdue.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "sot_question_count": {
         "forms": [{
@@ -6881,7 +6989,7 @@ var _default = {
           "source": "%(num)s questions",
           "status": "approved"
         }],
-        "comment": "id:sot_question_count\nText that shows the current number of questions in the upcoming task, including exercises, quizzes, and unit tests.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.js"
+        "comment": "id:sot_question_count\nText that shows the current number of questions in the upcoming task, including exercises, quizzes, and unit tests.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
       },
       "eot_skills_count": {
         "forms": [{
@@ -6893,7 +7001,7 @@ var _default = {
           "source": "%(num)s skills",
           "status": "approved"
         }],
-        "comment": "id:eot_skills_count\nLabel that explains that num1 skills were included in a quiz or test, eg \"4 skills\" or \"1 skill\".\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.js"
+        "comment": "id:eot_skills_count\nLabel that explains that num1 skills were included in a quiz or test, eg \"4 skills\" or \"1 skill\".\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "num_lessons": {
         "forms": [{
@@ -6905,7 +7013,7 @@ var _default = {
           "source": "%(num)s lessons",
           "status": "approved"
         }],
-        "comment": "id:num_lessons\nDescription of unit with child lessons\nUsed in the following files:\nFile: /BookmarksScreen/bookmark-utils.js"
+        "comment": "id:num_lessons\nDescription of unit with child lessons\nUsed in the following files:\nFile: /BookmarksScreen/bookmark-utils.ts"
       },
       "mastery_challenge_description": {
         "forms": [{
@@ -6917,7 +7025,7 @@ var _default = {
           "source": "Strengthen skills you've already practiced in just %(num)s questions.",
           "status": "approved"
         }],
-        "comment": "id:mastery_challenge_description\nDescribes what mastery challenge tasks are.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:mastery_challenge_description\nDescribes what mastery challenge tasks are.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "num_hours": {
         "forms": [{
@@ -6929,7 +7037,7 @@ var _default = {
           "source": "%(num)s hours",
           "status": "approved"
         }],
-        "comment": "id:num_hours\nNumber of hours.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:num_hours\nNumber of hours.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "num_minutes": {
         "forms": [{
@@ -6941,7 +7049,7 @@ var _default = {
           "source": "%(num)s minutes",
           "status": "approved"
         }],
-        "comment": "id:num_minutes\nNumber of minutes.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:num_minutes\nNumber of minutes.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "num_seconds": {
         "forms": [{
@@ -6953,7 +7061,7 @@ var _default = {
           "source": "%(num)s seconds",
           "status": "approved"
         }],
-        "comment": "id:num_seconds\nNumber of seconds.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.js"
+        "comment": "id:num_seconds\nNumber of seconds.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
       },
       "tablet_quiz_cell_title": {
         "forms": [{
@@ -7476,4 +7584,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.c6af0f67.js.map
+//# sourceMappingURL=/render.3a29bc36.js.map
