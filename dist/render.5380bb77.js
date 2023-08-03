@@ -6569,46 +6569,6 @@ var _default = {
         },
         "comment": "id:app_store_release_notes_generic\nGeneric update notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
-      "introducing_gujarati": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7353243:0crwdne7353243:0",
-          "source": "Introducing support for Gujarati!"
-        },
-        "comment": "id:introducing_gujarati\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_japanese": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7353245:0crwdne7353245:0",
-          "source": "Introducing support for Japanese!"
-        },
-        "comment": "id:introducing_japanese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_tamil": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7353247:0crwdne7353247:0",
-          "source": "Introducing support for Tamil!"
-        },
-        "comment": "id:introducing_tamil\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_kannada": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7353249:0crwdne7353249:0",
-          "source": "Introducing support for Kannada!"
-        },
-        "comment": "id:introducing_kannada\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
-      "introducing_hindi": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7353251:0crwdne7353251:0",
-          "source": "Introducing support for Hindi!"
-        },
-        "comment": "id:introducing_hindi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
-      },
       "introducing_dutch": {
         "form": {
           "status": "approved",
@@ -6657,6 +6617,54 @@ var _default = {
         },
         "comment": "id:introducing_vietnamese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
+      "whats_new_deprecate_bookmark_widget": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7569395:0crwdne7569395:0",
+          "source": "By removing infrequently used features, we free up our small team to focus on building new ones. So, we’re saying goodbye to the widget that showcased your Bookmarks."
+        },
+        "comment": "id:whats_new_deprecate_bookmark_widget\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+      },
+      "introducing_gujarati": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353243:0crwdne7353243:0",
+          "source": "Introducing support for Gujarati!"
+        },
+        "comment": "id:introducing_gujarati\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_japanese": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353245:0crwdne7353245:0",
+          "source": "Introducing support for Japanese!"
+        },
+        "comment": "id:introducing_japanese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_tamil": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353247:0crwdne7353247:0",
+          "source": "Introducing support for Tamil!"
+        },
+        "comment": "id:introducing_tamil\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_kannada": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353249:0crwdne7353249:0",
+          "source": "Introducing support for Kannada!"
+        },
+        "comment": "id:introducing_kannada\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_hindi": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7353251:0crwdne7353251:0",
+          "source": "Introducing support for Hindi!"
+        },
+        "comment": "id:introducing_hindi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
       "whats_new_chromebooks": {
         "form": {
           "status": "approved",
@@ -6704,14 +6712,6 @@ var _default = {
           "source": "Introducing the “Start over” option! Now, while working on practice activities, you’ll have the option to quickly restart the activity from the beginning with just one tap. This feature allows you to restart practice without affecting your Mastery progress, making it easier than ever to learn. Try it out now and experience the difference!"
         },
         "comment": "id:whats_new_start_over\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
-      },
-      "whats_new_deprecate_bookmark_widget": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7569395:0crwdne7569395:0",
-          "source": "By removing infrequently used features, we free up our small team to focus on building new ones. So, we’re saying goodbye to the widget that showcased your Bookmarks."
-        },
-        "comment": "id:whats_new_deprecate_bookmark_widget\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       }
     },
     "plural": {
@@ -7584,4 +7584,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.3a29bc36.js.map
+//# sourceMappingURL=/render.5380bb77.js.map
