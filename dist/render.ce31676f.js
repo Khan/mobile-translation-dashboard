@@ -1423,7 +1423,7 @@ var _default = {
           "translated": "crwdns6399421:0crwdne6399421:0",
           "source": "Loading Course Mastery..."
         },
-        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Home Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
+        "comment": "id:explore_loading_course_mastery\nString shown in My Course Mastery Card on Home Screen when assigned Course Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassMasteryGoals/Cards/AssignedCourseMasteryCard.tsx"
       },
       "explore_loading_unit_mastery": {
         "form": {
@@ -1431,7 +1431,7 @@ var _default = {
           "translated": "crwdns7567099:0crwdne7567099:0",
           "source": "Loading Unit Mastery..."
         },
-        "comment": "id:explore_loading_unit_mastery\nString shown in My Unit Mastery Card on Mastery Goals screen when assigned Unit Mastery goals are loading and the card is empty"
+        "comment": "id:explore_loading_unit_mastery\nString shown in My Unit Mastery Card on Mastery Goals screen when assigned Unit Mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /ClassMasteryGoals/Cards/AssignedUnitMasteryCard.tsx"
       },
       "explore_loading_mastery_goals": {
         "form": {
@@ -1439,7 +1439,7 @@ var _default = {
           "translated": "crwdns7567101:0crwdne7567101:0",
           "source": "Loading your mastery goals..."
         },
-        "comment": "id:explore_loading_mastery_goals\nString shown in My Mastery Goals Card on Class Screen when mastery goals are loading and the card is empty"
+        "comment": "id:explore_loading_mastery_goals\nString shown in My Mastery Goals Card on Class Screen when mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "explore_loading_kmap": {
         "form": {
@@ -1681,6 +1681,94 @@ var _default = {
         },
         "comment": "id:open_in_browser_accept\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.tsx\nFile: /shared/native/NavigationModule.ts"
       },
+      "activities": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8124910:0crwdne8124910:0",
+          "source": "Activities"
+        },
+        "comment": "id:activities\nTitle for the Activities feature, title used on Activities tab on bottom of screen, and also on the Activities List screen itself.\nUsed in the following files:\nFile: /navigators/Activities.tsx\nFile: /navigators/Tabs.tsx"
+      },
+      "activities_banner": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8124912:0crwdne8124912:0",
+          "source": "Let's learn together!"
+        },
+        "comment": "id:activities_banner\nThis is on the banner at the top of the Activities List screen\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+      },
+      "aig_power": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8124914:0crwdne8124914:0 ",
+          "source": "AIG Power - "
+        },
+        "comment": "id:aig_power\nThis is the remaining value displayed on the Activity Screen's battery when the user clicks the icon\nUsed in the following files:\nFile: /Activities/ActivityHeaderRight.tsx"
+      },
+      "activities_loading_activity_list": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8124908:0crwdne8124908:0",
+          "source": "Loading activities..."
+        },
+        "comment": "id:activities_loading_activity_list\nString shown on the Activities List screen when Activities are loading\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+      },
+      "activities_list_error_with_cached": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137538:0crwdne8137538:0",
+          "source": "Unable to load activities. Check your connection and tap try again."
+        },
+        "comment": "id:activities_list_error_with_cached\nError message displayed when we try and fetch activities, and fail, but there are activities already in our cache. Failure is likely due to just internet connectivity.\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+      },
+      "activities_list_error_empty_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137540:0crwdne8137540:0",
+          "source": "Khanmigo Unavailable"
+        },
+        "comment": "id:activities_list_error_empty_title\nTitle for the error message when no activities are found, and nothing is in the cache, likely due to Khanmigo not available in the user's language. Don't translate the word 'Khanmigo'.\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+      },
+      "activities_list_error_empty_subtitle": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137542:0crwdne8137542:0",
+          "source": "We had trouble fetching the list of Activities. This could be due to a poor internet connection, or Khanmigo may not be available in your language. You can try switching languages, or check your internet connection and tap try again."
+        },
+        "comment": "id:activities_list_error_empty_subtitle\nActual message for the error when no activities are found, and nothing is in the cache, likely due to Khanmigo not available in the user's language. Don't translate the word 'Khanmigo'.\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+      },
+      "activity_exit_chat_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137544:0crwdne8137544:0",
+          "source": "Exit chat"
+        },
+        "comment": "id:activity_exit_chat_title\nTitle on alert when user hits 'back' button in chat"
+      },
+      "activity_exit_chat_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137546:0crwdne8137546:0",
+          "source": "Are you sure you want to exit this chat?"
+        },
+        "comment": "id:activity_exit_chat_message\nMessage on alert when user hits 'back' button in chat"
+      },
+      "activity_screen_offline_error_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137548:0crwdne8137548:0",
+          "source": "You're offline!"
+        },
+        "comment": "id:activity_screen_offline_error_title\nTitle on Activity Screen when you're offline\nUsed in the following files:\nFile: /Activities/ActivityScreen.tsx"
+      },
+      "activity_screen_offline_error_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137550:0crwdne8137550:0",
+          "source": "Please check your Internet connection and try again."
+        },
+        "comment": "id:activity_screen_offline_error_message\nMessage on Activity Screen when you're offline\nUsed in the following files:\nFile: /Activities/ActivityScreen.tsx"
+      },
       "my_classes": {
         "form": {
           "status": "approved",
@@ -1791,7 +1879,7 @@ var _default = {
           "translated": "crwdns6821754:0%(num1)scrwdne6821754:0",
           "source": "Courses (%(num1)s)"
         },
-        "comment": "id:courses_count\nNumber courses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
+        "comment": "id:courses_count\nNumber courses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassMasteryGoals/Cards/AssignedCourseMasteryCard.tsx"
       },
       "courses": {
         "form": {
@@ -1799,7 +1887,7 @@ var _default = {
           "translated": "crwdns6821756:0crwdne6821756:0",
           "source": "Courses"
         },
-        "comment": "id:courses\nCourses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseMasteryCard.tsx"
+        "comment": "id:courses\nCourses that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassMasteryGoals/Cards/AssignedCourseMasteryCard.tsx"
       },
       "units_count": {
         "form": {
@@ -1807,7 +1895,7 @@ var _default = {
           "translated": "crwdns7567103:0%(num1)scrwdne7567103:0",
           "source": "Units (%(num1)s)"
         },
-        "comment": "id:units_count\nNumber of units that a teacher has assigned for the student."
+        "comment": "id:units_count\nNumber of units that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassMasteryGoals/Cards/AssignedUnitMasteryCard.tsx"
       },
       "units": {
         "form": {
@@ -1815,7 +1903,7 @@ var _default = {
           "translated": "crwdns7567105:0crwdne7567105:0",
           "source": "Units"
         },
-        "comment": "id:units\nUnits that a teacher has assigned for the student.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
+        "comment": "id:units\nUnits that a teacher has assigned for the student.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /ClassMasteryGoals/Cards/AssignedUnitMasteryCard.tsx"
       },
       "mastery_goals_count": {
         "form": {
@@ -1823,7 +1911,7 @@ var _default = {
           "translated": "crwdns7567107:0%(num1)scrwdne7567107:0",
           "source": "Mastery goals (%(num1)s)"
         },
-        "comment": "id:mastery_goals_count\nNumber of mastery goals that a teacher has assigned for the student."
+        "comment": "id:mastery_goals_count\nNumber of mastery goals that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "mastery_goals": {
         "form": {
@@ -1831,7 +1919,7 @@ var _default = {
           "translated": "crwdns7567109:0crwdne7567109:0",
           "source": "Mastery goals"
         },
-        "comment": "id:mastery_goals\nMastery goals that a teacher has assigned for the student."
+        "comment": "id:mastery_goals\nMastery goals that a teacher has assigned for the student.\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx\nFile: /navigators/Home.tsx"
       },
       "error_loading_class": {
         "form": {
@@ -1991,7 +2079,7 @@ var _default = {
           "translated": "crwdns6388141:0crwdne6388141:0",
           "source": "Try again"
         },
-        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /Home/components/HomeHeader.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx\nFile: /Activities/ActivityScreen.tsx\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /Home/components/HomeHeader.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "settings_icon": {
         "form": {
@@ -1999,7 +2087,7 @@ var _default = {
           "translated": "crwdns6388149:0crwdne6388149:0",
           "source": "Settings"
         },
-        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:settings_icon\nSettings Icon Label\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "assignments": {
         "form": {
@@ -2047,7 +2135,7 @@ var _default = {
           "translated": "crwdns6388165:0crwdne6388165:0",
           "source": "Back"
         },
-        "comment": "id:back\nText for a button that closes an error alert\nUsed in the following files:\nFile: /Debug/index.tsx\nFile: /shared/alert-utils.ts\nFile: /shared/components/BackButton.tsx\nFile: /shared/components/NavBar.tsx\nFile: /snapshots/app-store/ScreenshotNavbar.tsx"
+        "comment": "id:back\nText for a button that closes an error alert\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Debug/index.tsx\nFile: /shared/alert-utils.ts\nFile: /shared/components/BackButton.tsx\nFile: /shared/components/NavBar.tsx"
       },
       "loading": {
         "form": {
@@ -2183,7 +2271,7 @@ var _default = {
           "translated": "crwdns6399449:0crwdne6399449:0",
           "source": "No active goals"
         },
-        "comment": "id:assignment_course_mastery_no_active_title\nAssignments screen empty-state header when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
+        "comment": "id:assignment_course_mastery_no_active_title\nAssignments screen empty-state header when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "assignment_course_mastery_no_active_subtitle": {
         "form": {
@@ -2191,7 +2279,7 @@ var _default = {
           "translated": "crwdns6399451:0crwdne6399451:0",
           "source": "You don't have any active goals right now. Ask your teacher for a new goal to get started!"
         },
-        "comment": "id:assignment_course_mastery_no_active_subtitle\nAssignments screen empty-state detail description when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
+        "comment": "id:assignment_course_mastery_no_active_subtitle\nAssignments screen empty-state detail description when there are no active learning goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "assignment_course_mastery_no_past_title": {
         "form": {
@@ -2303,7 +2391,7 @@ var _default = {
           "translated": "crwdns6450919:0crwdne6450919:0",
           "source": "Hold tight! Your teacher is setting up your work."
         },
-        "comment": "id:assigned_goals_waiting_empty_title\nMAP Goals empty-state header that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
+        "comment": "id:assigned_goals_waiting_empty_title\nMAP Goals empty-state header that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "assigned_goals_waiting_empty_subtitle": {
         "form": {
@@ -2311,7 +2399,7 @@ var _default = {
           "translated": "crwdns6450921:0crwdne6450921:0",
           "source": "Your teacher is adding new things to learn, just for you."
         },
-        "comment": "id:assigned_goals_waiting_empty_subtitle\nMAP Goals empty-state description that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
+        "comment": "id:assigned_goals_waiting_empty_subtitle\nMAP Goals empty-state description that explains that a teacher is setting up MAP goals for the learner.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
       "assignment_kmap_active_empty_title": {
         "form": {
@@ -3687,7 +3775,7 @@ var _default = {
           "translated": "crwdns7499879:0crwdne7499879:0",
           "source": "Close"
         },
-        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
       },
       "toggle_scratchpad": {
         "form": {
@@ -3743,7 +3831,15 @@ var _default = {
           "translated": "crwdns6388495:0crwdne6388495:0",
           "source": "Cancel"
         },
-        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /Settings/AppIconPicker.tsx\nFile: /Settings/utils.ts\nFile: /SignUp/api-utils.ts\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx\nFile: /Task/Exercise/Scratchpad/index.tsx\nFile: /navigators/Home.tsx\nFile: /navigators/Settings.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts\nFile: /shared/native/DeepLinkModule.ts\nFile: /shared/native/NavigationModule.ts"
+        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /Settings/AppIconPicker.tsx\nFile: /Settings/utils.ts\nFile: /SignUp/api-utils.ts\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx\nFile: /Task/Exercise/Scratchpad/index.tsx\nFile: /navigators/Home.tsx\nFile: /navigators/Settings.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts\nFile: /shared/native/DeepLinkModule.ts\nFile: /shared/native/NavigationModule.ts"
+      },
+      "submit": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8137552:0crwdne8137552:0",
+          "source": "Submit"
+        },
+        "comment": "id:submit\nText that allows the user to submit a form.\nUsed in the following files:\nFile: /Activities/ActivityHeaderRight.tsx"
       },
       "exercise_watch_a_video": {
         "form": {
@@ -5127,7 +5223,7 @@ var _default = {
           "translated": "crwdns6388799:0crwdne6388799:0",
           "source": "Info"
         },
-        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:info_accessibility_label\nAccessibility label for the info icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "add_accessibility_label": {
         "form": {
@@ -5135,7 +5231,7 @@ var _default = {
           "translated": "crwdns6388801:0crwdne6388801:0",
           "source": "Add"
         },
-        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "caret_down_accessibility_label": {
         "form": {
@@ -5175,7 +5271,7 @@ var _default = {
           "translated": "crwdns6388811:0crwdne6388811:0",
           "source": "Checkmark"
         },
-        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:check_small_accessibility_label\nAccessibility label for the 'check_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "content_article_accessibility_label": {
         "form": {
@@ -5183,7 +5279,7 @@ var _default = {
           "translated": "crwdns6388813:0crwdne6388813:0",
           "source": "Article"
         },
-        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
+        "comment": "id:content_article_accessibility_label\nAccessibility label for the 'content_article' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "content_exercise_accessibility_label": {
         "form": {
@@ -5191,7 +5287,7 @@ var _default = {
           "translated": "crwdns6388815:0crwdne6388815:0",
           "source": "Exercise"
         },
-        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
+        "comment": "id:content_exercise_accessibility_label\nAccessibility label for the 'content_exercise' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "content_video_accessibility_label": {
         "form": {
@@ -5199,7 +5295,7 @@ var _default = {
           "translated": "crwdns6388817:0crwdne6388817:0",
           "source": "Video"
         },
-        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
+        "comment": "id:content_video_accessibility_label\nAccessibility label for the 'content_video' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts\nFile: /wonderblocks-rn/ItemAvatar/index.tsx"
       },
       "correct_accessibility_label": {
         "form": {
@@ -5207,7 +5303,7 @@ var _default = {
           "translated": "crwdns6388819:0crwdne6388819:0",
           "source": "Correct"
         },
-        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:correct_accessibility_label\nAccessibility label for the 'correct' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "critical_accessibility_label": {
         "form": {
@@ -5215,7 +5311,7 @@ var _default = {
           "translated": "crwdns7479843:0crwdne7479843:0",
           "source": "Critical"
         },
-        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:critical_accessibility_label\nAccessibility label for the 'critical' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "delete_accessibility_label": {
         "form": {
@@ -5223,7 +5319,7 @@ var _default = {
           "translated": "crwdns6388821:0crwdne6388821:0",
           "source": "Delete"
         },
-        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:delete_accessibility_label\nAccessibility label for the 'delete' icon/icon button/thumbnail .\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "dismiss_accessibility_label": {
         "form": {
@@ -5231,7 +5327,7 @@ var _default = {
           "translated": "crwdns6388823:0crwdne6388823:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "hint_accessibility_label": {
         "form": {
@@ -5239,7 +5335,7 @@ var _default = {
           "translated": "crwdns6388825:0crwdne6388825:0",
           "source": "Hint"
         },
-        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:hint_accessibility_label\nAccessibility label for the 'hint' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "incorrect_accessibility_label": {
         "form": {
@@ -5247,7 +5343,7 @@ var _default = {
           "translated": "crwdns6388827:0crwdne6388827:0",
           "source": "Incorrect"
         },
-        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:incorrect_accessibility_label\nAccessibility label for the 'incorrect' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "search_accessibility_label": {
         "form": {
@@ -5255,7 +5351,7 @@ var _default = {
           "translated": "crwdns6388829:0crwdne6388829:0",
           "source": "Search"
         },
-        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "settings_accessibility_label": {
         "form": {
@@ -5271,7 +5367,7 @@ var _default = {
           "translated": "crwdns6388831:0crwdne6388831:0",
           "source": "Sortable arrow down"
         },
-        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:sortable_arrow_down_small_accessibility_label\nAccessibility label for the 'sortable_arrow_down_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "sortable_arrow_up_small_accessibility_label": {
         "form": {
@@ -5279,7 +5375,7 @@ var _default = {
           "translated": "crwdns6388833:0crwdne6388833:0",
           "source": "Sortable arrow up"
         },
-        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:sortable_arrow_up_small_accessibility_label\nAccessibility label for the 'sortable_arrow_up_small' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "success_accessibility_label": {
         "form": {
@@ -5287,7 +5383,7 @@ var _default = {
           "translated": "crwdns7479845:0crwdne7479845:0",
           "source": "Success"
         },
-        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:success_accessibility_label\nAccessibility label for the 'success' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "zoom_in_accessibility_label": {
         "form": {
@@ -5295,7 +5391,7 @@ var _default = {
           "translated": "crwdns6388835:0crwdne6388835:0",
           "source": "Zoom in"
         },
-        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:zoom_in_accessibility_label\nAccessibility label for the 'zoom_in' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "zoom_out_accessibility_label": {
         "form": {
@@ -5303,7 +5399,7 @@ var _default = {
           "translated": "crwdns6388837:0crwdne6388837:0",
           "source": "Zoom out"
         },
-        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:zoom_out_accessibility_label\nAccessibility label for the 'zoom_out' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "scratchpad_accessibility_label": {
         "form": {
@@ -5311,7 +5407,7 @@ var _default = {
           "translated": "crwdns7088221:0crwdne7088221:0",
           "source": "Scratchpad"
         },
-        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:scratchpad_accessibility_label\nAccessibility label for the 'scratchpad' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "content_lesson_accessibility_label": {
         "form": {
@@ -5327,7 +5423,7 @@ var _default = {
           "translated": "crwdns6399489:0crwdne6399489:0",
           "source": "Warning"
         },
-        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /lcov-report/src/wonderblocks-rn/Icon/icon-assets.ts.html\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:warning_accessibility_label\nAccessibility label for the 'warning' icon / icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "sharpen_your_skills": {
         "form": {
@@ -6024,6 +6120,14 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "activities_list_error": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8124916:0crwdne8124916:0",
+          "source": "Unable to load activities. Check your connection and tap to try again."
+        },
+        "comment": "id:activities_list_error\nError displayed when the data required to display the activities list screen could not be fetched.\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
       },
       "about_us": {
         "form": {
@@ -6973,7 +7077,7 @@ var _default = {
           "source": "%(num)s Unit Mastery goals",
           "status": "approved"
         }],
-        "comment": "id:n_unit_mastery_goals\nSummary count of the number of Unit Mastery goals."
+        "comment": "id:n_unit_mastery_goals\nSummary count of the number of Unit Mastery goals.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "n_assignments": {
         "forms": [{
@@ -7616,4 +7720,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.f4dc417c.js.map
+//# sourceMappingURL=/render.ce31676f.js.map
