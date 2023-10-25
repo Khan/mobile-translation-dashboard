@@ -1625,14 +1625,6 @@ var _default = {
         },
         "comment": "id:courses_picker_nav_title\nThe nav bar text on the courses selection screen.\nUsed in the following files:\nFile: /navigators/Home.tsx"
       },
-      "courses_picker_back_button": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474099:0crwdne6474099:0",
-          "source": "Grade"
-        },
-        "comment": "id:courses_picker_back_button\nThe back button text on the courses selection screen that navigates back to the grade selection screen."
-      },
       "grade_picker_header_primary": {
         "form": {
           "status": "approved",
@@ -1743,7 +1735,7 @@ var _default = {
           "translated": "crwdns8137544:0crwdne8137544:0",
           "source": "Exit chat"
         },
-        "comment": "id:activity_exit_chat_title\nTitle on alert when user hits 'back' button in chat"
+        "comment": "id:activity_exit_chat_title\nTitle on alert when user hits 'back' button in chat\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "activity_exit_chat_message": {
         "form": {
@@ -1751,7 +1743,7 @@ var _default = {
           "translated": "crwdns8137546:0crwdne8137546:0",
           "source": "Are you sure you want to exit this chat?"
         },
-        "comment": "id:activity_exit_chat_message\nMessage on alert when user hits 'back' button in chat"
+        "comment": "id:activity_exit_chat_message\nMessage on alert when user hits 'back' button in chat\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "activity_screen_offline_error_title": {
         "form": {
@@ -2041,14 +2033,6 @@ var _default = {
         },
         "comment": "id:unit_title_prefix\nThe title displayed at the top of our Unit screen. The title of the unit will be inserted into the string, e.g. \"Unit: Negative numbers\"\nUsed in the following files:\nFile: /Unit/index.tsx"
       },
-      "title_profile": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388131:0crwdne6388131:0",
-          "source": "Profile"
-        },
-        "comment": "id:title_profile\nProfile tab title"
-      },
       "action_login": {
         "form": {
           "status": "approved",
@@ -2136,14 +2120,6 @@ var _default = {
           "source": "Back"
         },
         "comment": "id:back\nText for a button that closes an error alert\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Debug/index.tsx\nFile: /shared/alert-utils.ts\nFile: /shared/components/BackButton.tsx\nFile: /shared/components/NavBar.tsx"
-      },
-      "loading": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388169:0crwdne6388169:0",
-          "source": "Loading"
-        },
-        "comment": "id:loading\nText to indicate that the assignments are loading"
       },
       "nothing_upcoming": {
         "form": {
@@ -2697,14 +2673,6 @@ var _default = {
         },
         "comment": "id:error_existing_email\nError text that is displayed when a user attempts to sign up with an existing email.\nUsed in the following files:\nFile: /shared/User/queries.ts"
       },
-      "error_third_party_login": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6824340:0%(num1)scrwdne6824340:0",
-          "source": "There was an issue signing in with %(num1)s"
-        },
-        "comment": "id:error_third_party_login\nNaive-only string (Android) used when an unknown error occurs during login."
-      },
       "sign_in_with_apple": {
         "form": {
           "status": "approved",
@@ -2808,14 +2776,6 @@ var _default = {
           "source": "Teachers"
         },
         "comment": "id:teachers_header_text\nNav bar title for the manage teachers screen.\nUsed in the following files:\nFile: /navigators/Home.tsx"
-      },
-      "your_teachers": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388253:0crwdne6388253:0",
-          "source": "Your teachers"
-        },
-        "comment": "id:your_teachers\nHeader text for a list of the user's teachers"
       },
       "add_teacher": {
         "form": {
@@ -3201,14 +3161,6 @@ var _default = {
         },
         "comment": "id:available_space\nTitle for cell which shows the available disk space for downloading offline videos\nUsed in the following files:\nFile: /BookmarksScreen/DownloadSettings/AvailableSpaceCell.tsx"
       },
-      "start": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388343:0crwdne6388343:0",
-          "source": "Start"
-        },
-        "comment": "id:start\nText for button that starts an action."
-      },
       "error_downloading_bookmark": {
         "form": {
           "status": "approved",
@@ -3337,14 +3289,6 @@ var _default = {
         },
         "comment": "id:add_video_bookmark_title\nTitle for an alert when the user first bookmarks a video.\nUsed in the following files:\nFile: /redux/bookmarks/bookmark-alerts-utils.ts"
       },
-      "add_article_bookmark_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388377:0crwdne6388377:0",
-          "source": "You added an article to Bookmarks!"
-        },
-        "comment": "id:add_article_bookmark_title\nTitle for an alert when the user first bookmarks an article."
-      },
       "add_topic_bookmark_title": {
         "form": {
           "status": "approved",
@@ -3449,14 +3393,6 @@ var _default = {
         },
         "comment": "id:identify_growth_multiple\nPre-mastery: Prompt to begin a unit quiz with multiple tutorials.\nUsed in the following files:\nFile: /Unit/Cells/QuizCell.tsx"
       },
-      "start_quiz": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388407:0crwdne6388407:0",
-          "source": "Start quiz"
-        },
-        "comment": "id:start_quiz\nButton that allows a user to start a unit quiz."
-      },
       "start_quiz_brief": {
         "form": {
           "status": "approved",
@@ -3480,22 +3416,6 @@ var _default = {
           "source": "Great work! You’ve already mastered this unit and can’t level up in any skills nor collect any mastery points."
         },
         "comment": "id:unit_test_shelf_description_mastered\nPrompt to retake a unit test in an already mastered unit.\nUsed in the following files:\nFile: /Unit/Cells/UnitTestCell.tsx"
-      },
-      "start_test": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388425:0crwdne6388425:0",
-          "source": "Start test"
-        },
-        "comment": "id:start_test\nButton that allows a user to start a unit test."
-      },
-      "retake_test": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388427:0crwdne6388427:0",
-          "source": "Redo test"
-        },
-        "comment": "id:retake_test\nButton that allows a user to redo a unit test."
       },
       "start_test_brief": {
         "form": {
@@ -3872,14 +3792,6 @@ var _default = {
           "source": "Okay"
         },
         "comment": "id:exercise_error_accept\nAction label to exit an exercise after an error has occurred.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts"
-      },
-      "error_loading_exercise": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388505:0crwdne6388505:0",
-          "source": "Could not load this exercise. Try again."
-        },
-        "comment": "id:error_loading_exercise\nText that explains that the exercise could not be loaded."
       },
       "error_loading_exercise_title": {
         "form": {
@@ -4601,14 +4513,6 @@ var _default = {
         },
         "comment": "id:skill_level_changes\nSubtitle for skill level changes on the start of task card.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/index.tsx"
       },
-      "course": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388569:0crwdne6388569:0",
-          "source": "course"
-        },
-        "comment": "id:course\nPlaceholder in the following string if we do not have the course name: Take another Unit test to practice again or go to the %(course)s page to start work on the next unit."
-      },
       "unit_possible_mastery_points": {
         "form": {
           "status": "approved",
@@ -5161,62 +5065,6 @@ var _default = {
         },
         "comment": "id:retry\nAccessibility label for the retry button.\nUsed in the following files:\nFile: /Task/index.tsx\nFile: /Video/Controls/MiddleControlsView.tsx\nFile: /redux/bookmarks/download/download-utils.ts"
       },
-      "keyboardShortcutFullscreen": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864788:0crwdne6864788:0",
-          "source": "Enter/Exit Fullscreen"
-        },
-        "comment": "id:keyboardShortcutFullscreen\nKeyboard shortcut description for enter/exit fullscreen."
-      },
-      "keyboardShortcutPlayPause": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864776:0crwdne6864776:0",
-          "source": "Play/Pause"
-        },
-        "comment": "id:keyboardShortcutPlayPause\nKeyboard shortcut description for toggling whether the video is playing or paused."
-      },
-      "keyboardShortcutCaptions": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864778:0crwdne6864778:0",
-          "source": "Toggle Captions"
-        },
-        "comment": "id:keyboardShortcutCaptions\nKeyboard shortcut description for toggling closed-captions."
-      },
-      "keyboardShortcutSeekForward": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864780:0crwdne6864780:0",
-          "source": "Seek Forward"
-        },
-        "comment": "id:keyboardShortcutSeekForward\nKeyboard shortcut description for skipping forward 10 seconds."
-      },
-      "keyboardShortcutSeekBackward": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864782:0crwdne6864782:0",
-          "source": "Seek Backward"
-        },
-        "comment": "id:keyboardShortcutSeekBackward\nKeyboard shortcut description for rewinding 10 seconds."
-      },
-      "keyboardShortcutIncreasePlaySpeed": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864784:0crwdne6864784:0",
-          "source": "Increase Speed"
-        },
-        "comment": "id:keyboardShortcutIncreasePlaySpeed\nKeyboard shortcut description for increasing the play speed."
-      },
-      "keyboardShortcutDecreasePlaySpeed": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6864786:0crwdne6864786:0",
-          "source": "Decrease Speed"
-        },
-        "comment": "id:keyboardShortcutDecreasePlaySpeed\nKeyboard shortcut description for decreasing the play speed."
-      },
       "info_accessibility_label": {
         "form": {
           "status": "approved",
@@ -5232,38 +5080,6 @@ var _default = {
           "source": "Add"
         },
         "comment": "id:add_accessibility_label\nAccessibility label for the 'add' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
-      },
-      "caret_down_accessibility_label": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388803:0crwdne6388803:0",
-          "source": "Caret down"
-        },
-        "comment": "id:caret_down_accessibility_label\nAccessibility label for the 'caret_down' icon/icon button."
-      },
-      "caret_left_accessibility_label": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388805:0crwdne6388805:0",
-          "source": "Caret left"
-        },
-        "comment": "id:caret_left_accessibility_label\nAccessibility label for the 'caret_left' icon/icon button."
-      },
-      "caret_right_accessibility_label": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388807:0crwdne6388807:0",
-          "source": "Caret right"
-        },
-        "comment": "id:caret_right_accessibility_label\nAccessibility label for the 'caret_right' icon/icon button."
-      },
-      "caret_up_accessibility_label": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388809:0crwdne6388809:0",
-          "source": "Caret up"
-        },
-        "comment": "id:caret_up_accessibility_label\nAccessibility label for the 'caret_up' icon/icon button."
       },
       "check_small_accessibility_label": {
         "form": {
@@ -5352,14 +5168,6 @@ var _default = {
           "source": "Search"
         },
         "comment": "id:search_accessibility_label\nAccessibility label for the 'search' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
-      },
-      "settings_accessibility_label": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6399487:0crwdne6399487:0",
-          "source": "Settings"
-        },
-        "comment": "id:settings_accessibility_label\nAccessibility label for the 'settings' icon/icon button."
       },
       "sortable_arrow_down_small_accessibility_label": {
         "form": {
@@ -5465,14 +5273,6 @@ var _default = {
         },
         "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
       },
-      "master_skills_using_practice_questions": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388843:0crwdne6388843:0",
-          "source": "Master skills using\npractice questions"
-        },
-        "comment": "id:master_skills_using_practice_questions\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
-      },
       "explore_our_library": {
         "form": {
           "status": "approved",
@@ -5480,30 +5280,6 @@ var _default = {
           "source": "Explore our entire\nlibrary of videos"
         },
         "comment": "id:explore_our_library\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
-      },
-      "keep_learning_even_offline": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388847:0crwdne6388847:0",
-          "source": "Keep learning,\neven when you're offline"
-        },
-        "comment": "id:keep_learning_even_offline\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
-      },
-      "celebrate_your_learning_journey": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388849:0crwdne6388849:0",
-          "source": "Celebrate your\nlearning journey"
-        },
-        "comment": "id:celebrate_your_learning_journey\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
-      },
-      "offline_article": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388851:0crwdne6388851:0",
-          "source": "You're offline. This article contains elements that require an internet connection."
-        },
-        "comment": "id:offline_article\nOffline banner text for articles with elements that require connectivity."
       },
       "sound_effects": {
         "form": {
@@ -6120,6 +5896,230 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "courses_picker_back_button": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474099:0crwdne6474099:0",
+          "source": "Grade"
+        },
+        "comment": "id:courses_picker_back_button\nThe back button text on the courses selection screen that navigates back to the grade selection screen."
+      },
+      "title_profile": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388131:0crwdne6388131:0",
+          "source": "Profile"
+        },
+        "comment": "id:title_profile\nProfile tab title"
+      },
+      "loading": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388169:0crwdne6388169:0",
+          "source": "Loading"
+        },
+        "comment": "id:loading\nText to indicate that the assignments are loading"
+      },
+      "error_third_party_login": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6824340:0%(num1)scrwdne6824340:0",
+          "source": "There was an issue signing in with %(num1)s"
+        },
+        "comment": "id:error_third_party_login\nNaive-only string (Android) used when an unknown error occurs during login."
+      },
+      "your_teachers": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388253:0crwdne6388253:0",
+          "source": "Your teachers"
+        },
+        "comment": "id:your_teachers\nHeader text for a list of the user's teachers"
+      },
+      "start": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388343:0crwdne6388343:0",
+          "source": "Start"
+        },
+        "comment": "id:start\nText for button that starts an action."
+      },
+      "add_article_bookmark_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388377:0crwdne6388377:0",
+          "source": "You added an article to Bookmarks!"
+        },
+        "comment": "id:add_article_bookmark_title\nTitle for an alert when the user first bookmarks an article."
+      },
+      "start_quiz": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388407:0crwdne6388407:0",
+          "source": "Start quiz"
+        },
+        "comment": "id:start_quiz\nButton that allows a user to start a unit quiz."
+      },
+      "start_test": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388425:0crwdne6388425:0",
+          "source": "Start test"
+        },
+        "comment": "id:start_test\nButton that allows a user to start a unit test."
+      },
+      "retake_test": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388427:0crwdne6388427:0",
+          "source": "Redo test"
+        },
+        "comment": "id:retake_test\nButton that allows a user to redo a unit test."
+      },
+      "error_loading_exercise": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388505:0crwdne6388505:0",
+          "source": "Could not load this exercise. Try again."
+        },
+        "comment": "id:error_loading_exercise\nText that explains that the exercise could not be loaded."
+      },
+      "course": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388569:0crwdne6388569:0",
+          "source": "course"
+        },
+        "comment": "id:course\nPlaceholder in the following string if we do not have the course name: Take another Unit test to practice again or go to the %(course)s page to start work on the next unit."
+      },
+      "keyboardShortcutFullscreen": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864788:0crwdne6864788:0",
+          "source": "Enter/Exit Fullscreen"
+        },
+        "comment": "id:keyboardShortcutFullscreen\nKeyboard shortcut description for enter/exit fullscreen."
+      },
+      "keyboardShortcutPlayPause": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864776:0crwdne6864776:0",
+          "source": "Play/Pause"
+        },
+        "comment": "id:keyboardShortcutPlayPause\nKeyboard shortcut description for toggling whether the video is playing or paused."
+      },
+      "keyboardShortcutCaptions": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864778:0crwdne6864778:0",
+          "source": "Toggle Captions"
+        },
+        "comment": "id:keyboardShortcutCaptions\nKeyboard shortcut description for toggling closed-captions."
+      },
+      "keyboardShortcutSeekForward": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864780:0crwdne6864780:0",
+          "source": "Seek Forward"
+        },
+        "comment": "id:keyboardShortcutSeekForward\nKeyboard shortcut description for skipping forward 10 seconds."
+      },
+      "keyboardShortcutSeekBackward": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864782:0crwdne6864782:0",
+          "source": "Seek Backward"
+        },
+        "comment": "id:keyboardShortcutSeekBackward\nKeyboard shortcut description for rewinding 10 seconds."
+      },
+      "keyboardShortcutIncreasePlaySpeed": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864784:0crwdne6864784:0",
+          "source": "Increase Speed"
+        },
+        "comment": "id:keyboardShortcutIncreasePlaySpeed\nKeyboard shortcut description for increasing the play speed."
+      },
+      "keyboardShortcutDecreasePlaySpeed": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6864786:0crwdne6864786:0",
+          "source": "Decrease Speed"
+        },
+        "comment": "id:keyboardShortcutDecreasePlaySpeed\nKeyboard shortcut description for decreasing the play speed."
+      },
+      "caret_down_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388803:0crwdne6388803:0",
+          "source": "Caret down"
+        },
+        "comment": "id:caret_down_accessibility_label\nAccessibility label for the 'caret_down' icon/icon button."
+      },
+      "caret_left_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388805:0crwdne6388805:0",
+          "source": "Caret left"
+        },
+        "comment": "id:caret_left_accessibility_label\nAccessibility label for the 'caret_left' icon/icon button."
+      },
+      "caret_right_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388807:0crwdne6388807:0",
+          "source": "Caret right"
+        },
+        "comment": "id:caret_right_accessibility_label\nAccessibility label for the 'caret_right' icon/icon button."
+      },
+      "caret_up_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388809:0crwdne6388809:0",
+          "source": "Caret up"
+        },
+        "comment": "id:caret_up_accessibility_label\nAccessibility label for the 'caret_up' icon/icon button."
+      },
+      "settings_accessibility_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6399487:0crwdne6399487:0",
+          "source": "Settings"
+        },
+        "comment": "id:settings_accessibility_label\nAccessibility label for the 'settings' icon/icon button."
+      },
+      "master_skills_using_practice_questions": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388843:0crwdne6388843:0",
+          "source": "Master skills using\npractice questions"
+        },
+        "comment": "id:master_skills_using_practice_questions\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
+      },
+      "keep_learning_even_offline": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388847:0crwdne6388847:0",
+          "source": "Keep learning,\neven when you're offline"
+        },
+        "comment": "id:keep_learning_even_offline\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
+      },
+      "celebrate_your_learning_journey": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388849:0crwdne6388849:0",
+          "source": "Celebrate your\nlearning journey"
+        },
+        "comment": "id:celebrate_your_learning_journey\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store."
+      },
+      "offline_article": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388851:0crwdne6388851:0",
+          "source": "You're offline. This article contains elements that require an internet connection."
+        },
+        "comment": "id:offline_article\nOffline banner text for articles with elements that require connectivity."
       },
       "activities_list_error": {
         "form": {
@@ -7720,4 +7720,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.ce31676f.js.map
+//# sourceMappingURL=/render.7407761e.js.map
