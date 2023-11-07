@@ -1692,8 +1692,8 @@ var _default = {
       "aig_power": {
         "form": {
           "status": "approved",
-          "translated": "crwdns8124914:0crwdne8124914:0 ",
-          "source": "AIG Power - "
+          "translated": "crwdns8124914:0%(num)scrwdne8124914:0",
+          "source": "AI Power - %(num)s%"
         },
         "comment": "id:aig_power\nThis is the remaining value displayed on the Activity Screen's battery when the user clicks the icon\nUsed in the following files:\nFile: /Activities/ActivityHeaderRight.tsx"
       },
@@ -7720,4 +7720,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.7407761e.js.map
+//# sourceMappingURL=/render.1fb1a4e8.js.map
