@@ -7220,8 +7220,7 @@ var _default = {
     "manage_teachers_district_footer ": ["ManageCoaches__TeacherList.tsx.fixture.ts--loaded"],
     "learn_more_sentence": ["ManageCoaches__TeacherList.tsx.fixture.ts--loaded"],
     "good_work": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--normal", "Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--all_questions_done", "Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__CorrectOnFirstTry"],
-    "keep_it_up": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--normal", "Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__CorrectOnFirstTry"],
-    "you_got_it_onward": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--all_questions_done"],
+    "keep_it_up": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--normal", "Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--all_questions_done", "Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__CorrectOnFirstTry"],
     "you_improved_your_answer": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__CorrectEventually"],
     "you_got_it_persistence": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__CorrectEventually"],
     "give_it_another_shot": ["Task__Exercise__ExerciseFeedback__Popover.tsx.fixture.ts--for_answer_state__Incorrect"],
@@ -7720,4 +7719,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.1fb1a4e8.js.map
+//# sourceMappingURL=/render.e92b01af.js.map
