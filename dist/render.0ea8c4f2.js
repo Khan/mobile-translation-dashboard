@@ -1711,7 +1711,7 @@ var _default = {
           "translated": "crwdns8137538:0crwdne8137538:0",
           "source": "Unable to load activities. Check your connection and tap try again."
         },
-        "comment": "id:activities_list_error_with_cached\nError message displayed when we try and fetch activities, and fail, but there are activities already in our cache. Failure is likely due to just internet connectivity.\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx"
+        "comment": "id:activities_list_error_with_cached\nError message displayed when we try and fetch activities, and fail, but there are activities already in our cache. Failure is likely due to just internet connectivity.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "activities_list_error_empty_title": {
         "form": {
@@ -3023,7 +3023,7 @@ var _default = {
           "translated": "crwdns6388297:0crwdne6388297:0",
           "source": "Delete"
         },
-        "comment": "id:delete\nLabel for a button that allows a user to delete selected items.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.tsx\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx\nFile: /Task/Exercise/Keypad/key-config.ts"
+        "comment": "id:delete\nLabel for a button that allows a user to delete selected items.\nUsed in the following files:\nFile: /BookmarksScreen/BulkEditingBar.tsx\nFile: /BookmarksScreen/Cells/SwipeableButton.tsx"
       },
       "bookmarks_empty_state_title": {
         "form": {
@@ -3856,422 +3856,6 @@ var _default = {
           "source": "Erase"
         },
         "comment": "id:erase\nButton title to erase something.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.tsx"
-      },
-      "a11y_add": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849526:0crwdne6849526:0",
-          "source": "Add"
-        },
-        "comment": "id:a11y_add\nAccessibility label for the \"add\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_subtract": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849528:0crwdne6849528:0",
-          "source": "Subtract"
-        },
-        "comment": "id:a11y_subtract\nAccessibility label for the \"subtract\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_negative": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849530:0crwdne6849530:0",
-          "source": "Negative"
-        },
-        "comment": "id:a11y_negative\nAccessibility label for the \"negative\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_multiply": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849532:0crwdne6849532:0",
-          "source": "Multiply"
-        },
-        "comment": "id:a11y_multiply\nAccessibility label for the \"multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_divide": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849534:0crwdne6849534:0",
-          "source": "Divide"
-        },
-        "comment": "id:a11y_divide\nAccessibility label for the \"divide\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_decimal": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849536:0crwdne6849536:0",
-          "source": "Decimal"
-        },
-        "comment": "id:a11y_decimal\nAccessibility label for the \"decimal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_percent": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849538:0crwdne6849538:0",
-          "source": "Percent"
-        },
-        "comment": "id:a11y_percent\nAccessibility label for the \"percent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_dot": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849540:0crwdne6849540:0",
-          "source": "Dot"
-        },
-        "comment": "id:a11y_dot\nAccessibility label for the \"dot-multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_equals": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849542:0crwdne6849542:0",
-          "source": "Equals"
-        },
-        "comment": "id:a11y_equals\nAccessibility label for the \"equals\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_not_equal": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849544:0crwdne6849544:0",
-          "source": "Not equal"
-        },
-        "comment": "id:a11y_not_equal\nAccessibility label for the \"not equal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_greater_than": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849546:0crwdne6849546:0",
-          "source": "Greater than"
-        },
-        "comment": "id:a11y_greater_than\nAccessibility label for the \"greater than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_less_than": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849548:0crwdne6849548:0",
-          "source": "Less than"
-        },
-        "comment": "id:a11y_less_than\nAccessibility label for the \"less than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_greater_than_or_equal_to": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849550:0crwdne6849550:0",
-          "source": "Greater than or equal to"
-        },
-        "comment": "id:a11y_greater_than_or_equal_to\nAccessibility label for the \"greater than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_less_than_or_equal_to": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849552:0crwdne6849552:0",
-          "source": "Less than or equal to"
-        },
-        "comment": "id:a11y_less_than_or_equal_to\nAccessibility label for the \"less than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_fraction": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849554:0crwdne6849554:0",
-          "source": "Fraction"
-        },
-        "comment": "id:a11y_fraction\nAccessibility label for the \"fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_mixed_fraction": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849556:0crwdne6849556:0",
-          "source": "Mixed fraction"
-        },
-        "comment": "id:a11y_mixed_fraction\nAccessibility label for the \"mixed fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exponent": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849558:0crwdne6849558:0",
-          "source": "Exponent"
-        },
-        "comment": "id:a11y_exponent\nAccessibility label for the \"exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_squared": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849560:0crwdne6849560:0",
-          "source": "Squared"
-        },
-        "comment": "id:a11y_squared\nAccessibility label for the \"squared\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_cubed": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849562:0crwdne6849562:0",
-          "source": "Cubed"
-        },
-        "comment": "id:a11y_cubed\nAccessibility label for the \"cubed\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_square_root": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849564:0crwdne6849564:0",
-          "source": "Square root"
-        },
-        "comment": "id:a11y_square_root\nAccessibility label for the \"square root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_cube_root": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849566:0crwdne6849566:0",
-          "source": "Cube root"
-        },
-        "comment": "id:a11y_cube_root\nAccessibility label for the \"cube root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_radical": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849568:0crwdne6849568:0",
-          "source": "Radical"
-        },
-        "comment": "id:a11y_radical\nAccessibility label for the \"radical\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_open_parenthesis": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849570:0crwdne6849570:0",
-          "source": "Open parenthesis"
-        },
-        "comment": "id:a11y_open_parenthesis\nAccessibility label for the \"Open parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_close_parenthesis": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849572:0crwdne6849572:0",
-          "source": "Close parenthesis"
-        },
-        "comment": "id:a11y_close_parenthesis\nAccessibility label for the \"close parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_natural_log": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849574:0crwdne6849574:0",
-          "source": "Natural log"
-        },
-        "comment": "id:a11y_natural_log\nAccessibility label for the \"natural log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_log": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849576:0crwdne6849576:0",
-          "source": "Log"
-        },
-        "comment": "id:a11y_log\nAccessibility label for the \"log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_log_n": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849578:0crwdne6849578:0",
-          "source": "Log N"
-        },
-        "comment": "id:a11y_log_n\nAccessibility label for the \"log n\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_sine": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849580:0crwdne6849580:0",
-          "source": "Sine"
-        },
-        "comment": "id:a11y_sine\nAccessibility label for the \"sine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_cosine": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849582:0crwdne6849582:0",
-          "source": "Cosine"
-        },
-        "comment": "id:a11y_cosine\nAccessibility label for the \"cosine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_tangent": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849584:0crwdne6849584:0",
-          "source": "Tangent"
-        },
-        "comment": "id:a11y_tangent\nAccessibility label for the \"tangent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_pi": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849586:0crwdne6849586:0",
-          "source": "Pi"
-        },
-        "comment": "id:a11y_pi\nAccessibility label for the \"pi\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_theta": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849588:0crwdne6849588:0",
-          "source": "Theta"
-        },
-        "comment": "id:a11y_theta\nAccessibility label for the \"theta\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exit_parenthesis": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849590:0crwdne6849590:0",
-          "source": "Exit parenthesis"
-        },
-        "comment": "id:a11y_exit_parenthesis\nAccessibility label for the \"exit parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exit_exponent": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849592:0crwdne6849592:0",
-          "source": "Exit exponent"
-        },
-        "comment": "id:a11y_exit_exponent\nAccessibility label for the \"exit exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exit_base": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849594:0crwdne6849594:0",
-          "source": "Exit base"
-        },
-        "comment": "id:a11y_exit_base\nAccessibility label for the \"exit base\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_enter_numerator": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849596:0crwdne6849596:0",
-          "source": "Enter numerator"
-        },
-        "comment": "id:a11y_enter_numerator\nAccessibility label for the \"enter numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exit_numerator": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849598:0crwdne6849598:0",
-          "source": "Exit numerator"
-        },
-        "comment": "id:a11y_exit_numerator\nAccessibility label for the \"exit numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_exit_denominator": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849600:0crwdne6849600:0",
-          "source": "Exit denominator"
-        },
-        "comment": "id:a11y_exit_denominator\nAccessibility label for the \"exit denominator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_zero": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849602:0crwdne6849602:0",
-          "source": "Zero"
-        },
-        "comment": "id:a11y_zero\nAccessibility label for the \"zero\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_one": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849604:0crwdne6849604:0",
-          "source": "One"
-        },
-        "comment": "id:a11y_one\nAccessibility label for the \"one\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_two": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849606:0crwdne6849606:0",
-          "source": "Two"
-        },
-        "comment": "id:a11y_two\nAccessibility label for the \"two\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_three": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849608:0crwdne6849608:0",
-          "source": "Three"
-        },
-        "comment": "id:a11y_three\nAccessibility label for the \"three\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_four": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849610:0crwdne6849610:0",
-          "source": "Four"
-        },
-        "comment": "id:a11y_four\nAccessibility label for the \"four\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_five": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849612:0crwdne6849612:0",
-          "source": "Five"
-        },
-        "comment": "id:a11y_five\nAccessibility label for the \"five\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_six": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849614:0crwdne6849614:0",
-          "source": "Six"
-        },
-        "comment": "id:a11y_six\nAccessibility label for the \"six\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_seven": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849616:0crwdne6849616:0",
-          "source": "Seven"
-        },
-        "comment": "id:a11y_seven\nAccessibility label for the \"seven\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_eight": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849618:0crwdne6849618:0",
-          "source": "Eight"
-        },
-        "comment": "id:a11y_eight\nAccessibility label for the \"eight\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_nine": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849620:0crwdne6849620:0",
-          "source": "Nine"
-        },
-        "comment": "id:a11y_nine\nAccessibility label for the \"nine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
-      },
-      "a11y_up": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849622:0crwdne6849622:0",
-          "source": "Up"
-        },
-        "comment": "id:a11y_up\nAccessibility label for the \"up\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
-      },
-      "a11y_down": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849624:0crwdne6849624:0",
-          "source": "Down"
-        },
-        "comment": "id:a11y_down\nAccessibility label for the \"down\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
-      },
-      "a11y_left": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849626:0crwdne6849626:0",
-          "source": "Left"
-        },
-        "comment": "id:a11y_left\nAccessibility label for the \"left\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
-      },
-      "a11y_right": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6849628:0crwdne6849628:0",
-          "source": "Right"
-        },
-        "comment": "id:a11y_right\nAccessibility label for the \"right\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "sot_ready_to_practice": {
         "form": {
@@ -5143,7 +4727,7 @@ var _default = {
           "translated": "crwdns6388823:0crwdne6388823:0",
           "source": "Dismiss"
         },
-        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
+        "comment": "id:dismiss_accessibility_label\nAccessibility label for the 'dismiss' icon/icon button.\nUsed in the following files:\nFile: /wonderblocks-rn/Icon/icon-assets.ts"
       },
       "hint_accessibility_label": {
         "form": {
@@ -5289,6 +4873,14 @@ var _default = {
         },
         "comment": "id:sound_effects\nCell title that navigates to sound-effects settings.\nUsed in the following files:\nFile: /Settings/utils.ts"
       },
+      "dark_mode": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8147886:0crwdne8147886:0",
+          "source": "Dark mode (experimental)"
+        },
+        "comment": "id:dark_mode\nCell title for toggling the experimental dark mode theme\nUsed in the following files:\nFile: /Settings/utils.ts"
+      },
       "mastery_challenge_camel_case": {
         "form": {
           "status": "approved",
@@ -5311,7 +4903,7 @@ var _default = {
           "translated": "crwdns6515170:0%(time)scrwdne6515170:0",
           "source": "You have %(time)s left to finish this Mastery challenge."
         },
-        "comment": "id:resumable_mastery_challenge_description\nTells the user how long they have until a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
+        "comment": "id:resumable_mastery_challenge_description\nTells the user how long they have until a mastery challenge expires.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx\nFile: /Course/Cards/__test__/MasteryChallengeCardDescription.test.tsx"
       },
       "inexact_resumable_mastery_challenge_description": {
         "form": {
@@ -5896,6 +5488,422 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "a11y_add": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849526:0crwdne6849526:0",
+          "source": "Add"
+        },
+        "comment": "id:a11y_add\nAccessibility label for the \"add\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_subtract": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849528:0crwdne6849528:0",
+          "source": "Subtract"
+        },
+        "comment": "id:a11y_subtract\nAccessibility label for the \"subtract\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_negative": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849530:0crwdne6849530:0",
+          "source": "Negative"
+        },
+        "comment": "id:a11y_negative\nAccessibility label for the \"negative\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_multiply": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849532:0crwdne6849532:0",
+          "source": "Multiply"
+        },
+        "comment": "id:a11y_multiply\nAccessibility label for the \"multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_divide": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849534:0crwdne6849534:0",
+          "source": "Divide"
+        },
+        "comment": "id:a11y_divide\nAccessibility label for the \"divide\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_decimal": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849536:0crwdne6849536:0",
+          "source": "Decimal"
+        },
+        "comment": "id:a11y_decimal\nAccessibility label for the \"decimal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_percent": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849538:0crwdne6849538:0",
+          "source": "Percent"
+        },
+        "comment": "id:a11y_percent\nAccessibility label for the \"percent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_dot": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849540:0crwdne6849540:0",
+          "source": "Dot"
+        },
+        "comment": "id:a11y_dot\nAccessibility label for the \"dot-multiply\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_equals": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849542:0crwdne6849542:0",
+          "source": "Equals"
+        },
+        "comment": "id:a11y_equals\nAccessibility label for the \"equals\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_not_equal": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849544:0crwdne6849544:0",
+          "source": "Not equal"
+        },
+        "comment": "id:a11y_not_equal\nAccessibility label for the \"not equal\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_greater_than": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849546:0crwdne6849546:0",
+          "source": "Greater than"
+        },
+        "comment": "id:a11y_greater_than\nAccessibility label for the \"greater than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_less_than": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849548:0crwdne6849548:0",
+          "source": "Less than"
+        },
+        "comment": "id:a11y_less_than\nAccessibility label for the \"less than\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_greater_than_or_equal_to": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849550:0crwdne6849550:0",
+          "source": "Greater than or equal to"
+        },
+        "comment": "id:a11y_greater_than_or_equal_to\nAccessibility label for the \"greater than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_less_than_or_equal_to": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849552:0crwdne6849552:0",
+          "source": "Less than or equal to"
+        },
+        "comment": "id:a11y_less_than_or_equal_to\nAccessibility label for the \"less than or equal to\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_fraction": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849554:0crwdne6849554:0",
+          "source": "Fraction"
+        },
+        "comment": "id:a11y_fraction\nAccessibility label for the \"fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_mixed_fraction": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849556:0crwdne6849556:0",
+          "source": "Mixed fraction"
+        },
+        "comment": "id:a11y_mixed_fraction\nAccessibility label for the \"mixed fraction\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exponent": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849558:0crwdne6849558:0",
+          "source": "Exponent"
+        },
+        "comment": "id:a11y_exponent\nAccessibility label for the \"exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_squared": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849560:0crwdne6849560:0",
+          "source": "Squared"
+        },
+        "comment": "id:a11y_squared\nAccessibility label for the \"squared\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_cubed": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849562:0crwdne6849562:0",
+          "source": "Cubed"
+        },
+        "comment": "id:a11y_cubed\nAccessibility label for the \"cubed\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_square_root": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849564:0crwdne6849564:0",
+          "source": "Square root"
+        },
+        "comment": "id:a11y_square_root\nAccessibility label for the \"square root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_cube_root": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849566:0crwdne6849566:0",
+          "source": "Cube root"
+        },
+        "comment": "id:a11y_cube_root\nAccessibility label for the \"cube root\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_radical": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849568:0crwdne6849568:0",
+          "source": "Radical"
+        },
+        "comment": "id:a11y_radical\nAccessibility label for the \"radical\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_open_parenthesis": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849570:0crwdne6849570:0",
+          "source": "Open parenthesis"
+        },
+        "comment": "id:a11y_open_parenthesis\nAccessibility label for the \"Open parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_close_parenthesis": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849572:0crwdne6849572:0",
+          "source": "Close parenthesis"
+        },
+        "comment": "id:a11y_close_parenthesis\nAccessibility label for the \"close parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_natural_log": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849574:0crwdne6849574:0",
+          "source": "Natural log"
+        },
+        "comment": "id:a11y_natural_log\nAccessibility label for the \"natural log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_log": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849576:0crwdne6849576:0",
+          "source": "Log"
+        },
+        "comment": "id:a11y_log\nAccessibility label for the \"log\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_log_n": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849578:0crwdne6849578:0",
+          "source": "Log N"
+        },
+        "comment": "id:a11y_log_n\nAccessibility label for the \"log n\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_sine": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849580:0crwdne6849580:0",
+          "source": "Sine"
+        },
+        "comment": "id:a11y_sine\nAccessibility label for the \"sine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_cosine": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849582:0crwdne6849582:0",
+          "source": "Cosine"
+        },
+        "comment": "id:a11y_cosine\nAccessibility label for the \"cosine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_tangent": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849584:0crwdne6849584:0",
+          "source": "Tangent"
+        },
+        "comment": "id:a11y_tangent\nAccessibility label for the \"tangent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_pi": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849586:0crwdne6849586:0",
+          "source": "Pi"
+        },
+        "comment": "id:a11y_pi\nAccessibility label for the \"pi\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_theta": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849588:0crwdne6849588:0",
+          "source": "Theta"
+        },
+        "comment": "id:a11y_theta\nAccessibility label for the \"theta\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exit_parenthesis": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849590:0crwdne6849590:0",
+          "source": "Exit parenthesis"
+        },
+        "comment": "id:a11y_exit_parenthesis\nAccessibility label for the \"exit parenthesis\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exit_exponent": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849592:0crwdne6849592:0",
+          "source": "Exit exponent"
+        },
+        "comment": "id:a11y_exit_exponent\nAccessibility label for the \"exit exponent\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exit_base": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849594:0crwdne6849594:0",
+          "source": "Exit base"
+        },
+        "comment": "id:a11y_exit_base\nAccessibility label for the \"exit base\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_enter_numerator": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849596:0crwdne6849596:0",
+          "source": "Enter numerator"
+        },
+        "comment": "id:a11y_enter_numerator\nAccessibility label for the \"enter numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exit_numerator": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849598:0crwdne6849598:0",
+          "source": "Exit numerator"
+        },
+        "comment": "id:a11y_exit_numerator\nAccessibility label for the \"exit numerator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_exit_denominator": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849600:0crwdne6849600:0",
+          "source": "Exit denominator"
+        },
+        "comment": "id:a11y_exit_denominator\nAccessibility label for the \"exit denominator\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_zero": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849602:0crwdne6849602:0",
+          "source": "Zero"
+        },
+        "comment": "id:a11y_zero\nAccessibility label for the \"zero\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_one": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849604:0crwdne6849604:0",
+          "source": "One"
+        },
+        "comment": "id:a11y_one\nAccessibility label for the \"one\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_two": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849606:0crwdne6849606:0",
+          "source": "Two"
+        },
+        "comment": "id:a11y_two\nAccessibility label for the \"two\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_three": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849608:0crwdne6849608:0",
+          "source": "Three"
+        },
+        "comment": "id:a11y_three\nAccessibility label for the \"three\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_four": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849610:0crwdne6849610:0",
+          "source": "Four"
+        },
+        "comment": "id:a11y_four\nAccessibility label for the \"four\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_five": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849612:0crwdne6849612:0",
+          "source": "Five"
+        },
+        "comment": "id:a11y_five\nAccessibility label for the \"five\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_six": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849614:0crwdne6849614:0",
+          "source": "Six"
+        },
+        "comment": "id:a11y_six\nAccessibility label for the \"six\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_seven": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849616:0crwdne6849616:0",
+          "source": "Seven"
+        },
+        "comment": "id:a11y_seven\nAccessibility label for the \"seven\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_eight": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849618:0crwdne6849618:0",
+          "source": "Eight"
+        },
+        "comment": "id:a11y_eight\nAccessibility label for the \"eight\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_nine": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849620:0crwdne6849620:0",
+          "source": "Nine"
+        },
+        "comment": "id:a11y_nine\nAccessibility label for the \"nine\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/key-config.ts"
+      },
+      "a11y_up": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849622:0crwdne6849622:0",
+          "source": "Up"
+        },
+        "comment": "id:a11y_up\nAccessibility label for the \"up\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
+      },
+      "a11y_down": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849624:0crwdne6849624:0",
+          "source": "Down"
+        },
+        "comment": "id:a11y_down\nAccessibility label for the \"down\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
+      },
+      "a11y_left": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849626:0crwdne6849626:0",
+          "source": "Left"
+        },
+        "comment": "id:a11y_left\nAccessibility label for the \"left\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
+      },
+      "a11y_right": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6849628:0crwdne6849628:0",
+          "source": "Right"
+        },
+        "comment": "id:a11y_right\nAccessibility label for the \"right\" button on our keypad\nUsed in the following files:\nFile: /Task/Exercise/Keypad/DirectionalPadButton.tsx"
       },
       "courses_picker_back_button": {
         "form": {
@@ -6711,7 +6719,7 @@ var _default = {
           "translated": "crwdns7353253:0crwdne7353253:0",
           "source": "Introducing support for Dutch!"
         },
-        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_dutch\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "introducing_azerbaijani": {
         "form": {
@@ -6719,7 +6727,7 @@ var _default = {
           "translated": "crwdns7569385:0crwdne7569385:0",
           "source": "Introducing support for Azerbaijani!"
         },
-        "comment": "id:introducing_azerbaijani\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_azerbaijani\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "introducing_hungarian": {
         "form": {
@@ -6727,7 +6735,7 @@ var _default = {
           "translated": "crwdns7569387:0crwdne7569387:0",
           "source": "Introducing support for Hungarian!"
         },
-        "comment": "id:introducing_hungarian\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_hungarian\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "introducing_marathi": {
         "form": {
@@ -6735,7 +6743,7 @@ var _default = {
           "translated": "crwdns7569389:0crwdne7569389:0",
           "source": "Introducing support for Marathi!"
         },
-        "comment": "id:introducing_marathi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_marathi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "introducing_punjabi": {
         "form": {
@@ -6743,7 +6751,7 @@ var _default = {
           "translated": "crwdns7569391:0crwdne7569391:0",
           "source": "Introducing support for Punjabi!"
         },
-        "comment": "id:introducing_punjabi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_punjabi\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "introducing_vietnamese": {
         "form": {
@@ -6751,7 +6759,7 @@ var _default = {
           "translated": "crwdns7569393:0crwdne7569393:0",
           "source": "Introducing support for Vietnamese!"
         },
-        "comment": "id:introducing_vietnamese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_vietnamese\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
       },
       "whats_new_deprecate_bookmark_widget": {
         "form": {
@@ -6759,7 +6767,15 @@ var _default = {
           "translated": "crwdns7569395:0crwdne7569395:0",
           "source": "By removing infrequently used features, we free up our small team to focus on building new ones. So, we’re saying goodbye to the widget that showcased your Bookmarks."
         },
-        "comment": "id:whats_new_deprecate_bookmark_widget\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:whats_new_deprecate_bookmark_widget\nUpdate notes for the \"What's New In This Version\" section of our App Store page. For context, check: https://itunes.apple.com/us/app/khan-academy/id469863705?mt=8"
+      },
+      "introducing_dark_mode": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8147098:0crwdne8147098:0",
+          "source": "Introducing Experimental Dark Mode! Dark Mode is currently available in select areas of the app. We have future plans to extend it everywhere, but for now, think of it as a moonlit sneak peek. The feature can be turned on and off under Settings."
+        },
+        "comment": "id:introducing_dark_mode\nWhat's new annoucement for experimental dark mode that will be used in-app and on the app stores\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
       },
       "introducing_gujarati": {
         "form": {
@@ -7161,7 +7177,7 @@ var _default = {
           "source": "Strengthen skills you've already practiced in just %(num)s questions.",
           "status": "approved"
         }],
-        "comment": "id:mastery_challenge_description\nDescribes what mastery challenge tasks are.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
+        "comment": "id:mastery_challenge_description\nDescribes what mastery challenge tasks are.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx\nFile: /Course/Cards/__test__/MasteryChallengeCardDescription.test.tsx"
       },
       "num_hours": {
         "forms": [{
@@ -7719,4 +7735,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.e92b01af.js.map
+//# sourceMappingURL=/render.0ea8c4f2.js.map
