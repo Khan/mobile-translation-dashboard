@@ -2633,6 +2633,14 @@ var _default = {
         },
         "comment": "id:or\nText that separates the Google and Facebook log in from password log in.\nUsed in the following files:\nFile: /LogIn/index.tsx"
       },
+      "error_logged_out": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8220048:0crwdne8220048:0",
+          "source": "An error has occurred, and you were signed out. Please sign in again."
+        },
+        "comment": "id:error_logged_out\nThe message of an alert that shows when your user session was invalidated\nUsed in the following files:\nFile: /shared/User/persistence.ts"
+      },
       "error_no_facebook_email_address": {
         "form": {
           "status": "approved",
@@ -2735,7 +2743,7 @@ var _default = {
           "translated": "crwdns6388901:0crwdne6388901:0",
           "source": "There was an issue signing in"
         },
-        "comment": "id:signInDefaultError\nAn error message for when the user is trying to login but an error occurs.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /shared/User/queries.ts"
+        "comment": "id:signInDefaultError\nAn error message for when the user is trying to login but an error occurs.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /shared/User/persistence.ts\nFile: /shared/User/queries.ts"
       },
       "signInGenericError": {
         "form": {
@@ -7735,4 +7743,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.0ea8c4f2.js.map
+//# sourceMappingURL=/render.33b93d3c.js.map
