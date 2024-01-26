@@ -2079,7 +2079,7 @@ var _default = {
           "translated": "crwdns6388151:0crwdne6388151:0",
           "source": "Assignments"
         },
-        "comment": "id:assignments\nAssignments screen / row header\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx\nFile: /shared/native/UserManager.ts"
+        "comment": "id:assignments\nAssignments screen / row header\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignmentsCard.tsx\nFile: /shared/native/UserManagerImpl.ts"
       },
       "upcoming_assignments": {
         "form": {
@@ -7743,4 +7743,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.33b93d3c.js.map
+//# sourceMappingURL=/render.0b865256.js.map
