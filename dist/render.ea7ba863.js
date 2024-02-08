@@ -1303,7 +1303,7 @@ var _default = {
           "translated": "crwdns6388035:0crwdne6388035:0",
           "source": "Download now"
         },
-        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.tsx"
+        "comment": "id:download_now\nButton text that will take you to the app store to install the khan kids app\nUsed in the following files:\nFile: /Home/Sections/KhanKids/KhanKidsCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "curriculum_picker_message": {
         "form": {
@@ -1311,7 +1311,7 @@ var _default = {
           "translated": "crwdns6450911:0crwdne6450911:0",
           "source": "Khan Academy supports many languages and regions."
         },
-        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
+        "comment": "id:curriculum_picker_message\nMessage for our Region Picker explore card, which points people to the region/language picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "select_language": {
         "form": {
@@ -1319,7 +1319,7 @@ var _default = {
           "translated": "crwdns6450913:0crwdne6450913:0",
           "source": "Select language"
         },
-        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
+        "comment": "id:select_language\nButton text that will take you to the region picker screen.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "change_language_settings": {
         "form": {
@@ -1351,7 +1351,7 @@ var _default = {
           "translated": "crwdns6388037:0crwdne6388037:0",
           "source": "Ready to start learning?"
         },
-        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Home Screen's Welcome Card\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx"
+        "comment": "id:explore_welcome_ready_to_start\nTitle/intro/attention-grabber on the Home Screen's Welcome Card\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "explore_sign_in_prompt": {
         "form": {
@@ -1359,7 +1359,7 @@ var _default = {
           "translated": "crwdns6821718:0crwdne6821718:0",
           "source": "Log in or sign up to save your progress as you work through courses on Khan Academy."
         },
-        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Home Screen's Welcome Card.\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx"
+        "comment": "id:explore_sign_in_prompt\nSubtitle below the 'Ready to start learning?' title/attention-grabber on the Home Screen's Welcome Card.\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "explore_domains_browse_khan": {
         "form": {
@@ -1959,7 +1959,7 @@ var _default = {
           "translated": "crwdns6388113:0crwdne6388113:0",
           "source": "Course challenge"
         },
-        "comment": "id:course_challenge\nTitle for course challenge card on the Course screen that directs the user to the challenge for that course\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx\nFile: /Course/CourseScreen.tsx\nFile: /Course/UnitList/CourseChallengeCell.tsx\nFile: /Course/UnitList/index.tsx\nFile: /shared/native/NavigationModule.ts"
+        "comment": "id:course_challenge\nTitle for course challenge card on the Course screen that directs the user to the challenge for that course\nUsed in the following files:\nFile: /Course/Cards/CourseChallengeCard.tsx\nFile: /Course/UnitList/CourseChallengeCell.tsx\nFile: /Course/UnitList/index.tsx\nFile: /Course/renderCourseScreenList.tsx\nFile: /shared/native/NavigationModule.ts"
       },
       "cc_card_last_attempt": {
         "form": {
@@ -2039,7 +2039,7 @@ var _default = {
           "translated": "crwdns6388137:0crwdne6388137:0",
           "source": "Sign in"
         },
-        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts"
+        "comment": "id:action_login\nButton text for logging in\nUsed in the following files:\nFile: /Home/Sections/Welcome/WelcomeCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx\nFile: /Settings/__test__/utils.test.ts\nFile: /Settings/utils.ts"
       },
       "action_logout": {
         "form": {
@@ -3831,7 +3831,7 @@ var _default = {
           "translated": "crwdns6388509:0crwdne6388509:0",
           "source": "Loading…"
         },
-        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Mastery/MasteryInfoBar.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx"
       },
       "exercise_not_available": {
         "form": {
@@ -4281,37 +4281,13 @@ var _default = {
         },
         "comment": "id:yesterday\nIndicates the assignment was due yesterday.\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
-      "completed_today": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388627:0%(num)scrwdne6388627:0",
-          "source": "Completed today, %(num)s"
-        },
-        "comment": "id:completed_today\nindicates the assignment was completed today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
-      },
-      "completed_yesterday": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388629:0%(num)scrwdne6388629:0",
-          "source": "Completed yesterday, %(num)s"
-        },
-        "comment": "id:completed_yesterday\nindicates the assignment was completed yesterday, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
-      },
-      "completed_date": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388631:0%(num1)scrwdnd6388631:0%(num2)scrwdne6388631:0",
-          "source": "Completed %(num1)s, %(num2)s"
-        },
-        "comment": "id:completed_date\nindicates the assignment was completed on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
-      },
       "not_started": {
         "form": {
           "status": "approved",
           "translated": "crwdns6388633:0crwdne6388633:0",
           "source": "Not Started"
         },
-        "comment": "id:not_started\nNot Started mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
+        "comment": "id:not_started\nNot Started mastery level.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "attempted": {
         "form": {
@@ -4319,7 +4295,7 @@ var _default = {
           "translated": "crwdns6388635:0crwdne6388635:0",
           "source": "Attempted"
         },
-        "comment": "id:attempted\nAttempted mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
+        "comment": "id:attempted\nAttempted mastery level.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "familiar": {
         "form": {
@@ -4327,7 +4303,7 @@ var _default = {
           "translated": "crwdns6388637:0crwdne6388637:0",
           "source": "Familiar"
         },
-        "comment": "id:familiar\nFamiliar mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
+        "comment": "id:familiar\nFamiliar mastery level.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "proficient": {
         "form": {
@@ -4335,7 +4311,7 @@ var _default = {
           "translated": "crwdns6388639:0crwdne6388639:0",
           "source": "Proficient"
         },
-        "comment": "id:proficient\nProficient mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
+        "comment": "id:proficient\nProficient mastery level.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "mastered": {
         "form": {
@@ -4343,7 +4319,7 @@ var _default = {
           "translated": "crwdns6388641:0crwdne6388641:0",
           "source": "Mastered"
         },
-        "comment": "id:mastered\nMastered mastery level.\nUsed in the following files:\nFile: /shared/Mastery/utils.ts"
+        "comment": "id:mastered\nMastered mastery level.\nUsed in the following files:\nFile: /shared/strings.ts"
       },
       "done": {
         "form": {
@@ -4863,7 +4839,7 @@ var _default = {
           "translated": "crwdns6388841:0crwdne6388841:0",
           "source": "You can learn anything"
         },
-        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx"
+        "comment": "id:you_can_learn_anything\nLabel for App Store and Play Store screenshots. Please see existing English screenshots on the App Store.\nUsed in the following files:\nFile: /Home/Sections/CurriculumPicker/CurriculumPickerCard.tsx\nFile: /Home/components/__docs__/HomeUpsellCard.stories.tsx"
       },
       "explore_our_library": {
         "form": {
@@ -4903,7 +4879,7 @@ var _default = {
           "translated": "crwdns6515169:0crwdne6515169:0",
           "source": "Mastery challenge"
         },
-        "comment": "id:mastery_challenge_sentence_case\nName of mastery challenge task type with only the first word capitalized.\nUsed in the following files:\nFile: /Course/CourseScreen.tsx"
+        "comment": "id:mastery_challenge_sentence_case\nName of mastery challenge task type with only the first word capitalized.\nUsed in the following files:\nFile: /Course/renderCourseScreenList.tsx"
       },
       "resumable_mastery_challenge_description": {
         "form": {
@@ -5496,6 +5472,30 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "completed_today": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388627:0%(num)scrwdne6388627:0",
+          "source": "Completed today, %(num)s"
+        },
+        "comment": "id:completed_today\nindicates the assignment was completed today, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
+      },
+      "completed_yesterday": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388629:0%(num)scrwdne6388629:0",
+          "source": "Completed yesterday, %(num)s"
+        },
+        "comment": "id:completed_yesterday\nindicates the assignment was completed yesterday, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
+      },
+      "completed_date": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388631:0%(num1)scrwdnd6388631:0%(num2)scrwdne6388631:0",
+          "source": "Completed %(num1)s, %(num2)s"
+        },
+        "comment": "id:completed_date\nindicates the assignment was completed on a given date, including the time\nUsed in the following files:\nFile: /Assignments/date-utils.ts"
       },
       "a11y_add": {
         "form": {
@@ -7743,4 +7743,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.0b865256.js.map
+//# sourceMappingURL=/render.ea7ba863.js.map
