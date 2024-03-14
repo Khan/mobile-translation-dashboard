@@ -1231,7 +1231,15 @@ var _default = {
           "translated": "crwdns6388031:0crwdne6388031:0",
           "source": "Error"
         },
-        "comment": "id:error\nTitle for an alert.\nUsed in the following files:\nFile: /AddCoaches/index.tsx\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /CoursesPicker/DoneNavigationButton.tsx\nFile: /redux/bookmarks/index.ts\nFile: /redux/bookmarks/persist-utils.ts\nFile: /shared/makeScreenDataLoader.tsx"
+        "comment": "id:error\nTitle for an alert.\nUsed in the following files:\nFile: /AddCoaches/index.tsx\nFile: /AppShell/index.tsx\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /CoursesPicker/DoneNavigationButton.tsx\nFile: /redux/bookmarks/index.ts\nFile: /redux/bookmarks/persist-utils.ts\nFile: /shared/makeScreenDataLoader.tsx"
+      },
+      "error_something_went_wrong": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8236080:0crwdne8236080:0",
+          "source": "Something went wrong."
+        },
+        "comment": "id:error_something_went_wrong\nAlert message to display when an unknown error occurred in the app.\nUsed in the following files:\nFile: /AppShell/index.tsx"
       },
       "explore": {
         "form": {
@@ -7743,4 +7751,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.ea7ba863.js.map
+//# sourceMappingURL=/render.a1715b10.js.map
