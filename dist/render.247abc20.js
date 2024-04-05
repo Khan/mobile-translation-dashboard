@@ -2753,6 +2753,22 @@ var _default = {
         },
         "comment": "id:signInDefaultError\nAn error message for when the user is trying to login but an error occurs.\nUsed in the following files:\nFile: /LogIn/PasswordLogin.tsx\nFile: /shared/User/persistence.ts\nFile: /shared/User/queries.ts"
       },
+      "signInLoginOrPassword": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8246638:0crwdne8246638:0",
+          "source": "Your login or password is incorrect."
+        },
+        "comment": "id:signInLoginOrPassword\nAn error message displayed when your login or password was incorrect.\nUsed in the following files:\nFile: /shared/User/queries.ts"
+      },
+      "signInTooManyRequests": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8246640:0crwdne8246640:0",
+          "source": "Sorry, you've made too many requests."
+        },
+        "comment": "id:signInTooManyRequests\nError message indicating that the device has made too many requests in too short a time.\nUsed in the following files:\nFile: /shared/User/queries.ts"
+      },
       "signInGenericError": {
         "form": {
           "status": "approved",
@@ -7751,4 +7767,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.a1715b10.js.map
+//# sourceMappingURL=/render.247abc20.js.map
