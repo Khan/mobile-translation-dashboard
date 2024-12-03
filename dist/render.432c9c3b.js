@@ -1353,6 +1353,14 @@ var _default = {
         },
         "comment": "id:language_wait_message\n\nUsed in the following files:\nFile: /Languages/index.tsx"
       },
+      "language_restart_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8391138:0crwdne8391138:0",
+          "source": "To apply the new language setting, please restart the app."
+        },
+        "comment": "id:language_restart_message\n\nUsed in the following files:\nFile: /Languages/index.tsx"
+      },
       "explore_welcome_ready_to_start": {
         "form": {
           "status": "approved",
@@ -1449,13 +1457,13 @@ var _default = {
         },
         "comment": "id:explore_loading_mastery_goals\nString shown in My Mastery Goals Card on Class Screen when mastery goals are loading and the card is empty\nUsed in the following files:\nFile: /ClassDetails/Cards/AssignedCourseAndUnitMasteryCard.tsx"
       },
-      "explore_loading_kmap": {
+      "explore_loading_learning_paths": {
         "form": {
           "status": "approved",
-          "translated": "crwdns6399423:0crwdne6399423:0",
-          "source": "Loading your MAP Accelerator..."
+          "translated": "crwdns8285788:0crwdne8285788:0",
+          "source": "Loading your Learning Paths..."
         },
-        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Home Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
+        "comment": "id:explore_loading_learning_paths\nString shown in My Learning Paths on Home Screen when assigned goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
       },
       "explore_no_assignments_explore_title": {
         "form": {
@@ -1825,13 +1833,13 @@ var _default = {
         },
         "comment": "id:no_assignments_subtitle\nDescription label that explains why there are no assignments in a classroom.\nUsed in the following files:\nFile: /ClassDetails/ClassDetailsScreen.tsx"
       },
-      "map_accelerator": {
+      "learning_paths": {
         "form": {
           "status": "approved",
-          "translated": "crwdns6821742:0crwdne6821742:0",
-          "source": "MAP Accelerator"
+          "translated": "crwdns8285790:0crwdne8285790:0",
+          "source": "Learning Paths"
         },
-        "comment": "id:map_accelerator\nLabel to describe the MAP Accelerator feature\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
+        "comment": "id:learning_paths\nLabel to describe the Learning Paths feature in the Class Assignment summary\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
       "no_active_classes": {
         "form": {
@@ -2209,13 +2217,13 @@ var _default = {
         },
         "comment": "id:assignments_nav_title_course_mastery\nNavigation bar title for the `Courses` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx"
       },
-      "assignments_nav_title_kmap": {
+      "assignments_nav_title_learning_paths": {
         "form": {
           "status": "approved",
-          "translated": "crwdns6399441:0crwdne6399441:0",
-          "source": "MAP Accelerator"
+          "translated": "crwdns8285792:0crwdne8285792:0",
+          "source": "Learning Paths"
         },
-        "comment": "id:assignments_nav_title_kmap\nNavigation bar title for the `MAP Accelerator` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
+        "comment": "id:assignments_nav_title_learning_paths\nNavigation bar title for the `Learning Paths` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
       },
       "assignments_see_more_button": {
         "form": {
@@ -5497,6 +5505,30 @@ var _default = {
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
       },
+      "explore_loading_kmap": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6399423:0crwdne6399423:0",
+          "source": "Loading your MAP Accelerator..."
+        },
+        "comment": "id:explore_loading_kmap\nString shown in My Map Accelerator Card on Home Screen when assigned kmap goals are loading and the card is empty\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
+      },
+      "map_accelerator": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6821742:0crwdne6821742:0",
+          "source": "MAP Accelerator"
+        },
+        "comment": "id:map_accelerator\nLabel to describe the MAP Accelerator feature\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
+      },
+      "assignments_nav_title_kmap": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6399441:0crwdne6399441:0",
+          "source": "MAP Accelerator"
+        },
+        "comment": "id:assignments_nav_title_kmap\nNavigation bar title for the `MAP Accelerator` screen.\nUsed in the following files:\nFile: /Assignments/AssignmentsScreen/index.tsx\nFile: /ClassDetails/Cards/AssignedKmapCard.tsx"
+      },
       "completed_today": {
         "form": {
           "status": "approved",
@@ -7767,4 +7799,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.247abc20.js.map
+//# sourceMappingURL=/render.432c9c3b.js.map
