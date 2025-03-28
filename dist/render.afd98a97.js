@@ -1679,7 +1679,7 @@ var _default = {
           "translated": "crwdns6389061:0crwdne6389061:0",
           "source": "This content isn't available in our app."
         },
-        "comment": "id:unavailable_content\n\nUsed in the following files:\nFile: /shared/makeScreenDataLoader.tsx\nFile: /shared/native/NavigationModule.ts"
+        "comment": "id:unavailable_content\n\nUsed in the following files:\nFile: /Task/Shell/Shell.tsx\nFile: /shared/makeScreenDataLoader.tsx\nFile: /shared/native/NavigationModule.ts"
       },
       "open_in_browser_accept": {
         "form": {
@@ -2489,13 +2489,45 @@ var _default = {
         },
         "comment": "id:last_name\nThe placeholder text for last name text input.\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
-      "birthday": {
+      "month": {
         "form": {
           "status": "approved",
-          "translated": "crwdns6388215:0crwdne6388215:0",
-          "source": "Birthday"
+          "translated": "crwdns8748631:0crwdne8748631:0",
+          "source": "Month"
         },
-        "comment": "id:birthday\nThe prompt for entering a birthday.\nUsed in the following files:\nFile: /SignUp/BirthdayInput.tsx"
+        "comment": "id:month\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /shared/strings.ts"
+      },
+      "year": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8748633:0crwdne8748633:0",
+          "source": "Year"
+        },
+        "comment": "id:year\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /shared/strings.ts"
+      },
+      "birthday_picker_label": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8748635:0crwdne8748635:0",
+          "source": "What is your date of birth?"
+        },
+        "comment": "id:birthday_picker_label\nThe label for the birthday picker in the signup screen\nUsed in the following files:\nFile: /shared/strings.ts"
+      },
+      "birthmonth": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8736143:0crwdne8736143:0",
+          "source": "Birth month"
+        },
+        "comment": "id:birthmonth\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
+      },
+      "birthyear": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8736145:0crwdne8736145:0",
+          "source": "Birth year"
+        },
+        "comment": "id:birthyear\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
       },
       "email_address": {
         "form": {
@@ -4359,7 +4391,7 @@ var _default = {
           "translated": "crwdns6388675:0crwdne6388675:0",
           "source": "Done"
         },
-        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /LoginInProgress/index.tsx\nFile: /SignUp/DatePickerOverlayIOS.tsx\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts\nFile: /Task/SkillsListTaskCard/index.tsx\nFile: /navigators/Settings.tsx"
+        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /LoginInProgress/index.tsx\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts\nFile: /Task/SkillsListTaskCard/index.tsx\nFile: /navigators/Settings.tsx"
       },
       "whats_new_title": {
         "form": {
@@ -4959,7 +4991,7 @@ var _default = {
           "translated": "crwdns6543257:0crwdne6543257:0",
           "source": "Challenge complete! 💪 Keep learning to unlock the next one."
         },
-        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Exercise/state/index.ts"
+        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Exercise/state/index.ts\nFile: /Task/Shell/MasteryChallengeShell.tsx"
       },
       "mastery_challenges_learn_more": {
         "form": {
@@ -5241,6 +5273,14 @@ var _default = {
         },
         "comment": "id:cannot_open_in_browser\n\nUsed in the following files:\nFile: /shared/native/NavigationModule.ts"
       },
+      "privacy_description_camera": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8738757:0crwdne8738757:0",
+          "source": "Enable camera access to attach photos in Khanmigo chats"
+        },
+        "comment": "id:privacy_description_camera\nShown to the user when they are asked to grant camera access\nUsed in the following files:\nFile: /shared/strings.ts"
+      },
       "aboutUs": {
         "form": {
           "status": "approved",
@@ -5504,6 +5544,14 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "birthday": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388215:0crwdne6388215:0",
+          "source": "Birthday"
+        },
+        "comment": "id:birthday\nThe prompt for entering a birthday.\nUsed in the following files:\nFile: /SignUp/BirthdayInput.tsx"
       },
       "explore_loading_kmap": {
         "form": {
@@ -6839,7 +6887,7 @@ var _default = {
           "translated": "crwdns8147098:0crwdne8147098:0",
           "source": "Introducing Experimental Dark Mode! Dark Mode is currently available in select areas of the app. We have future plans to extend it everywhere, but for now, think of it as a moonlit sneak peek. The feature can be turned on and off under Settings."
         },
-        "comment": "id:introducing_dark_mode\nWhat's new annoucement for experimental dark mode that will be used in-app and on the app stores\nUsed in the following files:\nFile: /AppUpdateMessage/whats-new-message.ts"
+        "comment": "id:introducing_dark_mode\nWhat's new annoucement for experimental dark mode that will be used in-app and on the app stores"
       },
       "introducing_gujarati": {
         "form": {
@@ -7799,4 +7847,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.432c9c3b.js.map
+//# sourceMappingURL=/render.afd98a97.js.map
