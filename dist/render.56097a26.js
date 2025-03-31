@@ -2495,7 +2495,7 @@ var _default = {
           "translated": "crwdns8748631:0crwdne8748631:0",
           "source": "Month"
         },
-        "comment": "id:month\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /shared/strings.ts"
+        "comment": "id:month\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
       },
       "year": {
         "form": {
@@ -2503,7 +2503,7 @@ var _default = {
           "translated": "crwdns8748633:0crwdne8748633:0",
           "source": "Year"
         },
-        "comment": "id:year\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /shared/strings.ts"
+        "comment": "id:year\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
       },
       "birthday_picker_label": {
         "form": {
@@ -2511,23 +2511,7 @@ var _default = {
           "translated": "crwdns8748635:0crwdne8748635:0",
           "source": "What is your date of birth?"
         },
-        "comment": "id:birthday_picker_label\nThe label for the birthday picker in the signup screen\nUsed in the following files:\nFile: /shared/strings.ts"
-      },
-      "birthmonth": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns8736143:0crwdne8736143:0",
-          "source": "Birth month"
-        },
-        "comment": "id:birthmonth\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
-      },
-      "birthyear": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns8736145:0crwdne8736145:0",
-          "source": "Birth year"
-        },
-        "comment": "id:birthyear\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
+        "comment": "id:birthday_picker_label\nThe label for the birthday picker in the signup screen\nUsed in the following files:\nFile: /SignUp/SignUpScreen.tsx"
       },
       "email_address": {
         "form": {
@@ -5545,6 +5529,22 @@ var _default = {
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
       },
+      "birthmonth": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8736143:0crwdne8736143:0",
+          "source": "Birth month"
+        },
+        "comment": "id:birthmonth\nThe prompt for entering a birth month.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
+      },
+      "birthyear": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns8736145:0crwdne8736145:0",
+          "source": "Birth year"
+        },
+        "comment": "id:birthyear\nThe prompt for entering a birth year.\nUsed in the following files:\nFile: /SignUp/BirthYearMonthInput.tsx"
+      },
       "birthday": {
         "form": {
           "status": "approved",
@@ -7847,4 +7847,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.afd98a97.js.map
+//# sourceMappingURL=/render.56097a26.js.map
