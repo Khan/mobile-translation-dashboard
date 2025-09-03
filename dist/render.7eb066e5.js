@@ -2079,7 +2079,7 @@ var _default = {
           "translated": "crwdns6388141:0crwdne6388141:0",
           "source": "Try again"
         },
-        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx\nFile: /Activities/ActivityScreen.tsx\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /Home/components/HomeHeader.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+        "comment": "id:try_again\nButton text for reloading\nUsed in the following files:\nFile: /Activities/ActivitiesListScreen.tsx\nFile: /Activities/ActivityScreen.tsx\nFile: /Assignments/AssignmentsScreen/AssignmentsScreenList.tsx\nFile: /Home/components/HomeHeader.tsx"
       },
       "settings_icon": {
         "form": {
@@ -2448,14 +2448,6 @@ var _default = {
           "source": "You completed these materials on %(num1)s."
         },
         "comment": "id:assignment_kmap_completed_alert_message\nMessage body for an alert that tells the learner they completed a kmap goal on a given date.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
-      },
-      "keep_going": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388193:0crwdne6388193:0",
-          "source": "Keep going!"
-        },
-        "comment": "id:keep_going\nDisplayed when learner does not reach 100%\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
       },
       "sign_up": {
         "form": {
@@ -3505,245 +3497,13 @@ var _default = {
         },
         "comment": "id:level_up_in_the_skills_above\nSubtitle on a quiz cell, which improves your mastery-level in the skills above it\nUsed in the following files:\nFile: /Unit/UnitScreenLargeLayoutLeftHandList.tsx"
       },
-      "nice_work": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388439:0crwdne6388439:0",
-          "source": "Nice work!"
-        },
-        "comment": "id:nice_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "good_work": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388441:0crwdne6388441:0",
-          "source": "Good work!"
-        },
-        "comment": "id:good_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "great_work": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388443:0crwdne6388443:0",
-          "source": "Great work!"
-        },
-        "comment": "id:great_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "not_quite": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388445:0crwdne6388445:0",
-          "source": "Not quite!"
-        },
-        "comment": "id:not_quite\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "give_it_another_shot": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388447:0crwdne6388447:0",
-          "source": "Give it another shot!"
-        },
-        "comment": "id:give_it_another_shot\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "not_quite_yet": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388449:0crwdne6388449:0",
-          "source": "Not quite yet..."
-        },
-        "comment": "id:not_quite_yet\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
       "way_to_go": {
         "form": {
           "status": "approved",
           "translated": "crwdns6388451:0crwdne6388451:0",
           "source": "Way to go!"
         },
-        "comment": "id:way_to_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "there_you_go": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388453:0crwdne6388453:0",
-          "source": "There you go!"
-        },
-        "comment": "id:there_you_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "you_improved_your_answer": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388455:0crwdne6388455:0",
-          "source": "You improved your answer!"
-        },
-        "comment": "id:you_improved_your_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "you_got_it": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388457:0crwdne6388457:0",
-          "source": "You got it!"
-        },
-        "comment": "id:you_got_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "almost_there": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388459:0crwdne6388459:0",
-          "source": "You're almost there!"
-        },
-        "comment": "id:almost_there\nExercise feedback text when a user has not met the question critera.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "step_by_step": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388461:0crwdne6388461:0",
-          "source": "Or see a step-by-step solution."
-        },
-        "comment": "id:step_by_step\nExercise feedback text that allows the user to see the solution.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "you_got_it_onward": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388463:0crwdne6388463:0",
-          "source": "You got it. Onward!"
-        },
-        "comment": "id:you_got_it_onward\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "get_help": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388465:0crwdne6388465:0",
-          "source": "Get help."
-        },
-        "comment": "id:get_help\nExercise feedback text that prompts the user to get a hint.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "skip_for_now": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388467:0crwdne6388467:0",
-          "source": "Skip for now."
-        },
-        "comment": "id:skip_for_now\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "move_on": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388469:0crwdne6388469:0",
-          "source": "Or move on."
-        },
-        "comment": "id:move_on\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "right_answer": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388471:0crwdne6388471:0",
-          "source": "That's the right answer. Keep practicing!"
-        },
-        "comment": "id:right_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "stuck_with_it": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388473:0crwdne6388473:0",
-          "source": "Great that you stuck with it. Onward!"
-        },
-        "comment": "id:stuck_with_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "you_got_it_persistence": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388475:0crwdne6388475:0",
-          "source": "You got it; keep up the great persistence."
-        },
-        "comment": "id:you_got_it_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "great_persistence": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388477:0crwdne6388477:0",
-          "source": "Keep up the great persistence!"
-        },
-        "comment": "id:great_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "check": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388479:0crwdne6388479:0",
-          "source": "Check"
-        },
-        "comment": "id:check\nText for a button that checks whether a problem attempt is correct.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
-      "next_question": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388481:0crwdne6388481:0",
-          "source": "Next question"
-        },
-        "comment": "id:next_question\nText for a button that moves on to the next question in an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
-      "check_again": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388483:0crwdne6388483:0",
-          "source": "Check again"
-        },
-        "comment": "id:check_again\nText for a button that allows the user to check a problem attempt again.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
-      "start_over": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7499873:0crwdne7499873:0",
-          "source": "Start over"
-        },
-        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx\nFile: /Task/Exercise/ActionBar/index.tsx"
-      },
-      "are_you_sure": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7499875:0crwdne7499875:0",
-          "source": "Are you sure?"
-        },
-        "comment": "id:are_you_sure\nHeading for a confirmation modal.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "start_over_lose_progress_warning": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7499877:0crwdne7499877:0",
-          "source": "You will lose your progress if you start over."
-        },
-        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "start_over_error_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7534863:0crwdne7534863:0",
-          "source": "We’re sorry, there’s been an error."
-        },
-        "comment": "id:start_over_error_title\nTitle for an error modal that appears when the user tries to start over on a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "start_over_error_already_restarted": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7534865:0crwdne7534865:0",
-          "source": "It looks like you already restarted this task on another device."
-        },
-        "comment": "id:start_over_error_already_restarted\nError message that appears when the user tries to start over on a task that they have already restarted.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "start_over_error_already_completed": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7534867:0crwdne7534867:0",
-          "source": "It looks like you already completed this task on another device."
-        },
-        "comment": "id:start_over_error_already_completed\nError message that appears when the user tries to start over on a task that they have already completed.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "start_over_error_unknown": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7534869:0crwdne7534869:0",
-          "source": "We encountered an error while attempting to restart this task. Please try again later."
-        },
-        "comment": "id:start_over_error_unknown\nError message that appears when the user tries to start over on a task and an unknown error occurs.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+        "comment": "id:way_to_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Assignments/ui-utils.tsx"
       },
       "close": {
         "form": {
@@ -3751,55 +3511,7 @@ var _default = {
           "translated": "crwdns7499879:0crwdne7499879:0",
           "source": "Close"
         },
-        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
-      },
-      "toggle_scratchpad": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns7088219:0crwdne7088219:0",
-          "source": "Toggle scratchpad"
-        },
-        "comment": "id:toggle_scratchpad\nAccessibility label for the scratchpad button, a button that hides and shows the scratchpad view during exercises.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.tsx"
-      },
-      "show_summary": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388485:0crwdne6388485:0",
-          "source": "Show summary"
-        },
-        "comment": "id:show_summary\nText for a button that allows the user to see the end of task card after completing an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
-      "stuck_hint": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388487:0crwdne6388487:0",
-          "source": "Stuck? Use a hint."
-        },
-        "comment": "id:stuck_hint\nText that prompts the user to use a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
-      },
-      "hint_alert_body": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6503887:0crwdne6503887:0",
-          "source": "If you use a hint, this problem won't count towards your progress."
-        },
-        "comment": "id:hint_alert_body\nText that describes the consequence of taking a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
-      },
-      "use_hint": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388493:0crwdne6388493:0",
-          "source": "Use hint"
-        },
-        "comment": "id:use_hint\nText that allows the user to see a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
-      },
-      "use_hint_question": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6503888:0crwdne6503888:0",
-          "source": "Use hint?"
-        },
-        "comment": "id:use_hint_question\nText that asks the user if they would like to take a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
+        "comment": "id:close\nText for the button to close a confirmation modal without taking the action it is asking the user to confirm.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx"
       },
       "cancel": {
         "form": {
@@ -3807,7 +3519,7 @@ var _default = {
           "translated": "crwdns6388495:0crwdne6388495:0",
           "source": "Cancel"
         },
-        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /Settings/AppIconPicker.tsx\nFile: /Settings/utils.ts\nFile: /SignUp/api-utils.ts\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx\nFile: /Task/Exercise/Scratchpad/index.tsx\nFile: /navigators/Home.tsx\nFile: /navigators/Settings.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts\nFile: /shared/native/DeepLinkModule.ts\nFile: /shared/native/NavigationModule.ts"
+        "comment": "id:cancel\nText that allows the user to cancel an action.\nUsed in the following files:\nFile: /Activities/ActivityHeaderLeft.tsx\nFile: /Curriculum/CurriculumScreen.tsx\nFile: /ManageCoaches/TeacherRow.tsx\nFile: /Settings/AppIconPicker.tsx\nFile: /Settings/utils.ts\nFile: /SignUp/api-utils.ts\nFile: /Task/Scratchpad/index.tsx\nFile: /navigators/Home.tsx\nFile: /navigators/Settings.tsx\nFile: /redux/bookmarks/bookmark-alerts-utils.ts\nFile: /shared/native/DeepLinkModule.ts\nFile: /shared/native/NavigationModule.ts"
       },
       "submit": {
         "form": {
@@ -3817,77 +3529,13 @@ var _default = {
         },
         "comment": "id:submit\nText that allows the user to submit a form.\nUsed in the following files:\nFile: /Activities/ActivityHeaderRight.tsx"
       },
-      "exercise_watch_a_video": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388497:0crwdne6388497:0",
-          "source": "Watch a video"
-        },
-        "comment": "id:exercise_watch_a_video\nText that prompts the user to watch a video.\nUsed in the following files:\nFile: /Task/Exercise/Help/RelatedVideos.tsx"
-      },
-      "exercise_error_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388499:0crwdne6388499:0",
-          "source": "Error making task progress"
-        },
-        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts\nFile: /Task/Exercise/state/online.ts"
-      },
-      "exercise_error_message": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388501:0crwdne6388501:0",
-          "source": "We encountered an error while attempting to make progress in this task; please try again later."
-        },
-        "comment": "id:exercise_error_message\nMessage for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts"
-      },
-      "exercise_error_accept": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388503:0crwdne6388503:0",
-          "source": "Okay"
-        },
-        "comment": "id:exercise_error_accept\nAction label to exit an exercise after an error has occurred.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts"
-      },
-      "error_loading_exercise_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6499679:0crwdne6499679:0",
-          "source": "Oh no!"
-        },
-        "comment": "id:error_loading_exercise_title\nScreen header-title for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
-      },
-      "error_loading_exercise_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6499681:0crwdne6499681:0",
-          "source": "We weren't able to load this exercise."
-        },
-        "comment": "id:error_loading_exercise_description\nScreen description for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
-      },
-      "checking": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388507:0crwdne6388507:0",
-          "source": "Checking..."
-        },
-        "comment": "id:checking\nButton text that indicates a problem attempt is being checked.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
       "loading_completion_data": {
         "form": {
           "status": "approved",
           "translated": "crwdns6388509:0crwdne6388509:0",
           "source": "Loading…"
         },
-        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Mastery/MasteryInfoBar.tsx\nFile: /Task/Exercise/ActionBar/Button.tsx"
-      },
-      "exercise_not_available": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388511:0crwdne6388511:0",
-          "source": "This exercise is not available in our app; please complete it on the web."
-        },
-        "comment": "id:exercise_not_available\nModal text that indicates the exercise cannot be completed in the app.\nUsed in the following files:\nFile: /Task/Exercise/state/online.ts"
+        "comment": "id:loading_completion_data\nButton text that indicates completion data is loading.\nUsed in the following files:\nFile: /Mastery/MasteryInfoBar.tsx"
       },
       "hide_scratchpad": {
         "form": {
@@ -3895,7 +3543,7 @@ var _default = {
           "translated": "crwdns6824346:0crwdne6824346:0",
           "source": "Hide scratchpad"
         },
-        "comment": "id:hide_scratchpad\nTitle for a button that hides the scratchpad\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/Toolbar.tsx\nFile: /shared/components/SketchView/PencilKitSketchView.tsx"
+        "comment": "id:hide_scratchpad\nTitle for a button that hides the scratchpad\nUsed in the following files:\nFile: /Task/Scratchpad/Toolbar.tsx\nFile: /shared/components/SketchView/PencilKitSketchView.tsx"
       },
       "erase_drawing": {
         "form": {
@@ -3903,7 +3551,7 @@ var _default = {
           "translated": "crwdns6824348:0crwdne6824348:0",
           "source": "Erase drawing?"
         },
-        "comment": "id:erase_drawing\nTitle for an alert confirming that the learner wants to erase the entire drawing.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.tsx"
+        "comment": "id:erase_drawing\nTitle for an alert confirming that the learner wants to erase the entire drawing.\nUsed in the following files:\nFile: /Task/Scratchpad/index.tsx"
       },
       "erase": {
         "form": {
@@ -3911,247 +3559,7 @@ var _default = {
           "translated": "crwdns6824350:0crwdne6824350:0",
           "source": "Erase"
         },
-        "comment": "id:erase\nButton title to erase something.\nUsed in the following files:\nFile: /Task/Exercise/Scratchpad/index.tsx"
-      },
-      "sot_ready_to_practice": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474129:0crwdne6474129:0",
-          "source": "Ready to practice?"
-        },
-        "comment": "id:sot_ready_to_practice\nScreen title shown before starting a practice exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "lets_go": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474131:0crwdne6474131:0",
-          "source": "Let's go"
-        },
-        "comment": "id:lets_go\nButton title to start an exercise, quiz, or unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_warning_cannot_level_up_with_practice": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474133:0crwdne6474133:0",
-          "source": "You can’t level up with practice anymore. Take a unit test or course challenge to reach mastery!"
-        },
-        "comment": "id:sot_warning_cannot_level_up_with_practice\nWarning shown before practicing an exercise, that the learner should take a unit test or course challenge instead, because they cannot level-up by doing a practice exercise for this skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_warning_already_mastered": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474135:0crwdne6474135:0",
-          "source": "You’re already a master of this skill — there are no more levels to reach on this practice!"
-        },
-        "comment": "id:sot_warning_already_mastered\nWarning shown before practicing an exercie, that the learner is already mastered and cannot level-up in practice.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_keep_going_keep_growing": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6508123:0crwdne6508123:0",
-          "source": "Keep going. Keep growing. 💪"
-        },
-        "comment": "id:eot_keep_going_keep_growing\nEnd-of-task card title, often used when the mastery level did not change.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_leveled_up": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474139:0crwdne6474139:0",
-          "source": "🔥 Awesome! You leveled up! 🔥"
-        },
-        "comment": "id:eot_leveled_up\nScreen title to celebrate a level-up in mastery skill at the end of a practice task. The fire-emoji should be at the start and end of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_keep_practicing": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474141:0crwdne6474141:0",
-          "source": "📚 Keep on practicing!"
-        },
-        "comment": "id:eot_keep_practicing\nScreen title to encourage a learner to keep trying on a practice task; it is shown if the learner lost a mastery level or did not level up. The book-emoji should be at the start of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_leveled_down_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474143:0crwdne6474143:0",
-          "source": "You leveled down this time.  Not to worry — keep practicing this skill and you’ll ace it next time!"
-        },
-        "comment": "id:eot_leveled_down_description\nExplanatory text shown when a learner lost a mastery level after practicing a skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_level_did_not_change_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474145:0crwdne6474145:0",
-          "source": "Your level stayed the same.  Keep on practicing and you’ll level up in no time!"
-        },
-        "comment": "id:eot_level_did_not_change_description\nExplanatory text shown when there was no change to your mastery level after an exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_take_unit_test_or_course_challenge": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474147:0crwdne6474147:0",
-          "source": "Take a unit test or course challenge to level up."
-        },
-        "comment": "id:eot_take_unit_test_or_course_challenge\nExplanatory text that tells the learner to take a unit test or course challenge to improve their mastery level.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_energy_points_short_format": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474149:0%(num1)scrwdne6474149:0",
-          "source": "%(num1)s energy pts"
-        },
-        "comment": "id:eot_energy_points_short_format\nSummary information about the number of energy points earned from an activity. The word `points` is truncated to `pts` in english, to save space, so if you have a shorter version of the word `points` available, please use it!\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
-      },
-      "eot_fraction_correct": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474151:0%(num1)dcrwdnd6474151:0%(num2)dcrwdne6474151:0",
-          "source": "%(num1)d/%(num2)d correct"
-        },
-        "comment": "id:eot_fraction_correct\nSummary information about the fraction of questions-correct divided by the questions-incorrect, eg `4/5 correct`. num1 = number correct, num2 = total.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
-      },
-      "sot_time_for_a_quiz": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474153:0crwdne6474153:0",
-          "source": "Time for a quiz?"
-        },
-        "comment": "id:sot_time_for_a_quiz\nScreen title shown before a learner takes a quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_quiz_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474155:0crwdne6474155:0",
-          "source": "Get ready for questions on the unit so far."
-        },
-        "comment": "id:sot_quiz_description\nScreen description shown before a learner takes a quiz, explaining that the quiz contains questions from the unit so-far.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_warning_quiz_already_proficient_or_mastered": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474159:0crwdne6474159:0",
-          "source": "You’re already proficient or a master of these skills — there are no more levels to reach!"
-        },
-        "comment": "id:sot_warning_quiz_already_proficient_or_mastered\nWarning banner shown on start-of-task screen for a quiz if the learner is already proficient and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_warning_unit_test_already_mastered": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474161:0crwdne6474161:0",
-          "source": "You already mastered these skills — there are no more levels to reach!"
-        },
-        "comment": "id:sot_warning_unit_test_already_mastered\nWarning banner shown on start-of-task screen for a unit test if the learner is already mastered and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_unit_test_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474163:0crwdne6474163:0",
-          "source": "All set for the unit test?"
-        },
-        "comment": "id:sot_unit_test_title\nScreen title shown before a learner takes a unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_unit_test_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474165:0crwdne6474165:0",
-          "source": "Welcome to the unit test — where you get to test your skills for the entire unit!"
-        },
-        "comment": "id:sot_unit_test_description\nScreen description shown before a learner takes a unit test, explaining that the test will cover everything in the unit.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_course_challenge_title": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474353:0crwdne6474353:0",
-          "source": "Ready for the Course Challenge?"
-        },
-        "comment": "id:sot_course_challenge_title\nScreen title shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_course_challenge_description_1": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474355:0crwdne6474355:0",
-          "source": "That's right. Test your course skills in a challenge!"
-        },
-        "comment": "id:sot_course_challenge_description_1\nScreen description (part 1 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_course_challenge_description_2": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474357:0crwdne6474357:0",
-          "source": "Put everything you've learned to the test and show what you know."
-        },
-        "comment": "id:sot_course_challenge_description_2\nScreen description (part 2 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_minutes_estimate": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474359:0%(num1)scrwdnd6474359:0%(num2)scrwdne6474359:0",
-          "source": "%(num1)s–%(num2)s minutes"
-        },
-        "comment": "id:sot_minutes_estimate\nTime estimate for an exercise, quiz, or unit test, e.g. `4-6 minutes`.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "sot_exercise_description": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474179:0crwdne6474179:0",
-          "source": "Okay, show us what you can do!"
-        },
-        "comment": "id:sot_exercise_description\nDescriptive text before an exercise that encourages the learner to show us what they know!\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_summary_leveled_up": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474167:0crwdne6474167:0",
-          "source": "Leveled up"
-        },
-        "comment": "id:eot_summary_leveled_up\nSection title for the number-of-skills leveled-up during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "eot_summary_leveled_down": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474169:0crwdne6474169:0",
-          "source": "Leveled down"
-        },
-        "comment": "id:eot_summary_leveled_down\nSection title for the number-of-skills leveled-down during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "eot_summary_no_change": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474171:0crwdne6474171:0",
-          "source": "No change"
-        },
-        "comment": "id:eot_summary_no_change\nSection title for the number-of-skills that did not change during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "eot_summary_not_tested": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474173:0crwdne6474173:0",
-          "source": "Not tested"
-        },
-        "comment": "id:eot_summary_not_tested\nSection title for the number-of-skills that were not tested in a unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "eot_summary_overall": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474175:0crwdne6474175:0",
-          "source": "Overall"
-        },
-        "comment": "id:eot_summary_overall\nSection title for summary information about X/Y correct and energy-points-earned in a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "eot_summary_not_tested_explanation": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6474177:0crwdne6474177:0",
-          "source": "Some skills from the unit did not appear on this test. Re-take the test for the chance to level up on those skills."
-        },
-        "comment": "id:eot_summary_not_tested_explanation\nText in an alert that explains that some skills were not included in the unit test, and that the learner can repeat the unit test to try and have those skills covered.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
-      "skill_level_changes": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388561:0crwdne6388561:0",
-          "source": "Skill level changes"
-        },
-        "comment": "id:skill_level_changes\nSubtitle for skill level changes on the start of task card.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/index.tsx"
+        "comment": "id:erase\nButton title to erase something.\nUsed in the following files:\nFile: /Task/Scratchpad/index.tsx"
       },
       "unit_possible_mastery_points": {
         "form": {
@@ -4224,38 +3632,6 @@ var _default = {
           "source": "Unable to load video.\nCheck your connection\nand tap to try again."
         },
         "comment": "id:video_error\nError displayed when the data required to display a video screen could not be fetched.\nUsed in the following files:\nFile: /Video/streaming.tsx"
-      },
-      "unit_test_error": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388593:0crwdne6388593:0",
-          "source": "Unable to load this unit test.\nCheck your connection\nand tap to try again."
-        },
-        "comment": "id:unit_test_error\nError displayed when the data required to display a unit test could not be fetched.\nUsed in the following files:\nFile: /Task/Quiz/index.tsx\nFile: /Task/UnitTest/index.tsx"
-      },
-      "course_challenge_error": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6388597:0crwdne6388597:0",
-          "source": "Unable to load this course challenge.\nCheck your connection\nand tap to try again."
-        },
-        "comment": "id:course_challenge_error\nError displayed when the data required to display a course challenge could not be fetched.\nUsed in the following files:\nFile: /Task/CourseChallenge/index.tsx"
-      },
-      "exercise_error": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6399485:0crwdne6399485:0",
-          "source": "Unable to load this exercise.\nCheck your connection\nand tap to try again."
-        },
-        "comment": "id:exercise_error\nError displayed when the data required to display a exercise could not be fetched.\nUsed in the following files:\nFile: /Task/Exercise/index.tsx"
-      },
-      "mastery_challenge_error": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6543256:0crwdne6543256:0",
-          "source": "Unable to load this mastery challenge.\nCheck your connection\nand tap to try again."
-        },
-        "comment": "id:mastery_challenge_error\nError displayed when the data required to display a mastery challenge could not be fetched.\nUsed in the following files:\nFile: /Task/MasteryChallenge/index.tsx"
       },
       "due_tomorrow": {
         "form": {
@@ -4375,7 +3751,7 @@ var _default = {
           "translated": "crwdns6388675:0crwdne6388675:0",
           "source": "Done"
         },
-        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /LoginInProgress/index.tsx\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts\nFile: /Task/SkillsListTaskCard/index.tsx\nFile: /navigators/Settings.tsx"
+        "comment": "id:done\nText for a done button\nUsed in the following files:\nFile: /BookmarksScreen/EditButton.tsx\nFile: /CoursesPicker/SelectCourses.tsx\nFile: /LoginInProgress/index.tsx\nFile: /navigators/Settings.tsx"
       },
       "whats_new_title": {
         "form": {
@@ -4535,7 +3911,7 @@ var _default = {
           "translated": "crwdns6388761:0crwdne6388761:0",
           "source": "Up next"
         },
-        "comment": "id:up_next\nHeading for the video screen section displaying related content\nUsed in the following files:\nFile: /Article/ArticleWebview.tsx\nFile: /Video/Details/UpNext/ContentItemCell.tsx\nFile: /Video/Details/UpNext/UpNextView.tsx"
+        "comment": "id:up_next\nHeading for the video screen section displaying related content\nUsed in the following files:\nFile: /Video/Details/UpNext/ContentItemCell.tsx\nFile: /Video/Details/UpNext/UpNextView.tsx"
       },
       "part_of_lesson": {
         "form": {
@@ -4679,7 +4055,7 @@ var _default = {
           "translated": "crwdns6388797:0crwdne6388797:0",
           "source": "Retry"
         },
-        "comment": "id:retry\nAccessibility label for the retry button.\nUsed in the following files:\nFile: /Task/index.tsx\nFile: /Video/Controls/MiddleControlsView.tsx\nFile: /redux/bookmarks/download/download-utils.ts"
+        "comment": "id:retry\nAccessibility label for the retry button.\nUsed in the following files:\nFile: /Video/Controls/MiddleControlsView.tsx\nFile: /redux/bookmarks/download/download-utils.ts"
       },
       "info_accessibility_label": {
         "form": {
@@ -4975,15 +4351,7 @@ var _default = {
           "translated": "crwdns6543257:0crwdne6543257:0",
           "source": "Challenge complete! 💪 Keep learning to unlock the next one."
         },
-        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Exercise/state/index.ts\nFile: /Task/Shell/MasteryChallengeShell.tsx"
-      },
-      "mastery_challenges_learn_more": {
-        "form": {
-          "status": "approved",
-          "translated": "crwdns6550126:0crwdne6550126:0",
-          "source": "Learn more about Mastery challenges"
-        },
-        "comment": "id:mastery_challenges_learn_more\nLink to learn more about how mastery challenges work\nUsed in the following files:\nFile: /Task/MasteryChallenge/LearnMoreLink.tsx"
+        "comment": "id:mastery_challenge_toast\nText for a notification that appears after a user completes a mastery challenge\nUsed in the following files:\nFile: /Task/Shell/MasteryChallengeShell.tsx"
       },
       "learn_more": {
         "form": {
@@ -5528,6 +4896,638 @@ var _default = {
           "source": "You are about to use a service outside of Khan Academy. Normal data rates apply."
         },
         "comment": "id:zeroRatingServiceMessage\nBody for alert appearing when user tries to use a third-party service (e.g. for login) on a zero-rated network\nplatform: ios"
+      },
+      "keep_going": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388193:0crwdne6388193:0",
+          "source": "Keep going!"
+        },
+        "comment": "id:keep_going\nDisplayed when learner does not reach 100%\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "nice_work": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388439:0crwdne6388439:0",
+          "source": "Nice work!"
+        },
+        "comment": "id:nice_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "good_work": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388441:0crwdne6388441:0",
+          "source": "Good work!"
+        },
+        "comment": "id:good_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "great_work": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388443:0crwdne6388443:0",
+          "source": "Great work!"
+        },
+        "comment": "id:great_work\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "not_quite": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388445:0crwdne6388445:0",
+          "source": "Not quite!"
+        },
+        "comment": "id:not_quite\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "give_it_another_shot": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388447:0crwdne6388447:0",
+          "source": "Give it another shot!"
+        },
+        "comment": "id:give_it_another_shot\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "not_quite_yet": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388449:0crwdne6388449:0",
+          "source": "Not quite yet..."
+        },
+        "comment": "id:not_quite_yet\nExercise feedback text when a user has answered incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "there_you_go": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388453:0crwdne6388453:0",
+          "source": "There you go!"
+        },
+        "comment": "id:there_you_go\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "you_improved_your_answer": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388455:0crwdne6388455:0",
+          "source": "You improved your answer!"
+        },
+        "comment": "id:you_improved_your_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "you_got_it": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388457:0crwdne6388457:0",
+          "source": "You got it!"
+        },
+        "comment": "id:you_got_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "almost_there": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388459:0crwdne6388459:0",
+          "source": "You're almost there!"
+        },
+        "comment": "id:almost_there\nExercise feedback text when a user has not met the question critera.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "step_by_step": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388461:0crwdne6388461:0",
+          "source": "Or see a step-by-step solution."
+        },
+        "comment": "id:step_by_step\nExercise feedback text that allows the user to see the solution.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "you_got_it_onward": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388463:0crwdne6388463:0",
+          "source": "You got it. Onward!"
+        },
+        "comment": "id:you_got_it_onward\nExercise feedback text when a user has answered correctly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "get_help": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388465:0crwdne6388465:0",
+          "source": "Get help."
+        },
+        "comment": "id:get_help\nExercise feedback text that prompts the user to get a hint.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "skip_for_now": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388467:0crwdne6388467:0",
+          "source": "Skip for now."
+        },
+        "comment": "id:skip_for_now\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "move_on": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388469:0crwdne6388469:0",
+          "source": "Or move on."
+        },
+        "comment": "id:move_on\nExercise feedback text that allows the user to skip the question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "right_answer": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388471:0crwdne6388471:0",
+          "source": "That's the right answer. Keep practicing!"
+        },
+        "comment": "id:right_answer\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "stuck_with_it": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388473:0crwdne6388473:0",
+          "source": "Great that you stuck with it. Onward!"
+        },
+        "comment": "id:stuck_with_it\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "you_got_it_persistence": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388475:0crwdne6388475:0",
+          "source": "You got it; keep up the great persistence."
+        },
+        "comment": "id:you_got_it_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "great_persistence": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388477:0crwdne6388477:0",
+          "source": "Keep up the great persistence!"
+        },
+        "comment": "id:great_persistence\nExercise feedback text when a user has answered correctly after answering incorrectly.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "check": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388479:0crwdne6388479:0",
+          "source": "Check"
+        },
+        "comment": "id:check\nText for a button that checks whether a problem attempt is correct.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+      },
+      "next_question": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388481:0crwdne6388481:0",
+          "source": "Next question"
+        },
+        "comment": "id:next_question\nText for a button that moves on to the next question in an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+      },
+      "check_again": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388483:0crwdne6388483:0",
+          "source": "Check again"
+        },
+        "comment": "id:check_again\nText for a button that allows the user to check a problem attempt again.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+      },
+      "start_over": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499873:0crwdne7499873:0",
+          "source": "Start over"
+        },
+        "comment": "id:start_over\nText for the start over button, which allows the user to restart a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx\nFile: /Task/Exercise/ActionBar/index.tsx"
+      },
+      "are_you_sure": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499875:0crwdne7499875:0",
+          "source": "Are you sure?"
+        },
+        "comment": "id:are_you_sure\nHeading for a confirmation modal.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "start_over_lose_progress_warning": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7499877:0crwdne7499877:0",
+          "source": "You will lose your progress if you start over."
+        },
+        "comment": "id:start_over_lose_progress_warning\nWarns the user that they will lose their progress on a task if they start it over.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "start_over_error_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534863:0crwdne7534863:0",
+          "source": "We’re sorry, there’s been an error."
+        },
+        "comment": "id:start_over_error_title\nTitle for an error modal that appears when the user tries to start over on a task.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "start_over_error_already_restarted": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534865:0crwdne7534865:0",
+          "source": "It looks like you already restarted this task on another device."
+        },
+        "comment": "id:start_over_error_already_restarted\nError message that appears when the user tries to start over on a task that they have already restarted.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "start_over_error_already_completed": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534867:0crwdne7534867:0",
+          "source": "It looks like you already completed this task on another device."
+        },
+        "comment": "id:start_over_error_already_completed\nError message that appears when the user tries to start over on a task that they have already completed.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "start_over_error_unknown": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7534869:0crwdne7534869:0",
+          "source": "We encountered an error while attempting to restart this task. Please try again later."
+        },
+        "comment": "id:start_over_error_unknown\nError message that appears when the user tries to start over on a task and an unknown error occurs.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/StartOverModal.tsx"
+      },
+      "toggle_scratchpad": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns7088219:0crwdne7088219:0",
+          "source": "Toggle scratchpad"
+        },
+        "comment": "id:toggle_scratchpad\nAccessibility label for the scratchpad button, a button that hides and shows the scratchpad view during exercises.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/index.tsx"
+      },
+      "show_summary": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388485:0crwdne6388485:0",
+          "source": "Show summary"
+        },
+        "comment": "id:show_summary\nText for a button that allows the user to see the end of task card after completing an exercise.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+      },
+      "stuck_hint": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388487:0crwdne6388487:0",
+          "source": "Stuck? Use a hint."
+        },
+        "comment": "id:stuck_hint\nText that prompts the user to use a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
+      },
+      "hint_alert_body": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6503887:0crwdne6503887:0",
+          "source": "If you use a hint, this problem won't count towards your progress."
+        },
+        "comment": "id:hint_alert_body\nText that describes the consequence of taking a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
+      },
+      "use_hint": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388493:0crwdne6388493:0",
+          "source": "Use hint"
+        },
+        "comment": "id:use_hint\nText that allows the user to see a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
+      },
+      "use_hint_question": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6503888:0crwdne6503888:0",
+          "source": "Use hint?"
+        },
+        "comment": "id:use_hint_question\nText that asks the user if they would like to take a hint.\nUsed in the following files:\nFile: /Task/Exercise/Help/GetHintHelpPrompt.tsx"
+      },
+      "exercise_watch_a_video": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388497:0crwdne6388497:0",
+          "source": "Watch a video"
+        },
+        "comment": "id:exercise_watch_a_video\nText that prompts the user to watch a video.\nUsed in the following files:\nFile: /Task/Exercise/Help/RelatedVideos.tsx"
+      },
+      "exercise_error_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388499:0crwdne6388499:0",
+          "source": "Error making task progress"
+        },
+        "comment": "id:exercise_error_title\nTitle for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts\nFile: /Task/Exercise/state/online.ts"
+      },
+      "exercise_error_message": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388501:0crwdne6388501:0",
+          "source": "We encountered an error while attempting to make progress in this task; please try again later."
+        },
+        "comment": "id:exercise_error_message\nMessage for an alert that is displayed upon error during an exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts\nFile: /Task/Exercise/state/mastery.ts"
+      },
+      "exercise_error_accept": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388503:0crwdne6388503:0",
+          "source": "Okay"
+        },
+        "comment": "id:exercise_error_accept\nAction label to exit an exercise after an error has occurred.\nUsed in the following files:\nFile: /Task/Exercise/state/error-utils.ts"
+      },
+      "error_loading_exercise_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6499679:0crwdne6499679:0",
+          "source": "Oh no!"
+        },
+        "comment": "id:error_loading_exercise_title\nScreen header-title for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
+      },
+      "error_loading_exercise_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6499681:0crwdne6499681:0",
+          "source": "We weren't able to load this exercise."
+        },
+        "comment": "id:error_loading_exercise_description\nScreen description for an exercise that could not be loaded.\nUsed in the following files:\nFile: /Task/index.tsx"
+      },
+      "checking": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388507:0crwdne6388507:0",
+          "source": "Checking..."
+        },
+        "comment": "id:checking\nButton text that indicates a problem attempt is being checked.\nUsed in the following files:\nFile: /Task/Exercise/ActionBar/Button.tsx"
+      },
+      "exercise_not_available": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388511:0crwdne6388511:0",
+          "source": "This exercise is not available in our app; please complete it on the web."
+        },
+        "comment": "id:exercise_not_available\nModal text that indicates the exercise cannot be completed in the app.\nUsed in the following files:\nFile: /Task/Exercise/state/online.ts"
+      },
+      "sot_ready_to_practice": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474129:0crwdne6474129:0",
+          "source": "Ready to practice?"
+        },
+        "comment": "id:sot_ready_to_practice\nScreen title shown before starting a practice exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "lets_go": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474131:0crwdne6474131:0",
+          "source": "Let's go"
+        },
+        "comment": "id:lets_go\nButton title to start an exercise, quiz, or unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_warning_cannot_level_up_with_practice": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474133:0crwdne6474133:0",
+          "source": "You can’t level up with practice anymore. Take a unit test or course challenge to reach mastery!"
+        },
+        "comment": "id:sot_warning_cannot_level_up_with_practice\nWarning shown before practicing an exercise, that the learner should take a unit test or course challenge instead, because they cannot level-up by doing a practice exercise for this skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_warning_already_mastered": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474135:0crwdne6474135:0",
+          "source": "You’re already a master of this skill — there are no more levels to reach on this practice!"
+        },
+        "comment": "id:sot_warning_already_mastered\nWarning shown before practicing an exercie, that the learner is already mastered and cannot level-up in practice.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_keep_going_keep_growing": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6508123:0crwdne6508123:0",
+          "source": "Keep going. Keep growing. 💪"
+        },
+        "comment": "id:eot_keep_going_keep_growing\nEnd-of-task card title, often used when the mastery level did not change.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_leveled_up": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474139:0crwdne6474139:0",
+          "source": "🔥 Awesome! You leveled up! 🔥"
+        },
+        "comment": "id:eot_leveled_up\nScreen title to celebrate a level-up in mastery skill at the end of a practice task. The fire-emoji should be at the start and end of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_keep_practicing": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474141:0crwdne6474141:0",
+          "source": "📚 Keep on practicing!"
+        },
+        "comment": "id:eot_keep_practicing\nScreen title to encourage a learner to keep trying on a practice task; it is shown if the learner lost a mastery level or did not level up. The book-emoji should be at the start of the string.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_leveled_down_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474143:0crwdne6474143:0",
+          "source": "You leveled down this time.  Not to worry — keep practicing this skill and you’ll ace it next time!"
+        },
+        "comment": "id:eot_leveled_down_description\nExplanatory text shown when a learner lost a mastery level after practicing a skill.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_level_did_not_change_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474145:0crwdne6474145:0",
+          "source": "Your level stayed the same.  Keep on practicing and you’ll level up in no time!"
+        },
+        "comment": "id:eot_level_did_not_change_description\nExplanatory text shown when there was no change to your mastery level after an exercise.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_take_unit_test_or_course_challenge": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474147:0crwdne6474147:0",
+          "source": "Take a unit test or course challenge to level up."
+        },
+        "comment": "id:eot_take_unit_test_or_course_challenge\nExplanatory text that tells the learner to take a unit test or course challenge to improve their mastery level.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_energy_points_short_format": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474149:0%(num1)scrwdne6474149:0",
+          "source": "%(num1)s energy pts"
+        },
+        "comment": "id:eot_energy_points_short_format\nSummary information about the number of energy points earned from an activity. The word `points` is truncated to `pts` in english, to save space, so if you have a shorter version of the word `points` available, please use it!\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
+      },
+      "eot_fraction_correct": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474151:0%(num1)dcrwdnd6474151:0%(num2)dcrwdne6474151:0",
+          "source": "%(num1)d/%(num2)d correct"
+        },
+        "comment": "id:eot_fraction_correct\nSummary information about the fraction of questions-correct divided by the questions-incorrect, eg `4/5 correct`. num1 = number correct, num2 = total.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/utils.ts"
+      },
+      "sot_time_for_a_quiz": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474153:0crwdne6474153:0",
+          "source": "Time for a quiz?"
+        },
+        "comment": "id:sot_time_for_a_quiz\nScreen title shown before a learner takes a quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_quiz_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474155:0crwdne6474155:0",
+          "source": "Get ready for questions on the unit so far."
+        },
+        "comment": "id:sot_quiz_description\nScreen description shown before a learner takes a quiz, explaining that the quiz contains questions from the unit so-far.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_warning_quiz_already_proficient_or_mastered": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474159:0crwdne6474159:0",
+          "source": "You’re already proficient or a master of these skills — there are no more levels to reach!"
+        },
+        "comment": "id:sot_warning_quiz_already_proficient_or_mastered\nWarning banner shown on start-of-task screen for a quiz if the learner is already proficient and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_warning_unit_test_already_mastered": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474161:0crwdne6474161:0",
+          "source": "You already mastered these skills — there are no more levels to reach!"
+        },
+        "comment": "id:sot_warning_unit_test_already_mastered\nWarning banner shown on start-of-task screen for a unit test if the learner is already mastered and cannot level-up from taking the quiz.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_unit_test_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474163:0crwdne6474163:0",
+          "source": "All set for the unit test?"
+        },
+        "comment": "id:sot_unit_test_title\nScreen title shown before a learner takes a unit test.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_unit_test_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474165:0crwdne6474165:0",
+          "source": "Welcome to the unit test — where you get to test your skills for the entire unit!"
+        },
+        "comment": "id:sot_unit_test_description\nScreen description shown before a learner takes a unit test, explaining that the test will cover everything in the unit.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_course_challenge_title": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474353:0crwdne6474353:0",
+          "source": "Ready for the Course Challenge?"
+        },
+        "comment": "id:sot_course_challenge_title\nScreen title shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_course_challenge_description_1": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474355:0crwdne6474355:0",
+          "source": "That's right. Test your course skills in a challenge!"
+        },
+        "comment": "id:sot_course_challenge_description_1\nScreen description (part 1 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_course_challenge_description_2": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474357:0crwdne6474357:0",
+          "source": "Put everything you've learned to the test and show what you know."
+        },
+        "comment": "id:sot_course_challenge_description_2\nScreen description (part 2 of 2) shown before a learner takes a course challenge.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_minutes_estimate": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474359:0%(num1)scrwdnd6474359:0%(num2)scrwdne6474359:0",
+          "source": "%(num1)s–%(num2)s minutes"
+        },
+        "comment": "id:sot_minutes_estimate\nTime estimate for an exercise, quiz, or unit test, e.g. `4-6 minutes`.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "sot_exercise_description": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474179:0crwdne6474179:0",
+          "source": "Okay, show us what you can do!"
+        },
+        "comment": "id:sot_exercise_description\nDescriptive text before an exercise that encourages the learner to show us what they know!\nUsed in the following files:\nFile: /Task/SimpleTaskCard/__test__/utils.test.ts\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_summary_leveled_up": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474167:0crwdne6474167:0",
+          "source": "Leveled up"
+        },
+        "comment": "id:eot_summary_leveled_up\nSection title for the number-of-skills leveled-up during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "eot_summary_leveled_down": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474169:0crwdne6474169:0",
+          "source": "Leveled down"
+        },
+        "comment": "id:eot_summary_leveled_down\nSection title for the number-of-skills leveled-down during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "eot_summary_no_change": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474171:0crwdne6474171:0",
+          "source": "No change"
+        },
+        "comment": "id:eot_summary_no_change\nSection title for the number-of-skills that did not change during a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "eot_summary_not_tested": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474173:0crwdne6474173:0",
+          "source": "Not tested"
+        },
+        "comment": "id:eot_summary_not_tested\nSection title for the number-of-skills that were not tested in a unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "eot_summary_overall": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474175:0crwdne6474175:0",
+          "source": "Overall"
+        },
+        "comment": "id:eot_summary_overall\nSection title for summary information about X/Y correct and energy-points-earned in a quiz or unit test.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "eot_summary_not_tested_explanation": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6474177:0crwdne6474177:0",
+          "source": "Some skills from the unit did not appear on this test. Re-take the test for the chance to level up on those skills."
+        },
+        "comment": "id:eot_summary_not_tested_explanation\nText in an alert that explains that some skills were not included in the unit test, and that the learner can repeat the unit test to try and have those skills covered.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
+      },
+      "skill_level_changes": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388561:0crwdne6388561:0",
+          "source": "Skill level changes"
+        },
+        "comment": "id:skill_level_changes\nSubtitle for skill level changes on the start of task card.\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/index.tsx"
+      },
+      "unit_test_error": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388593:0crwdne6388593:0",
+          "source": "Unable to load this unit test.\nCheck your connection\nand tap to try again."
+        },
+        "comment": "id:unit_test_error\nError displayed when the data required to display a unit test could not be fetched.\nUsed in the following files:\nFile: /Task/Quiz/index.tsx\nFile: /Task/UnitTest/index.tsx"
+      },
+      "course_challenge_error": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6388597:0crwdne6388597:0",
+          "source": "Unable to load this course challenge.\nCheck your connection\nand tap to try again."
+        },
+        "comment": "id:course_challenge_error\nError displayed when the data required to display a course challenge could not be fetched.\nUsed in the following files:\nFile: /Task/CourseChallenge/index.tsx"
+      },
+      "exercise_error": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6399485:0crwdne6399485:0",
+          "source": "Unable to load this exercise.\nCheck your connection\nand tap to try again."
+        },
+        "comment": "id:exercise_error\nError displayed when the data required to display a exercise could not be fetched.\nUsed in the following files:\nFile: /Task/Exercise/index.tsx"
+      },
+      "mastery_challenge_error": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6543256:0crwdne6543256:0",
+          "source": "Unable to load this mastery challenge.\nCheck your connection\nand tap to try again."
+        },
+        "comment": "id:mastery_challenge_error\nError displayed when the data required to display a mastery challenge could not be fetched.\nUsed in the following files:\nFile: /Task/MasteryChallenge/index.tsx"
+      },
+      "mastery_challenges_learn_more": {
+        "form": {
+          "status": "approved",
+          "translated": "crwdns6550126:0crwdne6550126:0",
+          "source": "Learn more about Mastery challenges"
+        },
+        "comment": "id:mastery_challenges_learn_more\nLink to learn more about how mastery challenges work\nUsed in the following files:\nFile: /Task/MasteryChallenge/LearnMoreLink.tsx"
       },
       "birthmonth": {
         "form": {
@@ -7135,54 +7135,6 @@ var _default = {
         }],
         "comment": "id:clear_filter\nButton title for clearing search filters from search results.\nUsed in the following files:\nFile: /Explore/ClearFilterHeader.tsx"
       },
-      "keep_it_up": {
-        "forms": [{
-          "translated": "crwdns6389101:1%(num)scrwdne6389101:1",
-          "source": "Keep it up for %(num)s more.",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6389101:5%(num)scrwdne6389101:5",
-          "source": "Keep it up for %(num)s more.",
-          "status": "approved"
-        }],
-        "comment": "id:keep_it_up\nExercise feedback text when a user has answered a question correctly and has one or more questions left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "questions_done": {
-        "forms": [{
-          "translated": "crwdns6389103:1%(num)scrwdne6389103:1",
-          "source": "%(num)s question done, keep going!",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6389103:5%(num)scrwdne6389103:5",
-          "source": "%(num)s questions done, keep going!",
-          "status": "approved"
-        }],
-        "comment": "id:questions_done\nExercise feedback text when a user has answered one or more question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "you_got_it_more": {
-        "forms": [{
-          "translated": "crwdns6389105:1%(num)scrwdne6389105:1",
-          "source": "You got it. %(num)s more!",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6389105:5%(num)scrwdne6389105:5",
-          "source": "You got it. %(num)s more!",
-          "status": "approved"
-        }],
-        "comment": "id:you_got_it_more\nExercise feedback text when a user has answered a question correctly and has one more question left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
-      },
-      "do_n_problems": {
-        "forms": [{
-          "translated": "crwdns6389107:1%(num)scrwdne6389107:1",
-          "source": "Do %(num)s problem",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6389107:5%(num)scrwdne6389107:5",
-          "source": "Do %(num)s problems",
-          "status": "approved"
-        }],
-        "comment": "id:do_n_problems\nCompletion criteria when there are one or more problems in the exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/completion-criteria-utils.ts"
-      },
       "n_course_mastery_goals": {
         "forms": [{
           "translated": "crwdns6821780:1%(num)scrwdne6821780:1",
@@ -7243,30 +7195,6 @@ var _default = {
         }],
         "comment": "id:n_assignments_overdue\nSummary count of the number of assignments overdue.\nUsed in the following files:\nFile: /MyClasses/ui-utils.ts"
       },
-      "sot_question_count": {
-        "forms": [{
-          "translated": "crwdns6474181:1%(num)scrwdne6474181:1",
-          "source": "%(num)s question",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6474181:5%(num)scrwdne6474181:5",
-          "source": "%(num)s questions",
-          "status": "approved"
-        }],
-        "comment": "id:sot_question_count\nText that shows the current number of questions in the upcoming task, including exercises, quizzes, and unit tests.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
-      },
-      "eot_skills_count": {
-        "forms": [{
-          "translated": "crwdns6474185:1%(num)scrwdne6474185:1",
-          "source": "%(num)s skill",
-          "status": "approved"
-        }, {
-          "translated": "crwdns6474185:5%(num)scrwdne6474185:5",
-          "source": "%(num)s skills",
-          "status": "approved"
-        }],
-        "comment": "id:eot_skills_count\nLabel that explains that num1 skills were included in a quiz or test, eg \"4 skills\" or \"1 skill\".\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
-      },
       "num_lessons": {
         "forms": [{
           "translated": "crwdns6410381:1%(num)scrwdne6410381:1",
@@ -7326,6 +7254,78 @@ var _default = {
           "status": "approved"
         }],
         "comment": "id:num_seconds\nNumber of seconds.\nUsed in the following files:\nFile: /Course/Cards/MasteryChallengeCardDescription.tsx"
+      },
+      "keep_it_up": {
+        "forms": [{
+          "translated": "crwdns6389101:1%(num)scrwdne6389101:1",
+          "source": "Keep it up for %(num)s more.",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6389101:5%(num)scrwdne6389101:5",
+          "source": "Keep it up for %(num)s more.",
+          "status": "approved"
+        }],
+        "comment": "id:keep_it_up\nExercise feedback text when a user has answered a question correctly and has one or more questions left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "questions_done": {
+        "forms": [{
+          "translated": "crwdns6389103:1%(num)scrwdne6389103:1",
+          "source": "%(num)s question done, keep going!",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6389103:5%(num)scrwdne6389103:5",
+          "source": "%(num)s questions done, keep going!",
+          "status": "approved"
+        }],
+        "comment": "id:questions_done\nExercise feedback text when a user has answered one or more question.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "you_got_it_more": {
+        "forms": [{
+          "translated": "crwdns6389105:1%(num)scrwdne6389105:1",
+          "source": "You got it. %(num)s more!",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6389105:5%(num)scrwdne6389105:5",
+          "source": "You got it. %(num)s more!",
+          "status": "approved"
+        }],
+        "comment": "id:you_got_it_more\nExercise feedback text when a user has answered a question correctly and has one more question left.\nUsed in the following files:\nFile: /Task/Exercise/ExerciseFeedback/utils.tsx"
+      },
+      "do_n_problems": {
+        "forms": [{
+          "translated": "crwdns6389107:1%(num)scrwdne6389107:1",
+          "source": "Do %(num)s problem",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6389107:5%(num)scrwdne6389107:5",
+          "source": "Do %(num)s problems",
+          "status": "approved"
+        }],
+        "comment": "id:do_n_problems\nCompletion criteria when there are one or more problems in the exercise.\nUsed in the following files:\nFile: /Task/Exercise/state/completion-criteria-utils.ts"
+      },
+      "sot_question_count": {
+        "forms": [{
+          "translated": "crwdns6474181:1%(num)scrwdne6474181:1",
+          "source": "%(num)s question",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6474181:5%(num)scrwdne6474181:5",
+          "source": "%(num)s questions",
+          "status": "approved"
+        }],
+        "comment": "id:sot_question_count\nText that shows the current number of questions in the upcoming task, including exercises, quizzes, and unit tests.\nUsed in the following files:\nFile: /Task/SimpleTaskCard/utils.ts"
+      },
+      "eot_skills_count": {
+        "forms": [{
+          "translated": "crwdns6474185:1%(num)scrwdne6474185:1",
+          "source": "%(num)s skill",
+          "status": "approved"
+        }, {
+          "translated": "crwdns6474185:5%(num)scrwdne6474185:5",
+          "source": "%(num)s skills",
+          "status": "approved"
+        }],
+        "comment": "id:eot_skills_count\nLabel that explains that num1 skills were included in a quiz or test, eg \"4 skills\" or \"1 skill\".\nUsed in the following files:\nFile: /Task/SkillsListTaskCard/SkillsListTaskCardHeader.tsx"
       },
       "tablet_quiz_cell_title": {
         "forms": [{
@@ -7840,4 +7840,4 @@ if (root) {
   (0, _reactDom.render)(React.createElement(App, null), root);
 }
 },{"deep-equal":"koiw","react":"1n8/","react-dom":"NKHc","./data.js":"paDP","./utils":"FO+Z","./String":"LOR1"}]},{},["I3Wr"], null)
-//# sourceMappingURL=/render.91911ab7.js.map
+//# sourceMappingURL=/render.7eb066e5.js.map
